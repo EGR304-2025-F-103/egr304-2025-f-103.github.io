@@ -7,7 +7,12 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. To improve familiarity of github and VSC to become proficient enough to combine and create professional websites
+2. To increase the ability to think outside the box for a solution when finding a problem. 
+3. To Learn how to communicate and manuever around multiple shedules sucessfully while working on a professional product. 
+4. To print and create a working product that can be used in a real life setting. 
+5. To become profficient in programming microchips with the ability to be able to research other programs and broaden our thinking and creating ability. 
+ 
 
 ## Communication Channels
 
@@ -15,19 +20,24 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Isaac Smith|  Text | Call | Email |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is cellphones, with the preference of texting. 
  
 ## Communication Procedures
 
 1. How will your team communicate?
+
+We will comunicate by texting and will respond to text messages within 24 hours. 
+
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+
+
 
 ## Meeting Schedule
 
