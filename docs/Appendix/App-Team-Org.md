@@ -22,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Isaac Smith|  Text | Call | Email |
 |Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
+|Seth Merwin|  Discord | Text | Email |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
