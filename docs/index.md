@@ -28,5 +28,5 @@ Professor Name<br>
 | ---------------------- | -----------------------|
 | Isaac Smith            | [Isaac.GitHub](isrysm52.github.io) |
 | Christo Jomon Joseph   | [Christo.Github](https://chvisto.github.io/) |
-| Name #3                | link |
+| Seth Alexander Merwin  | [samerwin1.github](https://samerwin1.github.io) |
 | Name #4                | link |
