@@ -45,20 +45,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | I   | - | -   | - | -   | -   | - |
+| 8:00 AM | I  | - | -   | - | -   | -   | - |
 | 9:00 AM | I   | - | -   | - | -   | -   | - |
 | 10:00 AM | I  | - | -   | - | -   | -   | - |
 | 11:00 AM | I  | I | -   | I | -   | -   | - |
-| 12:00 PM | I  | I | -   | I | -   | -   | - |
-| 1:00 PM | I   | I | -   | I | -   | -   | - |
-| 2:00 PM | I   | I | -   | I | -   | -   | - |
-| 3:00 PM | I   | - | -   | - | -   | -   | - |
-| 4:00 PM | I   | - | I   | - | I   | -   | - |
-| 5:00 PM | I,S | - | I,S | - | I,S | -   | I |
-| 6:00 PM | I,S | I | I,S | - | I,S |  S  | I,S |
-| 7:00 PM | I,S | I | I,S | - | I,S | I,S | I,S |
-| 8:00 PM | I,S | I | I,S | - | I,S | I,S | I,S |
-| 9:00 PM | I,S | I | I,S | - | I,S | I,S | I,S |
+| 12:00 PM | I  | I | -   | I | -   | C   | - |
+| 1:00 PM | I,C   | I | -   | I | -   | C   | - |
+| 2:00 PM | I,C   | I | -   | I | -   | C   | - |
+| 3:00 PM | I,C   | - | -   | - | -   | C   | - |
+| 4:00 PM | I,C   | - | I   | - | I   | C   | - |
+| 5:00 PM | I,S,C | - | I,S,C | - | I,S,C | C   | I |
+| 6:00 PM | I,S,C | I | I,S,C | - | I,S,C |  C  | I,S,C |
+| 7:00 PM | I,S,C | I,C | I,S,C | - | I,S,C | I,S,C | I,S,C |
+| 8:00 PM | I,S,C | I,C | I,S,C | - | I,S,C | I,S,C | I,S,C |
+| 9:00 PM | I,S,C | I,C | I,S,C | - | I,S,C | I,S,C | I,S,C |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -91,7 +91,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Meeting leader: Isaac Smith    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder: Seth Merwin  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader:  | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor:    | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Project monitor: Christo Jomon Joseph   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 •	Change roles after each project sub-process<br>
 •	Roles will rotate in a rolling fashion<br>
@@ -132,5 +132,5 @@ By adding your name and initials here you are herby adhering to join scheduled m
 | :----------- | :-------: |
 |Isaac Smith | IS |
 |Seth Merwin | SM |
-| - | - |
+|Christo Jomon Joseph| CJJ |
 | - | - |
