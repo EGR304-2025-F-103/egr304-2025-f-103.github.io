@@ -105,6 +105,8 @@ C: In case that there is a clear imbalance of assigned work on the project, the 
 ## Signatures
 
 By adding your name and initials here you are herby adhering to join scheduled meetings and finish asignments at the specified completion date. 
+| Name | Initials |
+| ----- | ------ |
 |Isaac Smith| IS|
 |---| ---|
 |---| ---|
