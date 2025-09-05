@@ -7,11 +7,12 @@ tags:
 <center>
 <font size="8">Project Name<br>
 <font size="5">Team 103<br>
-**Submission: month, DD, YYYY**<br>
+<font size="5">Isaac Smith, Christo Joseph, Seth Merwin, Lakshanand Sugumar
+**Submission: September, 05, 2025**<br>
 Fall 2025<br>
-<font size="4">Arizona State University<br>
-**EGR 304**<br>
-Daniel Aukes<br>
+<font size="4">Arizona State University,
+**EGR 304**,
+Dr. Daniel M. Aukes<br>
   
 
 </center>
