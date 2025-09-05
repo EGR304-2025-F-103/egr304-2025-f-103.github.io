@@ -20,10 +20,10 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Isaac Smith|  Text | Call | Email |
-|Member 2 |  ? | ? | ? |
-|Seth Merwin|  Discord | Text | Email |
-|Member 4 |  ? | ? | ? |
+|Isaac Smith        |  Text | Call | Email |
+|Christo            |  Call | Text | Email |
+|Seth Merwin        |  Discord | Text | Email |
+|Lakshanand Sugumar |  Text | Call | Email |
 
 ### Main Method for Group Communication
 
@@ -64,7 +64,7 @@ _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
+| Isaac | I |
 | Mary | M |
 | Zane | Z |
 | Felicity | F |
