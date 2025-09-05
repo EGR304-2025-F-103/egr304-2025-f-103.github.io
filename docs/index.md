@@ -6,7 +6,7 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 103<br>
 **Submission: month, DD, YYYY**<br>
 Semester and Year<br>
 <font size="4">Arizona State University<br>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Isaac Smith            | [Isaac.GitHub](isrysm52.github.io) |
 | Christo Jomon Joseph   | [Christo.Github](https://chvisto.github.io/) |
 | Name #3                | link |
 | Name #4                | link |
