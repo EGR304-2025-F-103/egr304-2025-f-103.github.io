@@ -13,9 +13,6 @@ tags:
 4. To print and create a working product that can be used in a real life setting. 
 5. To better understand the engineering process from consumer-needs to working prototype. 
  
-## Product Mission Statement
-
-*insert here
 
 ## Communication Channels
 
@@ -106,7 +103,15 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Team Coordination & Accountability
 
-*insert here
+•	For each assignment, establish one person to submit it to Canvas when completed. Have individuals ‘sign off’ on each assignment through the main communication channel.<br>
+•	Have a meeting at the beginning of each assignment to identify any potential unreadiness, and if so, create a plan to solve it.<br>
+•	Have each individual take notes on the design review and have a meeting to discuss it.<br>
+•	First lack of contribution is a warning/discussion, second is pink-slip/relayed to professor.<br>
+•	Reference the charter and point out/communicate deviations when necessary.<br>
+•	Be watchful for lack of contribution, communication, quality, etc. to notice if a teammate is underperforming.<br>
+•	Have honest conversations with underperforming teammates and make use of other team members’ strengths and/or external resources.<br>
+•	If improvement is not seen, team warning/discussion and then pink slip/professor involvement.<br>
+
 
 ## Conflict Recognition & Resolution
 
