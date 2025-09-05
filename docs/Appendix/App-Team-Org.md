@@ -96,12 +96,12 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader:  | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor:    | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
-•	Change roles after each project sub-process
-•	Roles will rotate in a rolling fashion
-•	Hold each other accountable and ask for/provide help when necessary
-•	If someone is falling behind, have an honest conversation and discuss solutions
-•	Reminders in communication channels about due dates and milestones/check Canvas regularly
-•	Technical responsibilities will be assigned based on what is most relevant to each individuals strengths and/or subsystem
+•	Change roles after each project sub-process<br>
+•	Roles will rotate in a rolling fashion<br>
+•	Hold each other accountable and ask for/provide help when necessary<br>
+•	If someone is falling behind, have an honest conversation and discuss solutions<br>
+•	Reminders in communication channels about due dates and milestones/check Canvas regularly<br>
+•	Technical responsibilities will be assigned based on what is most relevant to each individuals strengths and/or subsystem<br>
 
 
 ## Team Coordination & Accountability
@@ -122,10 +122,11 @@ C: In the case that there is a clear imbalance of assigned work on the project, 
 
 ## Signatures
 
-By adding your name and initials here you are herby adhering to join scheduled meetings and finish assignments at the specified completion date. 
+By adding your name and initials here you are herby adhering to join scheduled meetings and finish assignments at the specified completion date. <br>
+
 | Name         | Initials |
-| :----------- | :------- |
-|Isaac Smith| IS |
-|Seth Merwin| SM |
+| :----------- | :-------: |
+|Isaac Smith | IS |
+|Seth Merwin | SM |
 | - | - |
 | - | - |
