@@ -26,7 +26,7 @@ Daniel Aukes<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Isaac Smith            | [Isaac.GitHub](isrysm52.github.io) |
+| Isaac Smith            | [Isaac.GitHub](https://isrysm52.github.io/) |
 | Christo Jomon Joseph   | [Christo.Github](https://chvisto.github.io/) |
 | Seth Alexander Merwin  | [samerwin1.github](https://samerwin1.github.io) |
 | Name #4                | link |
