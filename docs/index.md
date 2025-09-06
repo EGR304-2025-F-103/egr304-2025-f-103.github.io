@@ -29,4 +29,4 @@ Fall 2025<br>
 | Isaac Smith           | [Isaac.GitHub](https://isrysm52.github.io/)          |
 | Christo Jomon Joseph  | [Christo.Github](https://chvisto.github.io/)         |
 | Seth Alexander Merwin | [Seth.github](https://samerwin1.github.io)           |
-| Name #4               | [Laksh.github] (https://LakshanandSugumar.github.io) |
+| Lakshanand Sugumar    | [Laksh.github] (https://LakshanandSugumar.github.io) |
