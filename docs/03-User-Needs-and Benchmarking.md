@@ -133,50 +133,48 @@ Product: Handicap Door Opener for Disabled People.
 
 4. Search bar:
    Product:
+   Product: ED900 Swing Door Operator
 
 ![Product 4][Product 4]
 
-![Product 4](site/image/Product_4_EGR103.jpg)
-
-[Product 4]: site/image/Product_4_EGR103.jpg
+[Product 4]: https://dormakaba-res.cloudinary.com/image/upload/t_prod-detail-square/f_auto,q_auto/v1745407577/dormakaba-prod/110000000167-ed900-1200x1200jpg-image-slider-product-image-slider-zoom.jpg
 
 [Product: ED900 Swing Door Operator](https://www.dormakaba.com/us-en/offering/products/door-hardware/low-energy-swing-door-operators/ed900--do_2452?utm_source=)
-| Customer Reviews (Positive) | Restated Customer Need | Tag |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------- |
-| “Very slim and quiet.” (locksmith review) | Need a door operator that runs quietly and doesn’t look bulky. | Explicit |
-| “Exceptionally quiet, safe, and easy to use.” (product listing emphasis) | Need smooth, safe, and intuitive operation with minimal effort. | Explicit |
-| ADA compliant with power-assist: heavy doors feel light manually. | Need low manual effort so children, elderly, or disabled users can still operate it. | Explicit |
-| Twelve programmable options for speed, delay, and force. | Need flexibility to customize operation to specific environments and user needs. | Explicit |
-| --- | --- | --- |
-| “Operator itself is okay… very slim and quiet.” | Need consistent quality across installs, not just slim profile. | Latent |
-| “Advanced microprocessor control… adaptable.” (marketing claim echoed by users) | Need a reliable system that can adapt to challenging door setups. | Latent |
-| “Good for residential and commercial use.” | Need versatility for both light and heavy-duty applications. | Latent |
-| Customer Reviews (Negative) | Restated Customer Need | Tag |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------- | -------- |
-| “Not impressed.” (Reddit locksmith comment) | Need higher reliability, durability, or performance than current impression gives. | Explicit |
-| Long lead times, custom order, expensive MSRP. | Need faster availability and more affordable options. | Explicit |
-| Lack of customer reviews on dealer sites. | Need more peer feedback to reduce uncertainty before purchase. | Latent |
-| --- | --- | --- |
-| Installation may require professional help. | Need simpler, DIY-friendly installation options. | Latent |
-| Some models require specific mounting kits. | Need universal mounting compatibility without extra parts. | Latent |
-| Higher upfront cost compared to competitors. | Need better cost-benefit value or clearer ROI justification. | Explicit |
+| # | Customer Reviews (Positive) | Restated Customer Need |
+| - | ------------------------------------------------------ | ---------------------------------------------------------- |
+| 1 | “Love being able to control it with my phone.” | Need remote/app control for convenience (**Explicit**) |
+| 2 | “The safety retract works well when my dog hesitates.” | Need obstacle detection and safety features (**Explicit**) |
+| 3 | “No cutting required, fits my sliding door perfectly.” | Need easy, non-invasive installation (**Explicit**) |
+| 4 | “My dog quickly learned to use it.” | Need pet-friendly usability (**Latent**) |
+| 5 | “Feels secure when locked at night.” | Need security and peace of mind (**Latent**) |
+| # | Customer Reviews (Negative) | Restated Customer Need |
+| - | --------------------------------------------- | ---------------------------------------------------- |
+| 1 | “It sometimes gets stuck halfway.” | Need reliable, consistent operation (**Explicit**) |
+| 2 | “Expensive for what it does.” | Need better cost-benefit value (**Latent**) |
+| 3 | “Battery doesn’t last as long as advertised.” | Need long-lasting, dependable power (**Explicit**) |
+| 4 | “The app occasionally disconnects.” | Need stable software and connectivity (**Explicit**) |
+| 5 | “Customer support was slow to respond.” | Need responsive after-sales support (**Latent**) |
 
 5. Search bar:
-   [Product:Olide-120B Swing Door Operator](www.amazon.com/Olideauto-Operator-Automatic-Commercial-Olide-120B/dp/B08R88699S?utm_source=)
-   | Customer Reviews (Positive) | Restated Customer Need | Tag |
-   | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------- |
-   | “Handicap door opener can be voice controlled by smart speaker, remote controlled on Phone App from anywhere.” | Need remote operation (app/voice) so the user can control door without physical switches. | Explicit |
-   | “Automatically re-open door if swing door opener notices an object in the closing path … safe.” | Need safety in closing path: detect obstruction and reopen or stop closing. | Explicit |
-   | “Easy Installation & Debug … lots of parameters such as closing force, locking mode, hold opening time.” | Need adjustable parameters (force, hold-open time, lock mode) and good documentation. | Explicit |
-   | “Durable motor … operates over wide voltage range … adapts to voltage fluctuations.” | Need robust motor that tolerates unstable voltage and harsh conditions. | Latent |
-   | “Operates both automatic and manual mode; door can be opened manually with little effort.” | Need ability to operate manually with little effort as fallback if power is unavailable. | Explicit |
 
-| Customer Reviews (Negative)                                                                             | Restated Customer Need                                                 | Tag      |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- |
-| “Operation noise: Less than 55db” (still a moderate hum in quiet spaces).                               | Need lower audible noise so operation is unobtrusive.                  | Explicit |
-| “Motor struggles with doors heavier than specs; performance degrades in windy conditions.”              | Need consistent performance under wind loads and at max weight.        | Explicit |
-| “Remote/wireless buttons sometimes lag or have limited range; limit switches cause partial opens.”      | Need responsive controls with reliable range and easy calibration.     | Latent   |
-| “Adjust settings are many but documentation is thin; some users had trouble debugging force/lock mode.” | Need clear documentation / easier interface for parameter adjustments. | Explicit |
+[Product 5]: https://m.media-amazon.com/images/I/71z08lDevyL._AC_SL1500_.jpg
+
+[Product:Olide-120B Swing Door Operator](www.amazon.com/Olideauto-Operator-Automatic-Commercial-Olide-120B/dp/B08R88699S?utm_source=)
+| # | Customer Reviews (Positive) | Restated Customer Need |
+| - | ------------------------------------------ | ---------------------------------------------------- |
+| 1 | “Works perfectly with my cat’s microchip.” | Need reliable microchip recognition (**Explicit**) |
+| 2 | “Easy to program and set up.” | Need simple installation and setup (**Explicit**) |
+| 3 | “Selective entry — only my pets get in.” | Need controlled access for security (**Explicit**) |
+| 4 | “Battery life is excellent.” | Need low-maintenance, long battery life (**Latent**) |
+| 5 | “Sturdy construction.” | Need durable build for long-term use (**Latent**) |
+
+| #   | Customer Reviews (Negative)                  | Restated Customer Need                                     |
+| --- | -------------------------------------------- | ---------------------------------------------------------- |
+| 1   | “Sometimes doesn’t recognize my pet’s chip.” | Need consistent detection accuracy (**Explicit**)          |
+| 2   | “Flap is a bit noisy when it locks/unlocks.” | Need quieter operation (**Explicit**)                      |
+| 3   | “Plastic feels cheap for the price.”         | Need premium material quality (**Latent**)                 |
+| 4   | “Batteries die faster in cold weather.”      | Need dependable performance in all conditions (**Latent**) |
+| 5   | “Installation was harder than expected.”     | Need easy, DIY-friendly setup (**Explicit**)               |
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
