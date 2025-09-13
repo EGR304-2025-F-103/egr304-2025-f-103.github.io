@@ -46,9 +46,9 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
 |   | The product has simple building components (Latent). |
 |   | The product should have a simple electrical system (Latent). |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
+| I am very mechanically inclined. This gate system is not for someone who does not have significant experience doing wiring and general mechanical work. The gate moves very slowly and the wireless keypad has to be very close to the gate to work. It rendered it usless in my case which Is a major problem for guests to the property. The remotes that come with the system also have very limited range. I bought the extended range add on and those remotes have other limitations. You'll want to spend a lot of time in the design phase to have a quality end result. This system install is best left to a professional if you want a reliable and well functioning result. I have revised my design multiple times to get things working well and it's still not ideal. It's a pretty basic and cheap system. It'll get the job done if you have enough time and experience and willingness to work for a good result long-term. Short-term you can throw it together in an afternoon but you'll have a lot of work ahead to make it reliable and look good. This is some cheap Chinese stuff. | The product has a wide sensor range (explicit). |
+|   | The product is easy to put together (Latent). |
+|   | The product is sturdy (latent). |
 
 2. Search bar: automatic door opener.
 Product: Handicap Door Opener for Disabled People.
