@@ -20,7 +20,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 1. Search bar: automatic door opener.
 Product: TOPENS AT6131 Single Swing Gate Opener Medium Duty Automatic Gate Motor.
 
-![alt text][Product 1]
+![Product 1][Product 1] 
 
 [Product 1]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
 
@@ -58,6 +58,12 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
 
 2. Search bar: automatic door opener.
 Product: Handicap Door Opener for Disabled People.
+
+![Product 2][Product 2] 
+
+[Product 2]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
+
 [This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
 
 | Customer Reviews (Positive) | Restated Customer Need |
@@ -92,6 +98,12 @@ Product: Handicap Door Opener for Disabled People.
 
 3. Search bar:
 Product: BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
+
+![Product 3][Product 3] 
+
+[Product 3]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
+
 [This Product](https://www.lowes.com/pd/BRINKS-COMMERCIAL-Heavy-Duty-Grade-1-Universal-Closer-Aluminum/5001579159?store=714&cm_mmc=shp-_-c-_-prd-_-hdw-_-ggl-_-PMAX_HDW_000_Priority_Item_Omni-_-5001579159-_-local-_-0-_-0&gad_source=4&gad_campaignid=22862751063&gbraid=0AAAAAD2B2W-QakXwWU1Cruzn6VjGgcSxs&gclid=CjwKCAjwiY_GBhBEEiwAFaghvr3d2e20WeWTOabM27Fz6iZflQZ6W4ju2FPEMZO-2P2uI2BYeSJT6hoCCMwQAvD_BwE&gclsrc=aw.ds#no_universal_links) only closes the door but does not open it. The aluminum design is lightweight and the product has simple instructions.
 | Customer Reviews (Positive) | Restated Customer Need |
 |---|---|
@@ -125,6 +137,11 @@ Product: BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
 4. Search bar:
 Product:
 
+![Product 4][Product 4] 
+
+[Product 4]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
+
 | Customer Reviews (Positive) | Restated Customer Need |
 |---|---|
 |   |   |
@@ -156,6 +173,11 @@ Product:
 
 5. Search bar:
 Product:
+
+![Product 5][Product 5] 
+
+[Product 5]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
 
 | Customer Reviews (Positive) | Restated Customer Need |
 |---|---|
