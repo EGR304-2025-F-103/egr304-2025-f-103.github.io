@@ -42,9 +42,9 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
 |   | The product stays powered over a long period of time (latent). |
 |   | The product should operate without the use of key fobs (explicit). |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
+| Took my husband and I 2 days to get put together. They could make this so much easier with clearer directions and easier electrical hookups. | The product has clear directions (explicit). |
+|   | The product has simple building components (Latent). |
+|   | The product should have a simple electrical system (Latent). |
 |---|---|
 |   |   |
 |   |   |
