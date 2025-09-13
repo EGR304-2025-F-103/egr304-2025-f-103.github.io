@@ -136,32 +136,47 @@ Product: Handicap Door Opener for Disabled People.
 
 ![Product 4][Product 4]
 
-[Product 4]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+![Product 4](site/image/Product_4_EGR103.jpg)
+
+[Product 4]: site/image/Product_4_EGR103.jpg
 
 [Product: ED900 Swing Door Operator](https://www.dormakaba.com/us-en/offering/products/door-hardware/low-energy-swing-door-operators/ed900--do_2452?utm_source=)
-| # | Customer Reviews (Positive) | Restated Customer Need | Tag (Explicit or Latent) | Source |
-| - | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| 1 | “Very slim and quiet.” (locksmith review) | Need a door operator that runs quietly and doesn’t look bulky. | Explicit | Reddit “Locksmith” thread ([Reddit][1]) |
-| 2 | “Exceptionally quiet, safe, and easy to use.” (product-listing emphasis) | Need smooth, safe, and intuitive operation with minimal effort. | Explicit | Product description for ED900 listings ([Reddit][1]) |
-| 3 | ADA compliant with power-assist: heavy doors feel light manually. | Need low manual effort so children, elderly, or disabled users can still operate it. | Explicit | ADA / product specs mentioned in listing descriptions ([keylessaccesslocks.com][2]) |
-| 4 | Twelve programmable options for speed, delay, and force. | Need flexibility to customize operation to specific environments and user needs. | Explicit | Product datasheets / listings for ED900 (“programmable options”) ([keylessaccesslocks.com][2]) |
-| 5 | “Operator itself is okay… very slim and quiet.” | Need consistent quality across installs, not just slim appearance. | Latent | Reddit thread (similar to #1 but from user using the product) ([Reddit][1]) |
-| 6 | “Advanced microprocessor control… adaptable.” (marketing claim) | Need a reliable system that can adapt to challenging door setups (e.g. mind wind, high use). | Latent | Product literature / marketing claims ([keylessaccesslocks.com][2]) |
-| 7 | “Good for residential and commercial use.” | Need versatility for both light-use and heavy-use applications. | Latent | Product listings describing ED900 in mixed-use or commercial/residential contexts ([keylessaccesslocks.com][2]) |
-
-[1]: https://www.reddit.com/r/accesscontrol/comments/1iz4w7n/what_door_openers_are_you_guys_using/?utm_source=chatgpt.com "What door openers are you guys using? : r/accesscontrol"
-[2]: https://www.keylessaccesslocks.com/micom-sw800-sg-b-2-ap-lh-51-smart-swing-3-low-energy-door-operator-pull-side-left-hand-black/?srsltid=AfmBOorf2VgCttlNBz0qIJKhtWqlJUEuuJdbWVYQ_kSnMo_V4JhOyAMz&utm_source=chatgpt.com "SW800 Smart Swing 3, Push Side, LHR, Silver Finish"
+| Customer Reviews (Positive) | Restated Customer Need | Tag |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------- |
+| “Very slim and quiet.” (locksmith review) | Need a door operator that runs quietly and doesn’t look bulky. | Explicit |
+| “Exceptionally quiet, safe, and easy to use.” (product listing emphasis) | Need smooth, safe, and intuitive operation with minimal effort. | Explicit |
+| ADA compliant with power-assist: heavy doors feel light manually. | Need low manual effort so children, elderly, or disabled users can still operate it. | Explicit |
+| Twelve programmable options for speed, delay, and force. | Need flexibility to customize operation to specific environments and user needs. | Explicit |
+| --- | --- | --- |
+| “Operator itself is okay… very slim and quiet.” | Need consistent quality across installs, not just slim profile. | Latent |
+| “Advanced microprocessor control… adaptable.” (marketing claim echoed by users) | Need a reliable system that can adapt to challenging door setups. | Latent |
+| “Good for residential and commercial use.” | Need versatility for both light and heavy-duty applications. | Latent |
+| Customer Reviews (Negative) | Restated Customer Need | Tag |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- | -------- |
+| “Not impressed.” (Reddit locksmith comment) | Need higher reliability, durability, or performance than current impression gives. | Explicit |
+| Long lead times, custom order, expensive MSRP. | Need faster availability and more affordable options. | Explicit |
+| Lack of customer reviews on dealer sites. | Need more peer feedback to reduce uncertainty before purchase. | Latent |
+| --- | --- | --- |
+| Installation may require professional help. | Need simpler, DIY-friendly installation options. | Latent |
+| Some models require specific mounting kits. | Need universal mounting compatibility without extra parts. | Latent |
+| Higher upfront cost compared to competitors. | Need better cost-benefit value or clearer ROI justification. | Explicit |
 
 5. Search bar:
-   Product:
-   | Customer Reviews (Negative) | Restated Customer Need | Tag | |
-   | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-   | “Operation noise: Less than 55db” (some say still слышно a moderate hum) – while advertised low, some users say it's still noisy in quiet environments. | Need lower audible noise (especially at idle or when opening/closing) so operation is unobtrusive. | Explicit | Some product feedback thread comments in product Q\&A sections (users referencing sound levels) ([Amazon][1]) |
-   | “Motor struggles with doors heavier than specs; performance degrades in windy conditions.” | Need consistent performance under wind loads and when door is near max spec, without loss of speed or strength. | Explicit | Feedback on product listing (“issues at wind, gate heavy”) in similar uses/versions; Olide-120B spec shows door width/weight limits. ([Amazon][1]) |
-   | “Remote/wireless buttons sometimes lag or have limited range; mis-alignment of limit switches causes partial opens.” | Need responsive controls with reliable wireless range and easy calibration of limit positions. | Latent | In user Q\&A sections / Amazon reviews of similar Olide models. ([Amazon][1]) |
-   | “Adjust settings are many but documentation is thin; some users had trouble debugging force/lock mode settings.” | Need clear documentation / UI for parameter adjustments. | Explicit | From negative feedback sections and Amazon Q\&A where users mention difficulty with setup. ([Amazon][1]) |
+   [Product:Olide-120B Swing Door Operator](www.amazon.com/Olideauto-Operator-Automatic-Commercial-Olide-120B/dp/B08R88699S?utm_source=)
+   | Customer Reviews (Positive) | Restated Customer Need | Tag |
+   | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------- |
+   | “Handicap door opener can be voice controlled by smart speaker, remote controlled on Phone App from anywhere.” | Need remote operation (app/voice) so the user can control door without physical switches. | Explicit |
+   | “Automatically re-open door if swing door opener notices an object in the closing path … safe.” | Need safety in closing path: detect obstruction and reopen or stop closing. | Explicit |
+   | “Easy Installation & Debug … lots of parameters such as closing force, locking mode, hold opening time.” | Need adjustable parameters (force, hold-open time, lock mode) and good documentation. | Explicit |
+   | “Durable motor … operates over wide voltage range … adapts to voltage fluctuations.” | Need robust motor that tolerates unstable voltage and harsh conditions. | Latent |
+   | “Operates both automatic and manual mode; door can be opened manually with little effort.” | Need ability to operate manually with little effort as fallback if power is unavailable. | Explicit |
 
-[1]: https://www.amazon.com/Olideauto-Operator-Automatic-Commercial-Olide-120B/dp/B08R88699S?utm_source=chatgpt.com "Olideauto Swing Door Operator Automatic for The Disabled ..."
+| Customer Reviews (Negative)                                                                             | Restated Customer Need                                                 | Tag      |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- |
+| “Operation noise: Less than 55db” (still a moderate hum in quiet spaces).                               | Need lower audible noise so operation is unobtrusive.                  | Explicit |
+| “Motor struggles with doors heavier than specs; performance degrades in windy conditions.”              | Need consistent performance under wind loads and at max weight.        | Explicit |
+| “Remote/wireless buttons sometimes lag or have limited range; limit switches cause partial opens.”      | Need responsive controls with reliable range and easy calibration.     | Latent   |
+| “Adjust settings are many but documentation is thin; some users had trouble debugging force/lock mode.” | Need clear documentation / easier interface for parameter adjustments. | Explicit |
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
