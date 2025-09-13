@@ -12,4 +12,6 @@ tags:
 
 ## Product Mission Statement
 
-> The Real Time Compressor is designed to improve the stability of pressurizing canisters, tires, and other products that may benefit the convinience of walking away from pressurizing an object. 
+> The Automatic door product is a single piece of equipment made to make any door easily openable and closeable for the general population based on certain perameters that the consumer can chose.  
+
+

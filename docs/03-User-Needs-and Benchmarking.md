@@ -27,15 +27,7 @@ Product: TOPENS AT6131 Single Swing Gate Opener Medium Duty Automatic Gate Motor
 |   | The materials are strong and will last(latent). |
 |   | The product has an auto close feature that adds convienience(explicit). |
 |---|---|
-| I had been using mighty mule for 5+ years. Glad i switched when i needed a new opener
-
-The Topen gate you manually set the at the arm as compared to the MM which you program with the remote. manual way is much easier to set.
-
-i had an electric lock already installed which works perfectly with the Topen. the timing on the MM was never quite right. i had so have the arm adjusted to close tight against the stop. otherwise it would bounce off the stop and not lock
-
-It quickly and easily hooked up to wifi, apple homekit and siri. never worked with MM.
-
-very easy setup and the support was immediately there to answer some pre and post purchases questions | The product is easily adjusted (Latent). |
+| I had been using mighty mule for 5+ years. Glad i switched when i needed a new opener. The Topen gate you manually set the at the arm as compared to the MM which you program with the remote. manual way is much easier to set. I had an electric lock already installed which works perfectly with the Topen. the timing on the MM was never quite right. i had so have the arm adjusted to close tight against the stop. otherwise it would bounce off the stop and not lock. It quickly and easily hooked up to wifi, apple homekit and siri. never worked with MM. Very easy setup and the support was immediately there to answer some pre and post purchases questions | The product is easily adjusted (Latent). |
 |   | The product works with previous installations and wifi (explicit). |
 |   | The product times well with electric locks and restraints (Latent). |
 |---|---|
