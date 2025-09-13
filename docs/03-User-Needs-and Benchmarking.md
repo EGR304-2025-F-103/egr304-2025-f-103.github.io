@@ -20,7 +20,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 1. Search bar: automatic door opener.
    Product: TOPENS AT6131 Single Swing Gate Opener Medium Duty Automatic Gate Motor.
 
-![alt text][Product 1]
+![Product 1][Product 1]
 
 [Product 1]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
 
@@ -58,7 +58,14 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
 
 2. Search bar: automatic door opener.
    Product: Handicap Door Opener for Disabled People.
-   [This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
+
+![Product 2][Product 2]
+
+[Product 2]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
+[This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
+Product: Handicap Door Opener for Disabled People.
+[This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 | --------------------------- | ---------------------- |
@@ -90,20 +97,25 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
 
 3. Search bar:
    Product: BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
-   [This Product](https://www.lowes.com/pd/BRINKS-COMMERCIAL-Heavy-Duty-Grade-1-Universal-Closer-Aluminum/5001579159?store=714&cm_mmc=shp-_-c-_-prd-_-hdw-_-ggl-_-PMAX_HDW_000_Priority_Item_Omni-_-5001579159-_-local-_-0-_-0&gad_source=4&gad_campaignid=22862751063&gbraid=0AAAAAD2B2W-QakXwWU1Cruzn6VjGgcSxs&gclid=CjwKCAjwiY_GBhBEEiwAFaghvr3d2e20WeWTOabM27Fz6iZflQZ6W4ju2FPEMZO-2P2uI2BYeSJT6hoCCMwQAvD_BwE&gclsrc=aw.ds#no_universal_links) only closes the door but does not open it. The aluminum design is lightweight and the product has simple instructions.
-   | Customer Reviews (Positive) | Restated Customer Need |
-   |---|---|
-   | | |
-   | | |
-   | | |
-   |---|---|
-   | | |
-   | | |
-   | | |
-   |---|---|
-   | | |
-   | | |
-   | | |
+
+![Product 3][Product 3]
+
+[Product 3]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
+[This Product](https://www.lowes.com/pd/BRINKS-COMMERCIAL-Heavy-Duty-Grade-1-Universal-Closer-Aluminum/5001579159?store=714&cm_mmc=shp-_-c-_-prd-_-hdw-_-ggl-_-PMAX_HDW_000_Priority_Item_Omni-_-5001579159-_-local-_-0-_-0&gad_source=4&gad_campaignid=22862751063&gbraid=0AAAAAD2B2W-QakXwWU1Cruzn6VjGgcSxs&gclid=CjwKCAjwiY_GBhBEEiwAFaghvr3d2e20WeWTOabM27Fz6iZflQZ6W4ju2FPEMZO-2P2uI2BYeSJT6hoCCMwQAvD_BwE&gclsrc=aw.ds#no_universal_links) only closes the door but does not open it. The aluminum design is lightweight and the product has simple instructions.
+| Customer Reviews (Positive) | Restated Customer Need |
+|---|---|
+| | |
+| | |
+| | |
+|---|---|
+| | |
+| | |
+| | |
+|---|---|
+| | |
+| | |
+| | |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
@@ -120,24 +132,27 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
 |                             |                        |
 
 4. Search bar:
-   [Product: ED900 Swing Door Operator](https://www.dormakaba.com/us-en/offering/products/door-hardware/low-energy-swing-door-operators/ed900--do_2452?utm_source=)
-   | # | Customer Reviews (Positive) | Restated Customer Need | Tag (Explicit or Latent) | Source |
-   | - | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
-   | 1 | “Very slim and quiet.” (locksmith review) | Need a door operator that runs quietly and doesn’t look bulky. | Explicit | Reddit “Locksmith” thread ([Reddit][1]) |
-   | 2 | “Exceptionally quiet, safe, and easy to use.” (product-listing emphasis) | Need smooth, safe, and intuitive operation with minimal effort. | Explicit | Product description for ED900 listings ([Reddit][1]) |
-   | 3 | ADA compliant with power-assist: heavy doors feel light manually. | Need low manual effort so children, elderly, or disabled users can still operate it. | Explicit | ADA / product specs mentioned in listing descriptions ([keylessaccesslocks.com][2]) |
-   | 4 | Twelve programmable options for speed, delay, and force. | Need flexibility to customize operation to specific environments and user needs. | Explicit | Product datasheets / listings for ED900 (“programmable options”) ([keylessaccesslocks.com][2]) |
-   | 5 | “Operator itself is okay… very slim and quiet.” | Need consistent quality across installs, not just slim appearance. | Latent | Reddit thread (similar to #1 but from user using the product) ([Reddit][1]) |
-   | 6 | “Advanced microprocessor control… adaptable.” (marketing claim) | Need a reliable system that can adapt to challenging door setups (e.g. mind wind, high use). | Latent | Product literature / marketing claims ([keylessaccesslocks.com][2]) |
-   | 7 | “Good for residential and commercial use.” | Need versatility for both light-use and heavy-use applications. | Latent | Product listings describing ED900 in mixed-use or commercial/residential contexts ([keylessaccesslocks.com][2]) |
+   Product:
+
+![Product 4][Product 4]
+
+[Product 4]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
+
+[Product: ED900 Swing Door Operator](https://www.dormakaba.com/us-en/offering/products/door-hardware/low-energy-swing-door-operators/ed900--do_2452?utm_source=)
+| # | Customer Reviews (Positive) | Restated Customer Need | Tag (Explicit or Latent) | Source |
+| - | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| 1 | “Very slim and quiet.” (locksmith review) | Need a door operator that runs quietly and doesn’t look bulky. | Explicit | Reddit “Locksmith” thread ([Reddit][1]) |
+| 2 | “Exceptionally quiet, safe, and easy to use.” (product-listing emphasis) | Need smooth, safe, and intuitive operation with minimal effort. | Explicit | Product description for ED900 listings ([Reddit][1]) |
+| 3 | ADA compliant with power-assist: heavy doors feel light manually. | Need low manual effort so children, elderly, or disabled users can still operate it. | Explicit | ADA / product specs mentioned in listing descriptions ([keylessaccesslocks.com][2]) |
+| 4 | Twelve programmable options for speed, delay, and force. | Need flexibility to customize operation to specific environments and user needs. | Explicit | Product datasheets / listings for ED900 (“programmable options”) ([keylessaccesslocks.com][2]) |
+| 5 | “Operator itself is okay… very slim and quiet.” | Need consistent quality across installs, not just slim appearance. | Latent | Reddit thread (similar to #1 but from user using the product) ([Reddit][1]) |
+| 6 | “Advanced microprocessor control… adaptable.” (marketing claim) | Need a reliable system that can adapt to challenging door setups (e.g. mind wind, high use). | Latent | Product literature / marketing claims ([keylessaccesslocks.com][2]) |
+| 7 | “Good for residential and commercial use.” | Need versatility for both light-use and heavy-use applications. | Latent | Product listings describing ED900 in mixed-use or commercial/residential contexts ([keylessaccesslocks.com][2]) |
 
 [1]: https://www.reddit.com/r/accesscontrol/comments/1iz4w7n/what_door_openers_are_you_guys_using/?utm_source=chatgpt.com "What door openers are you guys using? : r/accesscontrol"
 [2]: https://www.keylessaccesslocks.com/micom-sw800-sg-b-2-ap-lh-51-smart-swing-3-low-energy-door-operator-pull-side-left-hand-black/?srsltid=AfmBOorf2VgCttlNBz0qIJKhtWqlJUEuuJdbWVYQ_kSnMo_V4JhOyAMz&utm_source=chatgpt.com "SW800 Smart Swing 3, Push Side, LHR, Silver Finish"
 
 5. Search bar:
-   Olide-120B Smart Automatic Handicap Door Wireless with Access Keypad and Lock
-   https://www.ebay.com/itm/166703572439?chn=ps&var=466347854131&norover=1&mkevt=1&mkrid=711-166974-028196-7&mkcid=2&mkscid=101&itemid=466347854131_166703572439&targetid=2274951440814&device=c&mktype=pla&googleloc=9030087&poi=&campaignid=21205094603&mkgroupid=164457215909&rlsatarget=pla-2274951440814&abcId=9406911&merchantid=114709588&geoid=9030087&gad_source=1&gad_campaignid=21205094603&gclid=Cj0KCQjwrJTGBhCbARIsANFBfgvdzu2clHgi45sTQL1IlgH8z-jFNI71mGPNHgXgnMuWXaTMGrPsLnsaAuEoEALw_wcB
-
    Product:
    | Customer Reviews (Negative) | Restated Customer Need | Tag | |
    | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
