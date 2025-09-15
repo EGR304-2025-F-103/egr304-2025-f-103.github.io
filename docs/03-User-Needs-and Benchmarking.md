@@ -28,31 +28,31 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| I couldn’t be more impressed with my Topens Gate Opener! The installation was straightforward, and the system runs smoothly and quietly. The build quality is solid, and the smart features like remote control and auto-close are incredibly convenient. It has handled my heavy-duty gate effortlessly, even during bad weather. What really stood out was their customer support—quick, detailed, and extremely helpful. They answered all my questions with clear instructions and went above and beyond. Top-notch performance, reliability, and service—highly recommend! | The product has easy installation instructions (explicit). |
-| | The materials are strong and will last (latent). |
-| | The product has an auto close feature that adds convienience (explicit). |
+| "The installation was straightforward, and the system runs smoothly and quietly. The build quality is solid, and the smart features like remote control and auto-close are incredibly convenient. It has handled my heavy-duty gate effortlessly, even during bad weather." | The product has easy installation instructions (**Explicit**). |
+| | The materials are strong and will last (**Latent**). |
+| | The product has an auto close feature that adds convienience (**Explicit**). |
 |             ---              |          ---           |
-| I had been using mighty mule for 5+ years. Glad i switched when i needed a new opener. The Topen gate you manually set the at the arm as compared to the MM which you program with the remote. manual way is much easier to set. I had an electric lock already installed which works perfectly with the Topen. the timing on the MM was never quite right. i had so have the arm adjusted to close tight against the stop. otherwise it would bounce off the stop and not lock. It quickly and easily hooked up to wifi, apple homekit and siri. never worked with MM. Very easy setup and the support was immediately there to answer some pre and post purchases questions. | The product is easily adjusted (Latent). |
-| | The product works with previous installations and wifi (explicit). |
-| | The product times well with electric locks and restraints (Latent). |
+| "The Topen gate you manually set the at the arm as compared to the MM which you program with the remote. manual way is much easier to set. I had an electric lock already installed which works perfectly with the Topen. It quickly and easily hooked up to wifi, apple homekit and siri. Very easy setup and the support was immediately there to answer some pre and post purchases questions." | The product is easily adjusted (**Latent**). |
+| | The product works with previous installations and wifi (**Explicit**). |
+| | The product times well with electric locks and restraints (**Latent**). |
 |             ---              |          ---           |
-| Waited until I've gotten plenty use in different conditions. I mounted this unit on a pipe fence and it is opening a 16ft thin wall metal gate. Gate may weigh 100lbs or so. Has some issues at first with the gate opening very slowly, not working during any windy days, just seemed weak. After a few months of using it like that that control board broke a piece of solder and the gate quit working. Got with topens and they were very quick to reply and take care of the issues. They sent out a new control board and since then the gate has worked better than new. Plenty of power, good speed, and works during windy days. Highly recommend this company and their products, great customer service. | The product works against natural resistances (explicit). |
-| | The product has good opening and closing speed (explicit). |
-| | The product was easy to dissasemble and reassemble (latent). |
+| "Plenty of power, good speed, and works during windy days. Highly recommend this company and their products, great customer service." | The product works against natural resistances (**Explicit**). |
+| | The product has good opening and closing speed (**Explicit**). |
+| | The product was easy to dissasemble and reassemble (**Latent**). |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Ok, so I purchased two of these units based largely upon the reviews. I installed both on ranch gates: one 14 foot and one 16 foot. Installation process was, to be honest, lengthy and and labor intensive for me but the directions were quite good and straight forward. I also installed the solar panels with battery backups which appear to work well. So far, the unit on the 14 foot gate has worked problem free. Unfortunately, the unit I installed on the 16 foot gate gave out completely after only a month or so of use in spite of the fact that the gate weight was well inside of the product specs. For some reason, the screw (or nylon nut) inside of the actuator just froze up. I couldn't move it manually even though the motor clutch was disengaged. And I couldn't return it as I had already passed the Amazon return date. So, I purchased a second unit (the same model) hoping it would perform better. From the start, the actuator arm would not retract (open) all the way. It would open 45 degrees and simply stop. I had the limit switches set properly along with the Potentiometers. I tried running the motor off the the gate and still encountered the same issue. I reached out to the Topens tech support center via email. They were very responsive but I had essentially already tried everything they suggested. In sum, no amount of tech support can fix mediocre engineering (at best) and generally poor component quality. This unit is going back to Amazon. Here's my general assessment after spending hours messing with 3 of these things: Topens units are fundamentally "entry level" openers so you will have to manage your expectations. There are many plastic parts inside and out which I suspect will not provide robust and reliable performance for very long. Although my control boards seem OK, I've read in other places that quality control on those can be hit or miss. One thing that also annoys me is that there is absolutely no way to operate the unit without the key fobs. It would be nice to have an independent switch option inside the control box. In addition, the clutch mechanism, which is activated with a key, seems to lack that solid positive response. Occasionally, it's difficult to discern if the actuator is engaged or not. Finally, if you reside in an area which is prone to higher winds, you WILL notice play in the actuator arm which surely must be hard on the internal components. I was hoping to just get a decent unit without having to spend literally thousands on the nicer premium openers. Unfortunately, Topens has been mostly disappointing and there just doesn't seem to be many "middle market" products available to average consumers. | The product is reliable (explicit). |
-| | The product stays powered over a long period of time (latent). |
-| | The product should operate without the use of key fobs (explicit). |
+| "Gate gave out completely after only a month or so of use in spite of the fact that the gate weight was well inside of the product specs. I couldn't move it manually even though the motor clutch was disengaged. The actuator arm would not retract (open) all the way. It would open 45 degrees and simply stop. I had the limit switches set properly along with the Potentiometers. I tried running the motor off the the gate and still encountered the same issue. One thing that also annoys me is that there is absolutely no way to operate the unit without the key fobs. It would be nice to have an independent switch option inside the control box. In addition, the clutch mechanism, which is activated with a key, seems to lack that solid positive response." | The product is reliable (**Explicit**). |
+| | The product stays powered over a long period of time (**Latent**). |
+| | The product should operate without the use of key fobs (**Explicit**). |
 |             ---              |          ---           |
-| Took my husband and I 2 days to get put together. They could make this so much easier with clearer directions and easier electrical hookups. | The product has clear directions (explicit). |
-| | The product has simple building components (Latent). |
-| | The product should have a simple electrical system (Latent). |
+| "Took my husband and I 2 days to get put together. They could make this so much easier with clearer directions and easier electrical hookups." | The product has clear directions (**Explicit**). |
+| | The product has simple building components (**Latent**). |
+| | The product should have a simple electrical system (**Latent**). |
 |             ---              |          ---           |
-| I am very mechanically inclined. This gate system is not for someone who does not have significant experience doing wiring and general mechanical work. The gate moves very slowly and the wireless keypad has to be very close to the gate to work. It rendered it usless in my case which Is a major problem for guests to the property. The remotes that come with the system also have very limited range. I bought the extended range add on and those remotes have other limitations. You'll want to spend a lot of time in the design phase to have a quality end result. This system install is best left to a professional if you want a reliable and well functioning result. I have revised my design multiple times to get things working well and it's still not ideal. It's a pretty basic and cheap system. It'll get the job done if you have enough time and experience and willingness to work for a good result long-term. Short-term you can throw it together in an afternoon but you'll have a lot of work ahead to make it reliable and look good. This is some cheap Chinese stuff. | The product has a wide sensor range (explicit). |
-| | The product is easy to put together (Latent). |
-| | The product is sturdy (latent). |
+| "This gate system is not for someone who does not have significant experience doing wiring and general mechanical work. The gate moves very slowly and the wireless keypad has to be very close to the gate to work. You'll want to spend a lot of time in the design phase to have a quality end result. This system install is best left to a professional if you want a reliable and well functioning result. I have revised my design multiple times to get things working well and it's still not ideal. It's a pretty basic and cheap system." | The product has a wide sensor range (**Explicit**). |
+| | The product is easy to put together (**Latent**). |
+| | The product is sturdy (**Latent**). |
 
 2. Search bar: automatic door opener.
    Product: Handicap Door Opener for Disabled People.
@@ -65,35 +65,35 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Installation and settings changes were simple, and setbacks were easily solved by provided external resources such as support lines and tutorials. | The product has adjustable settings. (Explicit) |
-| | The product has a UI which is easy to understand/operate. (Latent) |
-| | The product has helpful customer support resources. (Explicit) |
+| Installation and settings changes were simple, and setbacks were easily solved by provided external resources such as support lines and tutorials. | The product has adjustable settings. (**Explicit**) |
+| | The product has a UI which is easy to understand/operate. (**Latent**) |
+| | The product has helpful customer support resources. (**Explicit**) |
 | ---                         | ---                    |  
-| The product consumes low amounts of electricity and did not require a separate electrical circuit. | The product does not require a large amount of power. (Explicit) |
-| | The product is easy to supply power to. (Explicit) |
-| | The product's mechanical properties are energy efficient. (Latent) |
-| | The product's electrical components are self-contained/not bulky. (Latent) |
+| The product consumes low amounts of electricity and did not require a separate electrical circuit. | The product does not require a large amount of power. (**Explicit**) |
+| | The product is easy to supply power to. (**Explicit**) |
+| | The product's mechanical properties are energy efficient. (**Latent**) |
+| | The product's electrical components are self-contained/not bulky. (**Latent**) |
 | ---                         | ---                    |
-| Works just as well as much more expensive brands such as "Stanley" which seem to be almost identical other than the branding. | The product's materials are clearly identified. (Latent) |
-| | The product is comparable to "high-end" products. (Latent) |
-| | The product is reasonably affordable. (Explicit) |
+| Works just as well as much more expensive brands such as "Stanley" which seem to be almost identical other than the branding. | The product's materials are clearly identified. (**Latent**) |
+| | The product is comparable to "high-end" products. (**Latent**) |
+| | The product is reasonably affordable. (**Explicit**) |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Remotes and/or opener apparatus itself become faulty/inconsitent over time. | The product is consistent. (Explicit) |
-| | The product's component ratings exceed the typical use-environment conditions. (Latent) |
-| | The product's software is not prone to bugs. (Latent) |
-| | The product is easy to repair/debug if necessary. (Latent) |
+| Remotes and/or opener apparatus itself become faulty/inconsitent over time. | The product is consistent. (**Explicit**) |
+| | The product's component ratings exceed the typical use-environment conditions. (**Latent**) |
+| | The product's software is not prone to bugs. (**Latent**) |
+| | The product is easy to repair/debug if necessary. (**Latent**) |
 | ---                         | ---                    |
-|  Manually opening the door leads to the product malfunctioning/breaking. | The product does not interfere with manual opening of doors. (Explicit) |
-| | The product clearly states its functionality to users. (Latent) |
-| | The product has failsafes to prevent damage to its components. (Latent)                       |
+|  Manually opening the door leads to the product malfunctioning/breaking. | The product does not interfere with manual opening of doors. (**Explicit**) |
+| | The product clearly states its functionality to users. (**Latent**) |
+| | The product has failsafes to prevent damage to its components. (**Latent**)                       |
 | ---                         | ---                    |
-|  Initial programming was difficult and included instructions were poorly translated/unorganized. | The products most basic functioning requires little to no user programming. (Explicit) |
-| | Product comes with user manual that is clear and not overly complicated. (Explicit) |
-| | The product is intuitive to use/setup with minimal need for instructions. (Latent) |
+|  Initial programming was difficult and included instructions were poorly translated/unorganized. | The products most basic functioning requires little to no user programming. (**Explicit**) |
+| | Product comes with user manual that is clear and not overly complicated. (**Explicit**) |
+| | The product is intuitive to use/setup with minimal need for instructions. (**Latent**) |
 
-3. Search bar:
+3. Search bar: automatic door opener.
    Product: BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
 
 ![Product 3][Product 3]
@@ -104,17 +104,17 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 |---|---|
-| | |
-| | |
-| | |
+| "The instructions were a little hard to understand, but other than that it was an easy installation." | Product has clear instructions (**Explicit**). |
+|   | Product is installed by those with more experience (**Latent**). |
+|   | The product has simple pieces for quick installation (**Latent**). |
 |---|---|
-| | |
-| | |
-| | |
+| "I didn't install the cover as I don't need it for my application, but I should note the cover is made of plastic and not metal as I first assumed. I was impressed with how solid the the feel of the final product once installed. All necessary installation parts were included for installation in wood or metal doors, security through-the-door bolts, and even included the allen wrench needed." | Product has all tools needed for installation (**Explicit**). |
+|   | Product is made of quality materials (**Explicit**). |
+|   | The product has weather and use prevention (**Latent**). |
 |---|---|
-| | |
-| | |
-| | |
+| "Just so you know if using in your business this door closer is considered ADA compliant because it can do the 180 degree open. It is definitely heavy duty and I don’t see anyone not liking this closer. I would definitely recommend it over many others I have installed over the years that cost more and were not as heavy duty and didn’t have the mounting plate in a lot of cases. So this closer is definitely superior." | The product is ADA compliant (**Explicit**). |
+|   | The product has all installation tools to install right out of the box (**Latent**). |
+|   | The product can withstand heavy use (**Latent**). |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
@@ -142,19 +142,19 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | # | Customer Reviews (Positive) | Restated Customer Need |
 | - | ------------------------------------------------------ | ---------------------------------------------------------- |
-| 1 | “Love being able to control it with my phone.” | Need remote/app control for convenience (**Explicit**) |
-| 2 | “The safety retract works well when my dog hesitates.” | Need obstacle detection and safety features (**Explicit**) |
-| 3 | “No cutting required, fits my sliding door perfectly.” | Need easy, non-invasive installation (**Explicit**) |
-| 4 | “My dog quickly learned to use it.” | Need pet-friendly usability (**Latent**) |
-| 5 | “Feels secure when locked at night.” | Need security and peace of mind (**Latent**) |
+| 1 | “Love being able to control it with my phone.” | Need remote/app control for convenience (****Explicit****) |
+| 2 | “The safety retract works well when my dog hesitates.” | Need obstacle detection and safety features (****Explicit****) |
+| 3 | “No cutting required, fits my sliding door perfectly.” | Need easy, non-invasive installation (****Explicit****) |
+| 4 | “My dog quickly learned to use it.” | Need pet-friendly usability (****Latent****) |
+| 5 | “Feels secure when locked at night.” | Need security and peace of mind (****Latent****) |
 
 | # | Customer Reviews (Negative) | Restated Customer Need |
 | - | --------------------------------------------- | ---------------------------------------------------- |
-| 1 | “It sometimes gets stuck halfway.” | Need reliable, consistent operation (**Explicit**) |
-| 2 | “Expensive for what it does.” | Need better cost-benefit value (**Latent**) |
-| 3 | “Battery doesn’t last as long as advertised.” | Need long-lasting, dependable power (**Explicit**) |
-| 4 | “The app occasionally disconnects.” | Need stable software and connectivity (**Explicit**) |
-| 5 | “Customer support was slow to respond.” | Need responsive after-sales support (**Latent**) |
+| 1 | “It sometimes gets stuck halfway.” | Need reliable, consistent operation (****Explicit****) |
+| 2 | “Expensive for what it does.” | Need better cost-benefit value (****Latent****) |
+| 3 | “Battery doesn’t last as long as advertised.” | Need long-lasting, dependable power (****Explicit****) |
+| 4 | “The app occasionally disconnects.” | Need stable software and connectivity (****Explicit****) |
+| 5 | “Customer support was slow to respond.” | Need responsive after-sales support (****Latent****) |
 
 5. Search bar:
 
@@ -165,19 +165,19 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | # | Customer Reviews (Positive) | Restated Customer Need |
 | - | ------------------------------------------ | ---------------------------------------------------- |
-| 1 | “Works perfectly with my cat’s microchip.” | Need reliable microchip recognition (**Explicit**) |
-| 2 | “Easy to program and set up.” | Need simple installation and setup (**Explicit**) |
-| 3 | “Selective entry — only my pets get in.” | Need controlled access for security (**Explicit**) |
-| 4 | “Battery life is excellent.” | Need low-maintenance, long battery life (**Latent**) |
-| 5 | “Sturdy construction.” | Need durable build for long-term use (**Latent**) |
+| 1 | “Works perfectly with my cat’s microchip.” | Need reliable microchip recognition (****Explicit****) |
+| 2 | “Easy to program and set up.” | Need simple installation and setup (****Explicit****) |
+| 3 | “Selective entry — only my pets get in.” | Need controlled access for security (****Explicit****) |
+| 4 | “Battery life is excellent.” | Need low-maintenance, long battery life (****Latent****) |
+| 5 | “Sturdy construction.” | Need durable build for long-term use (****Latent****) |
 
 | #   | Customer Reviews (Negative)                  | Restated Customer Need                                     |
 | --- | -------------------------------------------- | ---------------------------------------------------------- |
-| 1   | “Sometimes doesn’t recognize my pet’s chip.” | Need consistent detection accuracy (**Explicit**)          |
-| 2   | “Flap is a bit noisy when it locks/unlocks.” | Need quieter operation (**Explicit**)                      |
-| 3   | “Plastic feels cheap for the price.”         | Need premium material quality (**Latent**)                 |
-| 4   | “Batteries die faster in cold weather.”      | Need dependable performance in all conditions (**Latent**) |
-| 5   | “Installation was harder than expected.”     | Need easy, DIY-friendly setup (**Explicit**)               |
+| 1   | “Sometimes doesn’t recognize my pet’s chip.” | Need consistent detection accuracy (****Explicit****)          |
+| 2   | “Flap is a bit noisy when it locks/unlocks.” | Need quieter operation (****Explicit****)                      |
+| 3   | “Plastic feels cheap for the price.”         | Need premium material quality (****Latent****)                 |
+| 4   | “Batteries die faster in cold weather.”      | Need dependable performance in all conditions (****Latent****) |
+| 5   | “Installation was harder than expected.”     | Need easy, DIY-friendly setup (****Explicit****)               |
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
