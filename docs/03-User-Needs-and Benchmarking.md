@@ -43,8 +43,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
 
-| Ok- so I purchased two of these units based largely upon the reviews. I installed both on ranch gates: one 14 foot and one 16 foot. Installation process was, to be honest, lengthy and and labor intensive for me but the directions were quite good and straight forward. I also installed the solar panels with battery backups which appear to work well. So far, the unit on the 14 foot gate has worked problem free.
-Unfortunately, the unit I installed on the 16 foot gate gave out completely after only a month or so of use in spite of the fact that the gate weight was well inside of the product specs. For some reason, the screw (or nylon nut) inside of the actuator just froze up. I couldn't move it manually even though the motor clutch was disengaged. And I couldn't return it as I had already passed the Amazon return date. So, I purchased a second unit (the same model) hoping it would perform better. From the start, the actuator arm would not retract (open) all the way. It would open 45 degrees and simply stop. I had the limit switches set properly along with the Potentiometers. I tried running the motor off the the gate and still encountered the same issue. I reached out to the Topens tech support center via email. They were very responsive but I had essentially already tried everything they suggested. In sum, no amount of tech support can fix mediocre engineering (at best) and generally poor component quality. This unit is going back to Amazon. Here's my general assessment after spending hours messing with 3 of these things: Topens units are fundamentally "entry level" openers so you will have to manage your expectations. There are many plastic parts inside and out which I suspect will not provide robust and reliable performance for very long. Although my control boards seem OK, I've read in other places that quality control on those can be hit or miss. One thing that also annoys me is that there is absolutely no way to operate the unit without the key fobs. It would be nice to have an independent switch option inside the control box. In addition, the clutch mechanism, which is activated with a key, seems to lack that solid positive response. Occasionally, it's difficult to discern if the actuator is engaged or not. Finally, if you reside in an area which is prone to higher winds, you WILL notice play in the actuator arm which surely must be hard on the internal components. I was hoping to just get a decent unit without having to spend literally thousands on the nicer premium openers. Unfortunately, Topens has been mostly disappointing and there just doesn't seem to be many "middle market" products available to average consumers. | The product is reliable (explicit). |
+| Ok- so I purchased two of these units based largely upon the reviews. I installed both on ranch gates: one 14 foot and one 16 foot. Installation process was, to be honest, lengthy and and labor intensive for me but the directions were quite good and straight forward. I also installed the solar panels with battery backups which appear to work well. So far, the unit on the 14 foot gate has worked problem free. Unfortunately, the unit I installed on the 16 foot gate gave out completely after only a month or so of use in spite of the fact that the gate weight was well inside of the product specs. For some reason, the screw (or nylon nut) inside of the actuator just froze up. I couldn't move it manually even though the motor clutch was disengaged. And I couldn't return it as I had already passed the Amazon return date. So, I purchased a second unit (the same model) hoping it would perform better. From the start, the actuator arm would not retract (open) all the way. It would open 45 degrees and simply stop. I had the limit switches set properly along with the Potentiometers. I tried running the motor off the the gate and still encountered the same issue. I reached out to the Topens tech support center via email. They were very responsive but I had essentially already tried everything they suggested. In sum, no amount of tech support can fix mediocre engineering (at best) and generally poor component quality. This unit is going back to Amazon. Here's my general assessment after spending hours messing with 3 of these things: Topens units are fundamentally "entry level" openers so you will have to manage your expectations. There are many plastic parts inside and out which I suspect will not provide robust and reliable performance for very long. Although my control boards seem OK, I've read in other places that quality control on those can be hit or miss. One thing that also annoys me is that there is absolutely no way to operate the unit without the key fobs. It would be nice to have an independent switch option inside the control box. In addition, the clutch mechanism, which is activated with a key, seems to lack that solid positive response. Occasionally, it's difficult to discern if the actuator is engaged or not. Finally, if you reside in an area which is prone to higher winds, you WILL notice play in the actuator arm which surely must be hard on the internal components. I was hoping to just get a decent unit without having to spend literally thousands on the nicer premium openers. Unfortunately, Topens has been mostly disappointing and there just doesn't seem to be many "middle market" products available to average consumers. | The product is reliable (explicit). |
 | | The product stays powered over a long period of time (latent). |
 | | The product should operate without the use of key fobs (explicit). |
 |---|---|
@@ -60,40 +59,39 @@ Unfortunately, the unit I installed on the 16 foot gate gave out completely afte
    Product: Handicap Door Opener for Disabled People.
 
 ![Product 2][Product 2]
+[Product 2]: https://m.media-amazon.com/images/I/612lCARhABL._AC_SX679_.jpg
 
-[Product 2]: https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/main/site/image/Product_1_EGR103.jpg
-
-[This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
-Product: Handicap Door Opener for Disabled People.
 [This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+| Installation and settings changes were simple, and setbacks were easily solved by provided external resources such as support lines and tutorials. | The product has adjustable settings. (Explicit) |
+| | The product has a UI which is easy to understand/operate. (Latent) |
+| | The product has helpful customer support resources. (Explicit) |
+| ---                         | ---                    |  
+| The product consumes low amounts of electricity and did not require a separate electrical circuit. | The product does not require a large amount of power. (Explicit) |
+| | The product is easy to supply power to. (Explicit) |
+| | The product's mechanical properties are energy efficient. (Latent) |
+| | The product's electrical components are self-contained/not bulky. (Latent) |
 | ---                         | ---                    |
-|                             |                        |
-|                             |                        |
-|                             |                        |
-| ---                         | ---                    |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+| Works just as well as much more expensive brands such as "Stanley" which seem to be almost identical other than the branding. | The product's materials are clearly identified. (Latent) |
+| | The product is comparable to "high-end" products. (Latent) |
+| | The product is reasonably affordable. (Explicit) |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+| Remotes and/or opener apparatus itself become faulty/inconsitent over time. | The product is consistent. (Explicit) |
+| | The product's component ratings exceed the typical use-environment conditions. (Latent) |
+| | The product's software is not prone to bugs. (Latent) |
+| | The product is easy to repair/debug if necessary. (Latent) |
 | ---                         | ---                    |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+|  Manually opening the door leads to the product malfunctioning/breaking. | The product does not interfere with manual opening of doors. (Explicit) |
+| | The product clearly states its functionality to users. (Latent) |
+| | The product has failsafes to prevent damage to its components. (Latent)                       |
 | ---                         | ---                    |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+|  Initial programming was difficult and included instructions were poorly translated/unorganized. | The products most basic functioning requires little to no user programming. (Explicit) |
+| | Product comes with user manual that is clear and not overly complicated. (Explicit) |
+| | The product is intuitive to use/setup with minimal need for instructions. (Latent) |
 
 3. Search bar:
    Product: BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
@@ -132,7 +130,6 @@ Product: Handicap Door Opener for Disabled People.
 |                             |                        |
 
 4. Search bar:
-   Product:
    Product: ED900 Swing Door Operator
 
 ![Product 4][Product 4]
