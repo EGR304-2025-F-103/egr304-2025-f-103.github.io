@@ -5,15 +5,15 @@ tags:
   - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Products Under Key Search Words
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+Here is a list of 5 products and common positive and negative views on the product. These products are similar to our automatic door opener and closer. With each review there are customer needs that are labeled with **latent** or **explicit** for what type of need needs to be met.These products are:
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+- TOPENS AT6131 Single Swing Gate Opener Medium Duty Automatic Gate Motor.
+- Handicap Door Opener for Disabled People.
+- BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
+- ED900 Swing Door Operator
+- Olide-120B Swing Door Operator
 
 ## Top 5 Similar Products:
 
@@ -58,7 +58,6 @@ cur, aut in adhuc crimina **habebat**: pro.
    Product: Handicap Door Opener for Disabled People.
 
 ![Product 2][Product 2]
-
 [Product 2]: https://m.media-amazon.com/images/I/612lCARhABL._AC_SX679_.jpg
 
 [This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
@@ -131,7 +130,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 | | The product prevents the door from closing while users are walking through it. (**Latent**) |
 | | The product stops operation when sensing more resistance than usual. (**Latent**) |
 
-4. Search bar:
+4. Search bar: automatic door opener.
    Product: ED900 Swing Door Operator
 
 ![Product 4][Product 4]
@@ -156,7 +155,8 @@ cur, aut in adhuc crimina **habebat**: pro.
 | 4 | “The app occasionally disconnects.” | Need stable software and connectivity (****Explicit****) |
 | 5 | “Customer support was slow to respond.” | Need responsive after-sales support (****Latent****) |
 
-5. Search bar:
+5. Search bar: automatic door opener.
+Product: Olide-120B Swing Door Operator
 
 ![Product 5][Product 5]
 [Product 5]: https://m.media-amazon.com/images/I/71z08lDevyL._AC_SL1500_.jpg
