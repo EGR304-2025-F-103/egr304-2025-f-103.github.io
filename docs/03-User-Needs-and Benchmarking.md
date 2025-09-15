@@ -92,7 +92,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 | | Product comes with user manual that is clear and not overly complicated. (Explicit) |
 | | The product is intuitive to use/setup with minimal need for instructions. (Latent) |
 
-3. Search bar:
+3. Search bar: automatic door opener.
    Product: BRINKS COMMERCIAL Grade 1 Aluminum Commercial Door Closer.
 
 ![Product 3][Product 3]
@@ -103,17 +103,17 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 |---|---|
-| | |
-| | |
-| | |
+| "The instructions were a little hard to understand, but other than that it was an easy installation." | Product has clear instructions (explicit). |
+|   | Product is installed by those with more experience (latent). |
+|   | The product has simple pieces for quick installation (Latent). |
 |---|---|
-| | |
-| | |
-| | |
+| "I didn't install the cover as I don't need it for my application, but I should note the cover is made of plastic and not metal as I first assumed. I was impressed with how solid the the feel of the final product once installed. All necessary installation parts were included for installation in wood or metal doors, security through-the-door bolts, and even included the allen wrench needed." | Product has all tools needed for installation (explicit). |
+|   | Product is made of quality materials (explicit). |
+|   | The product has weather and use prevention (Latent). |
 |---|---|
-| | |
-| | |
-| | |
+| "Just so you know if using in your business this door closer is considered ADA compliant because it can do the 180 degree open. It is definitely heavy duty and I don’t see anyone not liking this closer. I would definitely recommend it over many others I have installed over the years that cost more and were not as heavy duty and didn’t have the mounting plate in a lot of cases. So this closer is definitely superior." | The product is ADA compliant (explicit). |
+|   | The product has all installation tools to install right out of the box (latent). |
+|   | The product can withstand heavy use (latent). |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
