@@ -28,15 +28,15 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Positive) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| I couldn’t be more impressed with my Topens Gate Opener! The installation was straightforward, and the system runs smoothly and quietly. The build quality is solid, and the smart features like remote control and auto-close are incredibly convenient. It has handled my heavy-duty gate effortlessly, even during bad weather. What really stood out was their customer support—quick, detailed, and extremely helpful. They answered all my questions with clear instructions and went above and beyond. Top-notch performance, reliability, and service—highly recommend! | The product has easy installation instructions (explicit). |
+| "The installation was straightforward, and the system runs smoothly and quietly. The build quality is solid, and the smart features like remote control and auto-close are incredibly convenient. It has handled my heavy-duty gate effortlessly, even during bad weather." | The product has easy installation instructions (explicit). |
 | | The materials are strong and will last (latent). |
 | | The product has an auto close feature that adds convienience (explicit). |
 |             ---              |          ---           |
-| I had been using mighty mule for 5+ years. Glad i switched when i needed a new opener. The Topen gate you manually set the at the arm as compared to the MM which you program with the remote. manual way is much easier to set. I had an electric lock already installed which works perfectly with the Topen. the timing on the MM was never quite right. i had so have the arm adjusted to close tight against the stop. otherwise it would bounce off the stop and not lock. It quickly and easily hooked up to wifi, apple homekit and siri. never worked with MM. Very easy setup and the support was immediately there to answer some pre and post purchases questions. | The product is easily adjusted (Latent). |
+| "The Topen gate you manually set the at the arm as compared to the MM which you program with the remote. manual way is much easier to set. I had an electric lock already installed which works perfectly with the Topen. It quickly and easily hooked up to wifi, apple homekit and siri. Very easy setup and the support was immediately there to answer some pre and post purchases questions. | The product is easily adjusted (Latent). |
 | | The product works with previous installations and wifi (explicit). |
 | | The product times well with electric locks and restraints (Latent). |
 |             ---              |          ---           |
-| Waited until I've gotten plenty use in different conditions. I mounted this unit on a pipe fence and it is opening a 16ft thin wall metal gate. Gate may weigh 100lbs or so. Has some issues at first with the gate opening very slowly, not working during any windy days, just seemed weak. After a few months of using it like that that control board broke a piece of solder and the gate quit working. Got with topens and they were very quick to reply and take care of the issues. They sent out a new control board and since then the gate has worked better than new. Plenty of power, good speed, and works during windy days. Highly recommend this company and their products, great customer service. | The product works against natural resistances (explicit). |
+| Plenty of power, good speed, and works during windy days. Highly recommend this company and their products, great customer service. | The product works against natural resistances (explicit). |
 | | The product has good opening and closing speed (explicit). |
 | | The product was easy to dissasemble and reassemble (latent). |
 
