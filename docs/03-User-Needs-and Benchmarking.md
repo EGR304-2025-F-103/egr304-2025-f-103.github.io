@@ -137,6 +137,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 [Product 4]: https://dormakaba-res.cloudinary.com/image/upload/t_prod-detail-square/f_auto,q_auto/v1745407577/dormakaba-prod/110000000167-ed900-1200x1200jpg-image-slider-product-image-slider-zoom.jpg
 
 [Product: ED900 Swing Door Operator](https://www.dormakaba.com/us-en/offering/products/door-hardware/low-energy-swing-door-operators/ed900--do_2452?utm_source=)
+
 | # | Customer Reviews (Positive) | Restated Customer Need |
 | - | ------------------------------------------------------ | ---------------------------------------------------------- |
 | 1 | “Love being able to control it with my phone.” | Need remote/app control for convenience (**Explicit**) |
@@ -144,6 +145,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 | 3 | “No cutting required, fits my sliding door perfectly.” | Need easy, non-invasive installation (**Explicit**) |
 | 4 | “My dog quickly learned to use it.” | Need pet-friendly usability (**Latent**) |
 | 5 | “Feels secure when locked at night.” | Need security and peace of mind (**Latent**) |
+
 | # | Customer Reviews (Negative) | Restated Customer Need |
 | - | --------------------------------------------- | ---------------------------------------------------- |
 | 1 | “It sometimes gets stuck halfway.” | Need reliable, consistent operation (**Explicit**) |
@@ -158,6 +160,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 [Product 5]: https://m.media-amazon.com/images/I/71z08lDevyL._AC_SL1500_.jpg
 
 [Product:Olide-120B Swing Door Operator](www.amazon.com/Olideauto-Operator-Automatic-Commercial-Olide-120B/dp/B08R88699S?utm_source=)
+
 | # | Customer Reviews (Positive) | Restated Customer Need |
 | - | ------------------------------------------ | ---------------------------------------------------- |
 | 1 | “Works perfectly with my cat’s microchip.” | Need reliable microchip recognition (**Explicit**) |
