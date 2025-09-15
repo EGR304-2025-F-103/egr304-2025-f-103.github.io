@@ -58,6 +58,7 @@ cur, aut in adhuc crimina **habebat**: pro.
    Product: Handicap Door Opener for Disabled People.
 
 ![Product 2][Product 2]
+
 [Product 2]: https://m.media-amazon.com/images/I/612lCARhABL._AC_SX679_.jpg
 
 [This product](https://www.amazon.com/Handicap-Opener-Disabled-People-Operator/dp/B00XHN3QT4/ref=pd_day0fbt_hardlines_d_sccl_1/141-6684718-3372835?pd_rd_w=3EhAi&content-id=amzn1.sym.06aea998-aa9c-454e-b467-b476407c7977&pf_rd_p=06aea998-aa9c-454e-b467-b476407c7977&pf_rd_r=XEC09XXK91YHAA4HHVTS&pd_rd_wg=mYMoG&pd_rd_r=c4d6aac0-6196-4c8e-9dac-87c82dc8042b&pd_rd_i=B00XHN3QT4&psc=1) is for indoor doors, but it still uses a button system instead of a sensor.
@@ -117,17 +118,18 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+| Overly complicated instructions with too many options/not diy friendly. Required help from experienced personnel.| The product has easy to follow instructions while remaining helpful. (Explicit) |
+| | The product can be installed by inexperienced users. (Explicit) |
+| | The product has a standardized method of installation. (Explicit) |
 | ---                         | ---                    |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+| Too industrial/heavy-duty to be used for non-commercial applications. | The product works in lighter-duty applications. (Explicit) |
+| | The product has a sufficiently wide range of power output. (Latent) |
+| | The intended use-environment of the product is clear to consumers before purchasing. (Latent) |
 | ---                         | ---                    |
-|                             |                        |
-|                             |                        |
-|                             |                        |
+| Causes the door to be difficult to open/keep open. Closes too quickly and with too much force for handicapped or weaker people. | The product allows the door to be opened with minimal effort. (Explicit) |
+| | The product holds the door open for a sufficient amount of time. (Explicit) |
+| | The product prevents the door from closing while users are walking through it. (Latent) |
+| | The product stops operation when sensing more resistance than usual. (Latent) |
 
 4. Search bar:
    Product: ED900 Swing Door Operator
