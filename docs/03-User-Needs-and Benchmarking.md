@@ -104,7 +104,7 @@ Here is a list of 5 products and common positive and negative views on the produ
 | Customer Reviews (Positive) | Restated Customer Need |
 |---|---|
 | "The instructions were a little hard to understand, but other than that it was an easy installation." | Product has clear instructions (**Explicit**). |
-|   | Product is installed by those with more experience (**Latent**). |
+|   | Product is installed by those with no experience (**Latent**). |
 |   | The product has simple pieces for quick installation (**Latent**). |
 |---|---|
 | "I didn't install the cover as I don't need it for my application, but I should note the cover is made of plastic and not metal as I first assumed. I was impressed with how solid the the feel of the final product once installed. All necessary installation parts were included for installation in wood or metal doors, security through-the-door bolts, and even included the allen wrench needed." | Product has all tools needed for installation (**Explicit**). |
