@@ -64,31 +64,31 @@ Here is a list of 5 products and common positive and negative views on the produ
 
 | Customer Reviews (Positive) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Installation and settings changes were simple, and setbacks were easily solved by provided external resources such as support lines and tutorials. | The product has adjustable settings. (**Explicit**) |
+| "Installation and settings changes were simple, and setbacks were easily solved by provided external resources such as support lines and tutorials." | The product has adjustable settings. (**Explicit**) |
 | | The product has a UI which is easy to understand/operate. (**Latent**) |
 | | The product has helpful customer support resources. (**Explicit**) |
 | ---                         | ---                    |  
-| The product consumes low amounts of electricity and did not require a separate electrical circuit. | The product does not require a large amount of power. (**Explicit**) |
+| "The product consumes low amounts of electricity and did not require a separate electrical circuit." | The product does not require a large amount of power. (**Explicit**) |
 | | The product is easy to supply power to. (**Explicit**) |
 | | The product's mechanical properties are energy efficient. (**Latent**) |
 | | The product's electrical components are self-contained/not bulky. (**Latent**) |
 | ---                         | ---                    |
-| Works just as well as much more expensive brands such as "Stanley" which seem to be almost identical other than the branding. | The product's materials are clearly identified. (**Latent**) |
+| "Works just as well as much more expensive brands such as "Stanley" which seem to be almost identical other than the branding." | The product's materials are clearly identified. (**Latent**) |
 | | The product is comparable to "high-end" products. (**Latent**) |
 | | The product is reasonably affordable. (**Explicit**) |
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Remotes and/or opener apparatus itself become faulty/inconsitent over time. | The product is consistent. (**Explicit**) |
+| "Remotes and/or opener apparatus itself become faulty/inconsitent over time." | The product is consistent. (**Explicit**) |
 | | The product's component ratings exceed the typical use-environment conditions. (**Latent**) |
 | | The product's software is not prone to bugs. (**Latent**) |
 | | The product is easy to repair/debug if necessary. (**Latent**) |
 | ---                         | ---                    |
-|  Manually opening the door leads to the product malfunctioning/breaking. | The product does not interfere with manual opening of doors. (**Explicit**) |
+|  "Manually opening the door leads to the product malfunctioning/breaking." | The product does not interfere with manual opening of doors. (**Explicit**) |
 | | The product clearly states its functionality to users. (**Latent**) |
 | | The product has failsafes to prevent damage to its components. (**Latent**)                       |
 | ---                         | ---                    |
-|  Initial programming was difficult and included instructions were poorly translated/unorganized. | The products most basic functioning requires little to no user programming. (**Explicit**) |
+|  "Initial programming was difficult and included instructions were poorly translated/unorganized. | The products most basic functioning requires little to no user programming." (**Explicit**) |
 | | Product comes with user manual that is clear and not overly complicated. (**Explicit**) |
 | | The product is intuitive to use/setup with minimal need for instructions. (**Latent**) |
 
@@ -117,15 +117,15 @@ Here is a list of 5 products and common positive and negative views on the produ
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Overly complicated instructions with too many options/not diy friendly. Required help from experienced personnel.| The product has easy to follow instructions while remaining helpful. (**Explicit**) |
+| "Overly complicated instructions with too many options/not diy friendly. Required help from experienced personnel."| The product has easy to follow instructions while remaining helpful. (**Explicit**) |
 | | The product can be installed by inexperienced users. (**Explicit**) |
 | | The product has a standardized method of installation. (**Explicit**) |
 | ---                         | ---                    |
-| Too industrial/heavy-duty to be used for non-commercial applications. | The product works in lighter-duty applications. (**Explicit**) |
+| "Too industrial/heavy-duty to be used for non-commercial applications." | The product works in lighter-duty applications. (**Explicit**) |
 | | The product has a sufficiently wide range of power output. (**Latent**) |
 | | The intended use-environment of the product is clear to consumers before purchasing. (**Latent**) |
 | ---                         | ---                    |
-| Causes the door to be difficult to open/keep open. Closes too quickly and with too much force for handicapped or weaker people. | The product allows the door to be opened with minimal effort. (**Explicit**) |
+| "Causes the door to be difficult to open/keep open. Closes too quickly and with too much force for handicapped or weaker people. | The product allows the door to be opened with minimal effort." (**Explicit**) |
 | | The product holds the door open for a sufficient amount of time. (**Explicit**) |
 | | The product prevents the door from closing while users are walking through it. (**Latent**) |
 | | The product stops operation when sensing more resistance than usual. (**Latent**) |
