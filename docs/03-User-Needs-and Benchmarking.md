@@ -118,18 +118,18 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 | Customer Reviews (Negative) | Restated Customer Need |
 | --------------------------- | ---------------------- |
-| Overly complicated instructions with too many options/not diy friendly. Required help from experienced personnel.| The product has easy to follow instructions while remaining helpful. (Explicit) |
-| | The product can be installed by inexperienced users. (Explicit) |
-| | The product has a standardized method of installation. (Explicit) |
+| Overly complicated instructions with too many options/not diy friendly. Required help from experienced personnel.| The product has easy to follow instructions while remaining helpful. (**Explicit**) |
+| | The product can be installed by inexperienced users. (**Explicit**) |
+| | The product has a standardized method of installation. (**Explicit**) |
 | ---                         | ---                    |
-| Too industrial/heavy-duty to be used for non-commercial applications. | The product works in lighter-duty applications. (Explicit) |
-| | The product has a sufficiently wide range of power output. (Latent) |
-| | The intended use-environment of the product is clear to consumers before purchasing. (Latent) |
+| Too industrial/heavy-duty to be used for non-commercial applications. | The product works in lighter-duty applications. (**Explicit**) |
+| | The product has a sufficiently wide range of power output. (**Latent**) |
+| | The intended use-environment of the product is clear to consumers before purchasing. (**Latent**) |
 | ---                         | ---                    |
-| Causes the door to be difficult to open/keep open. Closes too quickly and with too much force for handicapped or weaker people. | The product allows the door to be opened with minimal effort. (Explicit) |
-| | The product holds the door open for a sufficient amount of time. (Explicit) |
-| | The product prevents the door from closing while users are walking through it. (Latent) |
-| | The product stops operation when sensing more resistance than usual. (Latent) |
+| Causes the door to be difficult to open/keep open. Closes too quickly and with too much force for handicapped or weaker people. | The product allows the door to be opened with minimal effort. (**Explicit**) |
+| | The product holds the door open for a sufficient amount of time. (**Explicit**) |
+| | The product prevents the door from closing while users are walking through it. (**Latent**) |
+| | The product stops operation when sensing more resistance than usual. (**Latent**) |
 
 4. Search bar:
    Product: ED900 Swing Door Operator
