@@ -206,7 +206,7 @@ Here is a list of 5 products and common positive and negative views on the produ
 
 ## Needs Statements: 
 
-This next page is a list of grouped Needs Statements. In this [PDF on Ranking Need Statements](docs/Appendix/EGR304_103_User_Needs.pdf) we have the initial list of 101 statements, the groups that we created and categorized the needs in, and the ranking of the groups. This is the finalized group ranking with each statement listed within the group. 
+This next page is a list of grouped Needs Statements. In this [PDF on Ranking Need Statements](EGR304_103_User_Needs.pdf) we have the initial list of 101 statements, the groups that we created and categorized the needs in, and the ranking of the groups. This is the finalized group ranking with each statement listed within the group. 
 
 
 **Final Grouping and Ranking**
