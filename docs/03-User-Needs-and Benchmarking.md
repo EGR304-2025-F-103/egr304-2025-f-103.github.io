@@ -210,6 +210,7 @@ This next page is a list of grouped Needs Statements. To view the initial list o
 
 
 **Final Grouping and Ranking**
+
 1. Safety
 
         The product will start opening before customer gets too close
