@@ -203,6 +203,233 @@ Here is a list of 5 products and common positive and negative views on the produ
 |                                              | The product has simplified mounting components (**Latent**).     |
 |                                              | The product requires minimal extra tools for setup (**Latent**). |
 
+
+## Needs Statements: 
+
+This next page is a list of grouped Needs Statements. In this [PDF on Ranking Need Statements](docs/Appendix/EGR304_103_User_Needs.pdf) we have the initial list of 101 statements, the groups that we created and categorized the needs in, and the ranking of the groups. This is the finalized group ranking with each statement listed within the group. 
+
+
+**Final Grouping and Ranking**
+1. Safety
+
+        The product will start opening before customer gets too close
+
+        The product will close if you do not enter the door
+
+        The product can alarm when the door is open
+
+        The product can check to see if there are objects in the way of the door.
+
+        The product can disengage so that the door can be manually opened or closed
+
+        The product can open for animals
+
+        The product can stay closed around children
+
+        The product can be used while there is a fire
+
+        The product prevents the door from closing while users are walking through it.
+
+        The product stops operation when sensing more resistance than usual.
+
+        The product is ADA compliant
+
+        The product differentiate between humans and objects.
+
+        The product distinguishes between adults and kids.
+
+        The product detects if any external force is applied on the door.
+
+        The product provides controlled access for security.
+
+        The product distinguishes between intruders and authorized persons.
+
+        The product can provide security and peace of mind.
+
+        The product has obstacle detection and safety features 
+
+        The product is able to work in case of a power outage
+
+2. Ease of Use
+
+        The product is easily adjusted
+
+        The product works with WiFi
+
+        The product will start opening before customer gets too close
+
+        The product has an easy program interface
+
+        The product can be connected with an app with any OS. 
+
+        The product has a UI which is easy to understand/operate.
+
+        The product is affordable.
+
+        The product is consistent.
+
+        The product does not interfere with manual opening of doors.
+
+        The product’s most basic functioning requires little to no user programming.
+
+3. Installation
+
+        The product works with previous installations.
+
+        The installation will have all tools needed for the product to be installed.
+
+        The product stays attached to the door without lasting damage to the door.
+
+        The product has 90 or 180 degree openability.
+
+        The product can be used on different door surfaces.
+
+        Products are installed by those with no experience.
+
+        The product has all installation tools to install right out of the box.
+
+        The product can be installed by inexperienced users.
+
+        The product works in lighter-duty applications.
+
+        The product can allow easy, non-invasive installation.
+
+4. Instructions
+
+        The product has easy installation instructions.
+
+        The product comes with a user manual that is clear and not overly complicated.
+
+        The product is intuitive to use/setup with minimal need for instructions.
+
+        The product has digital instructions set.
+
+        The product has simple pieces for quick installation.
+
+        Product has all tools needed for installation.
+
+        The product has easy to follow instructions while remaining helpful.
+
+        The product has a standardized method of installation.
+
+5. Quality
+
+        The product will stay attached to the door over extended periods of time.
+
+        The product can withstand heavy use.
+
+        The product allows the door to be opened with minimal effort.
+
+        The product holds the door open for a sufficient amount of time.
+
+        The product delivers long-lasting, dependable power.
+
+        The product can provide better cost-benefit value.
+
+6. Power
+
+        The product does not require a large amount of power.
+
+        The product is easy to supply power to.
+
+        The product's mechanical properties are energy efficient.
+
+        The product can have low-maintenance, long battery life.
+
+        The product delivers long-lasting, dependable power.
+
+        The product is able to work in case of a power outage.
+
+7. Connectivity
+
+        The product can unlock the door.
+
+        The product can lock the door.
+
+        The product can use other products’ buttons and key fobs.
+
+        The product can reliably recognize microchips.
+
+        The product can maintain stable software and connectivity.
+
+        The product can be controlled remotely via app.
+
+8. Support
+
+        The product has helpful customer support resources.
+
+        The product's software is not prone to bugs.
+
+        The product is easy to repair/debug if necessary.
+
+        The product clearly states its functionality to users.
+
+        The product has failsafes to prevent damage to its components.
+
+        The product can provide responsive after-sales support.
+
+9. Components
+
+        The materials are strong.
+
+        The materials will last over 10 years.
+
+        The product is lightweight.
+
+        The product is sturdy.
+
+        The product is made of quality materials.
+
+        The product has weather and use prevention.
+
+        The product can provide premium material quality.
+
+        The product can have a durable build for long-term use.
+
+        The product can be resistant to termites.
+
+        The product can be easy to clean.
+
+10. Visual
+
+        The product can be painted.
+
+        The product doesn't have any external wiring hanging.
+
+        The product doesn't have any point edges.
+
+        The product is comparable to "high-end" products.
+
+        Program Customization
+
+        The product has an auto close feature.
+
+        The product will close if you do not enter the door.
+
+        The product can unlock the door.
+
+        The product can lock the door.
+
+11. Program Customization
+
+        The product has an auto close feature.
+
+        The product will close if you do not enter the door.
+
+        The product can unlock the door.
+
+        The product can lock the door.
+
+
+
+
+
+
+
+
+
+
+
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
 scripta](http://vidit-lumine.io/sinusdeum). _Nihil ventis Aeneae_ probat.
