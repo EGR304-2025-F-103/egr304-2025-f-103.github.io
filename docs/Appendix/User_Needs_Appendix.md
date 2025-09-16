@@ -5,12 +5,14 @@ tags:
   - tag2
 ---
 
-## Need Statement PDF
+## User Needs Categorizing/Ordering Process
 
-<object data="EGR304_103_User_Needs.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="EGR304_103_User_Needs.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="EGR304_103_User_Needs.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![UserNeedsPage1](UserNeedsPage1.png)
 
+![UserNeedsPage2](UserNeedsPage2.png)
 
+![UserNeedsPage3](UserNeedsPage3.png)
+
+![UserNeedsPage4](UserNeedsPage4.png)
+
+![UserNeedsPage5](UserNeedsPage5.png)
