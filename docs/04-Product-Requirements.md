@@ -18,10 +18,11 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-**User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+**User Story #1: Matt**
+25 year old Matt lives alone in his new house with a new puppy. Since he got it he has been meal prepping and slowly adding fruniture to his house. He recently got this automatic door opener and closer for his backyard door, bedroom door, and door that leads to the garage. He found it really convinient to have his bedroom door and backyard door open and close themselves whenever his new puppy wanted to go out. This helped him not worry about his new puppy having accidents inside the house or his room while he is sleeping or at work. 
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Matt also has one installed on the door that leads to the garage. When he grabs groceries, he buys enough for the whole month. To make the trips from his car to the pantry the least amount possible his hands are usually full while he walks inside and he dropps a few items every time he opens the door. Having the door automatically open and close helps Matt grab as much as he can from his car to the kitchen without having to worry about trying to open the door with his hands full. His friends also commented how helpful this was when they were moving boxes from his old apartment to his new house. THey just walked up towards the door and it opened for them without them having to set the boxes down and pick them back up. 
+
 
 **User Story #2: Mary**
 
@@ -46,5 +47,7 @@ The new product design will be based on that of the AirPods with improvements ba
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Can we have the product sense the difference between a child and an adult? 
+* Can we improve the speed or force of the door opener for heavier doors? 
+* Can we make the Auto Door lighter weight to help with installation and shipping? 
+* Does looks and color affect customer's intrest in the product? 
