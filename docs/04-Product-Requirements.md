@@ -11,11 +11,9 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-- **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+- **Target group** Product users would be families, those with disabilities, and people who live in houses and work in buildings. 
+- **Target purchaser** The product purchasers would be home, building, and property owners.
+- **Retailers** Construction companies and realators who would sell this as an additional feature in new homes. 
 
 
 ## Use Cases
@@ -24,6 +22,9 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
 
 Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+
+**User Story #2: Mary**
+
 
 ## Aspects
 
