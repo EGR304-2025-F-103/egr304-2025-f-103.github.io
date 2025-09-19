@@ -60,8 +60,8 @@ The new product design will be an automatic door opener and closer with the foll
 
 1. **Safety** 
       * 6.1 The automatic door will be ADA compliant (10).
-      * 6.2 
-      * 6.3
+      * 6.2 The automatic door will sense someonme in the doorway (10). 
+      * 6.3 The automatic door is easily bypassed in an emergency (8).
       
 
 ## Requirement Criteria Specifications
@@ -69,8 +69,8 @@ The new product design will be an automatic door opener and closer with the foll
 * 1.1.1 - The product does not exceed the weight of 20 pounds. 
 * 1.2.1 - The automatic door opener must be able to open a door 90 degrees from the close position 
 * 1.6.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
-* 1.6.2 - 
-* 1.6.3 -  
+* 1.6.2 - The automatic door will not close if something is blocking the door frame.
+* 1.6.3 - The automatic door can have the motor disenged by a latch. 
 
 ## Open Questions
 
