@@ -33,13 +33,13 @@ Matt also has one installed on the door that leads to the garage. When he grabs 
 The new product design will be an automatic door opener and closer with the following requirements. The **1 - 10** (in parenthesis) is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware / Product Design**
-      * 1.1 
+      * 1.1 The product is lightweight (7).
       * 1.2
       * 1.3 
 
 
 1. **Software / Functionality** 
-      * 2.1 
+      * 2.1 The product can fully open the door (10). 
       * 2.2
       * 2.3 
 
@@ -58,18 +58,19 @@ The new product design will be an automatic door opener and closer with the foll
       * 5.2
       * 5.3 
 
-1. **Safety** (Feel free to include any safety regulations you come across in your research.)
-      * 6.1 
-      * 6.2
+1. **Safety** 
+      * 6.1 The automatic door will be ADA compliant (10).
+      * 6.2 
       * 6.3
       
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
-* 1.1.2 - The product does not exceed the weight of 20 pounds. 
-* 1.1.3 - The automatic door opener must be able to open a door 90 degrees from the close position
-* 1.1.4 - 
+* 1.1.1 - The product does not exceed the weight of 20 pounds. 
+* 1.2.1 - The automatic door opener must be able to open a door 90 degrees from the close position 
+* 1.6.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
+* 1.6.2 - 
+* 1.6.3 -  
 
 ## Open Questions
 
