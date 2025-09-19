@@ -30,16 +30,39 @@ Matt also has one installed on the door that leads to the garage. When he grabs 
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The new product design will be an automatic door opener and closer with the following requirements. The **1 - 10** (in parenthesis) is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producr Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
-  
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+1. **Hardware / Product Design**
+      * 1.1 
+      * 1.2
+      * 1.3 
+
+
+1. **Software / Functionality** 
+      * 2.1 
+      * 2.2
+      * 2.3 
+
+1. **Interactivity & User Experience**
+      * 3.1 
+      * 3.2
+      * 3.3 
+
+1. **Customization**
+      * 4.1 
+      * 4.2
+      * 4.3 
+
+1. **Manufacturing**
+      * 5.1 
+      * 5.2
+      * 5.3 
+
+1. **Safety** (Feel free to include any safety regulations you come across in your research.)
+      * 6.1 
+      * 6.2
+      * 6.3
+      
 
 ## Requirement Criteria Specifications
 
