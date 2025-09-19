@@ -67,7 +67,25 @@ The new product design will be an automatic door opener and closer with the foll
 ## Requirement Criteria Specifications
 
 * 1.1.1 - The product does not exceed the weight of 20 pounds. 
+* 1.1.2 - 
+* 1.1.3 - 
+
 * 1.2.1 - The automatic door opener must be able to open a door 90 degrees from the close position 
+* 1.2.2 - 
+* 1.2.3 - 
+
+* 1.3.1 - 
+* 1.3.2 - 
+* 1.3.3 - 
+
+* 1.4.1 - 
+* 1.4.2 - 
+* 1.4.3 - 
+
+* 1.5.1 - 
+* 1.5.2 - 
+* 1.5.3 - 
+
 * 1.6.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
 * 1.6.2 - The automatic door will not close if something is blocking the door frame.
 * 1.6.3 - The automatic door can have the motor disenged by a latch. 
