@@ -43,8 +43,10 @@ The new product design will be based on that of the AirPods with improvements ba
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1.1.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
+* 1.1.2 - The product does not exceed the weight of 20 pounds. 
+* 1.1.3 - The automatic door opener must be able to open a door 90 degrees from the close position
+* 1.1.4 - 
 
 ## Open Questions
 
