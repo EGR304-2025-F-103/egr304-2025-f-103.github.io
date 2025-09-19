@@ -34,29 +34,28 @@ The new product design will be an automatic door opener and closer with the foll
 
 1. **Hardware / Product Design**
       * 1.1 The product is lightweight (7).
-      * 1.2
-      * 1.3 
-
+      * 1.2 The opener must fit standard interior door frames 30-36 inches wide and 79-80 inches tall without modifications (8).
+      * 1.3 The opener must support left-hand and right-hand swing doors (6).
 
 1. **Software / Functionality** 
       * 2.1 The product can fully open the door (10). 
-      * 2.2
-      * 2.3 
+      * 2.2 The sensor must detect a person approaching within 3 feet and trigger opening (9).
+      * 2.3 The system must include a manual override through button or app (7).
 
 1. **Interactivity & User Experience**
-      * 3.1 
-      * 3.2
-      * 3.3 
+      * 3.1 The product can be installed by a non-technical user in under 30 minutes (9).
+      * 3.2 The interface must include clear LED indicators for open, closed, and error states (8).
+      * 3.3 The door operation must remain under 60 dB measured at 1 meter (7).
 
 1. **Customization**
-      * 4.1 
-      * 4.2
-      * 4.3 
+      * 4.1 Users can adjust door opening speed (slow, medium, fast) (4).
+      * 4.2 The device is available in multiple finishes or colors (5).
+      * 4.3 The opener can be mounted on different door types including wood and metal (2).
 
 1. **Manufacturing**
-      * 5.1 
-      * 5.2
-      * 5.3 
+      * 5.1 At least 80 percent of parts are off-the-shelf (8).
+      * 5.2 Assembly requires fewer than 20 parts (7).
+      * 5.3 Packaging must protect the device from a 3-foot drop (6).
 
 1. **Safety** 
       * 6.1 The automatic door will be ADA compliant (10).
@@ -67,25 +66,7 @@ The new product design will be an automatic door opener and closer with the foll
 ## Requirement Criteria Specifications
 
 * 1.1.1 - The product does not exceed the weight of 20 pounds. 
-* 1.1.2 - 
-* 1.1.3 - 
-
 * 1.2.1 - The automatic door opener must be able to open a door 90 degrees from the close position 
-* 1.2.2 - 
-* 1.2.3 - 
-
-* 1.3.1 - 
-* 1.3.2 - 
-* 1.3.3 - 
-
-* 1.4.1 - 
-* 1.4.2 - 
-* 1.4.3 - 
-
-* 1.5.1 - 
-* 1.5.2 - 
-* 1.5.3 - 
-
 * 1.6.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
 * 1.6.2 - The automatic door will not close if something is blocking the door frame.
 * 1.6.3 - The automatic door can have the motor disenged by a latch. 
