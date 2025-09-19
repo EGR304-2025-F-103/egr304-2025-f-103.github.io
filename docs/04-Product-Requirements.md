@@ -33,40 +33,58 @@ Matt also has one installed on the door that leads to the garage. When he grabs 
 The new product design will be an automatic door opener and closer with the following requirements. The **1 - 10** (in parenthesis) is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware / Product Design**
-      * 1.1 The product is lightweight (7).
-      * 1.2 The opener must fit standard interior door frames 30-36 inches wide and 79-80 inches tall without modifications (8).
-      * 1.3 The opener must support left-hand and right-hand swing doors (6).
+   * 1.1 The product is lightweight (7).
+   * 1.2 The opener must fit normal house doors without big changes (8).
+   * 1.3 The opener must work on all common door types (6).
 
-1. **Software / Functionality** 
-      * 2.1 The product can fully open the door (10). 
-      * 2.2 The sensor must detect a person approaching within 3 feet and trigger opening (9).
-      * 2.3 The system must include a manual override through button or app (7).
+1. **Software / Functionality**
+   * 2.1 The product can fully open and close a door (6).
+   * 2.2 The product must sense a person coming and start opening (9).
+   * 2.3 The product must have a manual override by button or app (7).
 
 1. **Interactivity & User Experience**
-      * 3.1 The product can be installed by a non-technical user in under 30 minutes (9).
-      * 3.2 The interface must include clear LED indicators for open, closed, and error states (8).
-      * 3.3 The door operation must remain under 60 dB measured at 1 meter (7).
+   * 3.1 The product can be set up by a regular person with no special skills (4).
+   * 3.2 The product must show clear signals for open, closed, and errors (8).
+   * 3.3 The product must run quiet enough for indoor use (7).
 
 1. **Customization**
-      * 4.1 Users can adjust door opening speed (slow, medium, fast) (4).
-      * 4.2 The device is available in multiple finishes or colors (5).
-      * 4.3 The opener can be mounted on different door types including wood and metal (2).
+   * 4.1 The product must let the user change how fast it opens (4).
+   * 4.2 The product must come in different colors or looks (5).
+   * 4.3 The product must work on different door materials (2).
 
 1. **Manufacturing**
-      * 5.1 At least 80 percent of parts are off-the-shelf (8).
-      * 5.2 Assembly requires fewer than 20 parts (7).
-      * 5.3 Packaging must protect the device from a 3-foot drop (6).
+   * 5.1 The product must mostly use store bought parts (8).
+   * 5.2 The product must be easy to put together (7).
+   * 5.3 The product must be packed safe for shipping (6).
 
-1. **Safety** 
-      * 6.1 The automatic door will be ADA compliant (10).
-      * 6.2 The automatic door will sense someonme in the doorway (10). 
-      * 6.3 The automatic door is easily bypassed in an emergency (8).
-      
+1. **Safety**
+   * 6.1 The product must follow ADA rules (10).
+   * 6.2 The product must stop if something is in the way (10).
+   * 6.3 The product must be easy to open in an emergency (8).
+
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - The product does not exceed the weight of 20 pounds. 
-* 1.2.1 - The automatic door opener must be able to open a door 90 degrees from the close position 
+* 1.1.1 - The product must weigh less than 30 pounds.  
+* 1.1.2 - The opener must fit doors 30–36 inches wide and 79–80 inches tall.  
+* 1.1.3 - The opener must work on both left hand and right hand swing doors.  
+
+* 1.2.1 - The product must open a door at least 90 degrees.  
+* 1.2.2 - The sensor must spot a person at 3 feet and open within 1 second.  
+* 1.2.3 - The manual override must open or close the door within 2 seconds.  
+
+* 1.3.1 - A first time user must be able to set it up in under 30 minutes.  
+* 1.3.2 - The product must have LED lights that show open, closed, and errors.  
+* 1.3.3 - The noise must stay under 60 dB when running.  
+
+* 1.4.1 - The product must have at least 3 speed options.  
+* 1.4.2 - The product must come in at least 3 finishes or colors.  
+* 1.4.3 - The opener must work on both wood and metal doors.  
+
+* 1.5.1 - At least 80% of the parts must be store bought.  
+* 1.5.2 - The product must use less than 20 unique parts for build.  
+* 1.5.3 - The box must keep it safe from a 3 foot drop.  
+
 * 1.6.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N). 
 * 1.6.2 - The automatic door will not close if something is blocking the door frame.
 * 1.6.3 - The automatic door can have the motor disenged by a latch. 
