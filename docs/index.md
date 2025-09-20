@@ -6,7 +6,7 @@ tags:
 ---
 
 <center>
-<font size="8">Project Name<br>
+<font size="8">Private-Use Door Automation<br>
 <font size="5">Team 103<br>
 <font size="5">Isaac Smith, Christo Joseph, Seth Merwin, Lakshanand Sugumar<br>
 **Submission: September, 05, 2025**<br>
