@@ -34,41 +34,35 @@ At night, Mary and her spouse can gently close and lock the nursery door once th
 
 The new product design will be an automatic door opener and closer with the following requirements. The **1 - 10** (in parenthesis) is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Hardware / Product Design**  
+1. **Hardware / Product Design**  <br>
+   - 1.1 - The product is lightweight (7).
+   - 1.2 - The opener must fit normal house doors without big changes (8).
+   - 1.3 - The opener must work on all common door types (6).
 
-   - 1.1 The product is lightweight (7).
-   - 1.2 The opener must fit normal house doors without big changes (8).
-   - 1.3 The opener must work on all common door types (6).
+1. **Software / Functionality**  <br>
+   - 2.1 - The product can fully open and close a door (6).
+   - 2.2 - The product must sense a person coming and start opening (9).
+   - 2.3 - The product must have a manual override by button or app (7).
 
-1. **Software / Functionality**  
+1. **Interactivity & User Experience**  <br>
+   - 3.1 - The product can be set up by a regular person with no special skills (4).
+   - 3.2 - The product must show clear signals for open, closed, and errors (8).
+   - 3.3 - The product must run quiet enough for indoor use (7).
 
-   - 2.1 The product can fully open and close a door (6).
-   - 2.2 The product must sense a person coming and start opening (9).
-   - 2.3 The product must have a manual override by button or app (7).
+1. **Customization** <br>
+   - 4.1 - The product must let the user change how fast it opens (4).
+   - 4.2 - The product must come in different colors or looks (5).
+   - 4.3 - The product must work on different door materials (2).
 
-1. **Interactivity & User Experience**  
+1. **Manufacturing**  <br>
+   - 5.1 - The product must mostly use store bought parts (8).
+   - 5.2 - The product must be easy to put together (7).
+   - 5.3 - The product must be packed safe for shipping (6).
 
-   - 3.1 The product can be set up by a regular person with no special skills (4).
-   - 3.2 The product must show clear signals for open, closed, and errors (8).
-   - 3.3 The product must run quiet enough for indoor use (7).
-
-1. **Customization**  
-
-   - 4.1 The product must let the user change how fast it opens (4).
-   - 4.2 The product must come in different colors or looks (5).
-   - 4.3 The product must work on different door materials (2).
-
-1. **Manufacturing**  
-
-   - 5.1 The product must mostly use store bought parts (8).
-   - 5.2 The product must be easy to put together (7).
-   - 5.3 The product must be packed safe for shipping (6).
-
-1. **Safety**  
-
-   - 6.1 The product must follow ADA rules (10).
-   - 6.2 The product must stop if something is in the way (10).
-   - 6.3 The product must be easy to open in an emergency (8).
+1. **Safety** <br>
+   - 6.1 - The product must follow ADA rules (10).
+   - 6.2 - The product must stop if something is in the way (10).
+   - 6.3 - The product must be easy to open in an emergency (8).
 
 ## Requirement Criteria Specifications
 
