@@ -16,8 +16,108 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
-| product provides clear notifications |              buzzer              | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications |             speaker              | the device can emit full waveforms                                          |
+| The product must stop if something is in the way. |              Sensor              | The device has an additional sensor focusing on the doorway line to make sure there is nothing in the area. This is important because we do not want the door to shut on people, animals, or objects. |
+| The product must stop if something is in the way. |             Smaller motor              | The device only produces a max of 10lbs of force. This is important because if someone gets stuck inbetween the door they can push the door to prevent closure. |
+| The product must be easy to open in an emergency |             Latch          | The device has a latch inside that unhindges the motor to the door causing the door to open without resistance. |
+| The product must be easy to open in an emergency |          button             | The device has a secret button that will turn the motor off to make opening the door easier. |
+| The product must be easy to open in an emergency |           pin            | The device disengages the motorwhen a key/pin is inserted through a hole. |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+|  |                       |  |
+
 
 ## Step Three
 
