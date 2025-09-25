@@ -106,7 +106,7 @@ The new product design will be an automatic door opener and closer with the foll
 
 - 1.6.1 - The force for pushing or pulling open interior swinging egress doors shall not exceed 5 pounds (22 N).
 - 1.6.2 - The automatic door will not close if something is blocking the door frame.
-- 1.6.3 - The automatic door can have the motor disenged by a latch.
+- 1.6.3 - The automatic door can have the motor disengaged by a latch.
 
 ## Open Questions
 
