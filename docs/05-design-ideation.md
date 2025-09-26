@@ -59,30 +59,44 @@ For each user need and product requirement, brainstorm 5 different product featu
 |                                                                      |                           |                                                                                                                                                                                                                                                                          |
 |                                                                      |                           |                                                                                                                                                                                                                                                                          |
 
-| Sensor | The product must stop if something is in the way. | A dedicated doorway-line sensor checks the threshold and prevents the door from closing on people, pets, or objects. |
-| Smaller Motor | The product must stop if something is in the way. | Limits output to ~10 lb of force so someone caught in the path can easily resist and prevent closure. |
-| Resistance-sensing Motor | The product must stop if something is in the way. | Monitors opposing torque; if force exceeds a set threshold, the motor stops and reverses. |
-| Radar/Sensor | The product must stop if something is in the way. | Pairs with a user-carried fob; if the fob is within ~2 ft, the door stays open and won’t close on the user. |
-| Microphone | The product must stop if something is in the way. | Always-listening keyword (e.g., “stop”) immediately halts motion. |
-| Latch (mechanical release) | The product must be easy to open in an emergency | A manual latch decouples the drive from the door so it swings freely if power is lost. |
-| Button (override) | The product must be easy to open in an emergency | A discreet pushbutton kills motor power to allow effortless manual opening. |
-| Pin/Key | The product must be easy to open in an emergency | Inserting a key/pin mechanically disengages the drive for a free-swing door. |
-| Microphone (voice release) | The product must be easy to open in an emergency | Voice keyword (e.g., “disengage”) cuts motor output for manual operation. |
-| Proximity/Distance Sensor | The product can stay closed around children | Uses height detection to ignore very short profiles so small children or pets can’t trigger the door. |
-| Radar/Sensor (authorized-use fob) | The product can stay closed around children | Operates only when an authorized fob is within ~3 ft, preventing unintended activation. |
-| Button/Switch (child lock) | The product can stay closed around children | A hidden child-lock switch disables activation until re-enabled by an adult. |
-| Facial Recognition | The product can stay closed around children | Opens only for stored, authorized faces to reduce misuse. |
-| Scanner (QR/Barcode) | The product can stay closed around children | Requires a valid QR/barcode in proximity before activating. |
-| Separate Battery | The product is able to work in case of a power outage | Built-in backup battery keeps core functions running during outages. |
-| Power Adapter (power-bank mode) | The product is able to work in case of a power outage | Can run from a common USB power bank at reduced speed for short periods. |
-| Capacitor Failsafe | The product is able to work in case of a power outage | On loss of power, stored energy provides a brief boost to finish opening or hold open. |
-| Forward Sensor | The product will start opening before customer gets too close | Detects at least door length + 6–12 in so the door never swings into the user. |
-| Distance Sensor (height classification) | The product distinguishes between adults, kids, and animals. | Uses height bands to differentiate adults, children, and pets for safer behavior. |
-| Slider (lock interface) | The product can lock/unlock the door | A small slider at the latch engages/disengages before and after door movement. |
-| Pulley (latch pull) | The product can lock/unlock the door | Motor-driven pulley momentarily pulls the latch to unlock before opening. |
-| Delay in Sensor | The product has an auto close feature. | After the area clears, a short, adjustable delay starts closing—no premature shut. |
-| Battery | The product has a simple power supply. | Battery power avoids external wires and keeps the install tidy. |
-| Wired | The product has a simple power supply. | Wall-power option supplies consistent energy with |
+| The product must stop if something is in the way. | Sensor | A dedicated doorway-line sensor checks the threshold and prevents the door from closing on people, pets, or objects. |
+| The product must stop if something is in the way. | Smaller Motor | Limits output to ~10 lb of force so someone caught in the path can easily resist and prevent closure. |
+| The product must stop if something is in the way. | Resistance-sensing Motor | Monitors opposing torque; if force exceeds a set threshold, the motor stops and reverses. |
+| The product must stop if something is in the way. | Radar/Sensor | Pairs with a user-carried fob; if the fob is within ~2 ft, the door stays open and won’t close on the user. |
+| The product must stop if something is in the way. | Microphone | Always-listening keyword (e.g., “stop”) immediately halts motion. |
+| The product must be easy to open in an emergency | Latch (mechanical release) | A manual latch decouples the drive from the door so it swings freely if power is lost. |
+| The product must be easy to open in an emergency | Button (override) | A discreet pushbutton kills motor power to allow effortless manual opening. |
+| The product must be easy to open in an emergency | Pin/Key | Inserting a key/pin mechanically disengages the drive for a free-swing door. |
+| The product must be easy to open in an emergency | Microphone (voice release) | Voice keyword (e.g., “disengage”) cuts motor output for manual operation. |
+| The product can stay closed around children | Proximity/Distance Sensor | Uses height detection to ignore very short profiles so small children or pets can’t trigger the door. |
+| The product can stay closed around children | Radar/Sensor (authorized-use fob) | Operates only when an authorized fob is within ~3 ft, preventing unintended activation. |
+| The product can stay closed around children | Button/Switch (child lock) | A hidden child-lock switch disables activation until re-enabled by an adult. |
+| The product can stay closed around children | Facial Recognition | Opens only for stored, authorized faces to reduce misuse. |
+| The product can stay closed around children | Scanner (QR/Barcode) | Requires a valid QR/barcode in proximity before activating. |
+| The product is able to work in case of a power outage | Separate Battery | Built-in backup battery keeps core functions running during outages. |
+| The product is able to work in case of a power outage | Power Adapter (power-bank mode) | Can run from a common USB power bank at reduced speed for short periods. |
+| The product is able to work in case of a power outage | Capacitor Failsafe | On loss of power, stored energy provides a brief boost to finish opening or hold open. |
+| The product will start opening before customer gets too close | Forward Sensor | Detects at least door length + 6–12 in so the door never swings into the user. |
+| The product distinguishes between adults, kids, and animals. | Distance Sensor (height classification) | Uses height bands to differentiate adults, children, and pets for safer behavior. |
+| The product can lock/unlock the door | Slider (lock interface) | A small slider at the latch engages/disengages before and after door movement. |
+| The product can lock/unlock the door | Pulley (latch pull) | Motor-driven pulley momentarily pulls the latch to unlock before opening. |
+| The product has an auto close feature. | Delay in Sensor | After the area clears, a short, adjustable delay starts closing—no premature shut. |
+| The product has a simple power supply. | Battery | Battery power avoids external wires and keeps the install tidy. |
+| The product has a simple power supply. | Wired | The device has a power wire that runs around the door and into a power outlet. This prevents the device from needing to have batteries replaced and supplies constant power. |
+| The product has a simple power supply. | Solar | The device will have a small solar panel on the side. This will help recharge the device as long as it is near a light source. |
+| The product has 90 or 180 degree openability. | 360 Motor | The door opens as much as it can by connecting the door straight to the motor. |
+| The product has 90 or 180 degree openability. | Teethed Pulley | The motor is connected to a pulley that will pull the door open. This will also work in reverse which will help push the door closed. |
+| The product has 90 or 180 degree openability. | Mechanical Arms | The motor is connected to mechanical arms that will rotate and bend to open the door. This will prevent loss of tension and can help with how much power the motor is using. |
+| The product does not interfere with manual opening of doors. | Auto-Disengage Program | If the device senses someone trying to open the door and it is not in a lock setting, then the device will disengage the motor so that the motor is not fighting the user in opening the door. |
+| The product stops operation when sensing more resistance than usual. | Auto-Disengage Program | This can happen if the door is locked, latched, or something is blocking the door. To prevent damage to the device and the objects, the device will disengage the motor after it exerts more than 10 lbs of force. |
+| The door can stay closed while the customer is gone. | Latch | The device can come with a latch on the top of the door so that when closed, the latch engages and locks the door for the user. |
+| The door can stay closed while the customer is gone. | Slider | The user can engage or disengage a slider. This will prevent the device from using the slider to unlock the door and keep the door closed. |
+| The door can stay closed while the customer is gone. | Off Switch | When the user leaves, they can press a delayed off switch that will turn off the motor after 10 min. This means that the next time the customer comes to the door, they will either have to open it themselves or turn the motor back on. |
+| The device does not stay on all day. | Timer | The device has a timer that will turn the motor off after 10 min. The sensor will stay on and turn the motor back on if it senses movement. |
+| The device does not stay on all day. | Clock | The device will have a clock which can program the device to turn off during certain times of the day. This is important because it turns the whole device off which saves energy and prevents door from automatically opening when the user does not want them to open. |
+| The device does not stay on all day. | Power Button | The device has a button which cuts off all power to itself, and can also restore power to itself. |
+| The device does not stay on all day. | Sensor | The same sensor which tells the motor to open the door can also be used to turn off the device (such as if the sensor is receiving input for longer than 15 seconds). |
+| The product must follow ADA rules | Distance Sensor | The device will read at least 32 inches from the door for when the door opens forward so that it follows ADA compliance. This will also prevent the door from opening in front of users and colliding with objects that are moving toward the door. |
 
 | | | |
 | | | |
