@@ -98,17 +98,23 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ![Model 1](docs/image/IMG_20250925_182107847_HDR~3.jpg "Lever to Disengage Motor 1")
 
-The 
+The motor stays inside the housing where it will connecct to gears that will move the arms of the door. If there is an emergency, the motor can be disengaged. 
 
 ![Model 1](docs/image/IMG_20250925_182113055_HDR.jpg "Lever to Disengage Motor 2")
 
-
+By disengaging the motor, the motor is moved below the housing where it can rotate, but nothing will happen to the door. THis also prevents the motor from pushing against the user if they are trying to keep the door from opening or closing. 
 
 ![Model 2](docs/image/IMG_20250926_184259818~2.jpg "90 and 180 degree arm 1")
 
+The product is designed to open at least 90 degrees. The addition to an additional arm which can rotate in a housing lets the door rotate an additional 90 degrees. 
+
 ![Model 2](docs/image/IMG_20250926_184313707.jpg "90 and 180 degree arm 2")
 
+This shows the first 90 degree opening. This with additional programing can make a door have the ability to always push out away from the user to increase safety and decrease injury. 
+
 ![Model 2](docs/image/IMG_20250926_184344804.jpg "90 and 180 degree arm 3")
+
+This shows the second 90 degrees in the opposite way. Though not all doors would be able to use this, this poses an opportunity for more open doors and increase mobility instead of waiting for a door to open in your direction. 
 
 
 ## Step Four
