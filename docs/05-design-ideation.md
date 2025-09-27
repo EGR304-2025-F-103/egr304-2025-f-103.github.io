@@ -96,7 +96,20 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ## Step Three
 
-Add your context and tables
+![Model 1](docs/image/IMG_20250925_182107847_HDR~3.jpg "Lever to Disengage Motor 1")
+
+The 
+
+![Model 1](docs/image/IMG_20250925_182113055_HDR.jpg "Lever to Disengage Motor 2")
+
+
+
+![Model 2](docs/image/IMG_20250926_184259818~2.jpg "90 and 180 degree arm 1")
+
+![Model 2](docs/image/IMG_20250926_184313707.jpg "90 and 180 degree arm 2")
+
+![Model 2](docs/image/IMG_20250926_184344804.jpg "90 and 180 degree arm 3")
+
 
 ## Step Four
 
