@@ -7,12 +7,11 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+The goal of the Design Ideation phase was to convert previously established user needs and product requirements into functional design features. To achieve this goal, the team prioritized the needs/requirements we viewed as most important as well as most practical for the scope of our project. We then brainstormed multiple solutions for each of them which, when put together, could form successful features to be used in the design of our product. Finally, we created 3 distinct design concepts to help ourselves and potential clients see the vision of our project.
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+Shown below is the table of brainstormed features correlating to their prioritized user need/requirement.
 
 |                                                   requirement / need |          feature          | detail                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------: | :-----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -92,10 +91,39 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Products are installed by those with no experience | Limited Part Count | The device, when recieved by the consumer, has the minimum possible amount of components that must be put/together installed. |
 | Products are installed by those with no experience | Modular Design | Any components that must be put together/installed by the consumer have attachments which are simple and intuitive. |
 | Products are installed by those with no experience | Effective Instructions | An instruction booklet is written and modified, along with the installation process, until testing shows that the majority of users have zero struggles with installation. |
+| Products are installed by those with no experience | Digital Access | The instuctions for installation feature a QR code which links to helpful video/picture tutorials. |
+| The product has can be installed without the user owning tools | Included Tools | All tools required for installation are included in the packaging. |
+| The product has can be installed without the user owning tools | No Tools Required | The design uses innovation such as snap-together technology, adhesive, suction, etc. which do not require tools to install. |
+| The product has can be installed without the user owning tools | Self-installing | The design is robotic and assembles itself on arrival. |
+| The product is easy to repair/debug if necessary | Debugger | The device can be prompted to scan its software for issues and attempt to remedy them. |
+| The product is easty to repair/debug if necessary | Replaceable Parts | Every hardware component of the device can be swapped out if necessary, and is available to purchase through our business or at public stores. |
+| The product is easy to repair/debug if necessary | Reset | The device has a reset feature which reverts all settings/code back to its default state. |
+| The product is easy to repair/debug if necessary | Recurring Self-Scan | The device continually scans its software/hardware and can identify issues, reporting them to the user through audible/visual information. |
+| The product is easy to repair/debug if necessary | Virtual Support | A website is created which provides solutions to common/possible issues. The website also links to live support. |
+| The product has a durable build for long-term use | Dust-Proof | The main casing is sealed off to prevent dust from gathering on the electronics. |
+| The product has a durable build for long-term use | Water-Resistant | The main casing uses materials which provide protection against mist/moisture. |
+| The product has a durable build for long-term use | Impact-Rated | The components of the device are impact rated to withstand up to 50 lbs of instantaneous force. |
+| The product has a durable build for long-term use | Rust-Proof | Any metal components exposed to the environment are finished with an anti-rust coating. |
+| The product has a durable build for long-term use | Elastic Matetials | When possible, slightly elastic materials such as rubber are used over rigid materials to allow reversable deformation rather than cracking/shattering. |
+| The product must have clear signals for open, closed, and errors. | Color-Changing LED | The device has an LED which changes color based on status. |
+| The product must have clear signals for open, closed, and errors. | Blinking LED | The device has an LED which is either on, off, or blinking in different patters based on status. |
+| The product must have clear signals for open, closed, and errors. | Buzzer | The device has a buzzer which uses different tones/patterns to indicate status. |
+| The product must have clear signals for open, closed, and errors. | Speaker | The device has a speaker which outputs spoken phrases based on status. |
+| The product must have clear signals for open, closed, and errors. | Text Output | The device outputs text to a screen near the doorframe based on its status. |
+| The product’s most basic functioning requires little to no user programming. | Default Mode | The device is in "default mode" on arrival which has limited functionality but works safely in any almost any environment. |
+| The product’s most basic functioning requires little to no user programming. | Quick Setup | The installation insructions explain how to program the device based on doorframe dimensions and desired function. |
+| The product’s most basic functioning requires little to no user programming. | Preset Modes | The device has multiple preset software modes for the user to choose between after installing the device. |
+| The product’s most basic functioning requires little to no user programming. | Auto-Setup | After installation, the device safely scans/feels out the environment through sensors/resistance-sensing and programs itself based on this information. |
+| The product’s most basic functioning requires little to no user programming. | Built-in AI | After installation, an AI asks the user questions about the product's environment and desired functionality, then programs the software based on this information. |
 
 
-## Step Three
-## Model 1
+## Ranking/Grouping of Features
+
+
+## Concept Models
+
+
+# Model 1
 
 ![Model 1.1](image/IMG_20250925_182107847_HDR~3.jpg)
 **Lever to Disengage Motor 1**
@@ -109,7 +137,7 @@ The motor stays inside the housing where it will connect to gears that will move
 By disengaging the motor, the motor is moved below the housing where it can rotate, but nothing will happen to the door. This also prevents the motor from pushing against the user if they are trying to keep the door from opening or closing. 
 
 
-## Model 2
+# Model 2
 ![Model 2.1](image/IMG_20250926_184259818~2.jpg)
 **90 and 180 degree arm 1**
 
@@ -126,12 +154,8 @@ This shows the first 90 degree opening. This with additional programming can mak
 This shows the second 90 degrees in the opposite way. Though not all doors would be able to use this, this provides an opportunity for more open doors and increases mobility instead of waiting for a door to open in your direction. 
 
 
-## Model 3
+# Model 3
 
-
-## Step Four
-
-Add your different product concepts stuff here
 
 ## Step Six (video link)
 
