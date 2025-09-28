@@ -20,7 +20,7 @@ Shown below is the table of brainstormed features correlating to their prioritiz
 |                    The product must stop if something is in the way. | Resistance-sensing Motor  | The motor is able to send data about the force acting against it, and if the force is over a certain threshold, the motor stops and reverses.                                                                                                                           |
 |                    The product must stop if something is in the way. |       Radar/Sensor        | The device sends and receives transmissions to and from a chip that users carry. The door remains open as long as the chip is within a certain distance from the device (~2 feet).                                                                                       |
 |                    The product must stop if something is in the way. |        Microphone         | The device listens for a keyword (such as "stop") and upon registering the keyword, stops the motor.                                                                                                                                                                     |
-|                     The product must be easy to open in an emergency |           Latch           | The device has a latch inside that unhindges the motor to the door causing the door to open without resistance. This is important because it refers to safety if the mechanism loses power.                                                                              |
+|                     The product must be easy to open in an emergency |           Latch           | The device has a latch inside that unhindges the motor to the door causing the door to open without resistance. This is important because it refers to safety if the mechanism loses power. |
 |                     The product must be easy to open in an emergency |          Button           | The device has a secret button that will turn the motor off to make opening the door easier. This is important because it refers to safety if the mechanism loses power.                                                                                                 |
 |                     The product must be easy to open in an emergency |          Pin/Key          | The device disengages the motor when a key/pin is inserted through a hole. This is important because it refers to safety if the mechanism loses power.                                                                                                                   |
 |                     The product must be easy to open in an emergency |        Microphone         | The device disengages the motor when a keyword (such as disengage) is spoken by the user.                                                                                                                                                                                |
@@ -73,7 +73,7 @@ Shown below is the table of brainstormed features correlating to their prioritiz
 |                 The door can stay closed while the customer is gone. |           Latch           | The device can come with a latch on the top of the door so that when closed, the latch engages and locks the door for the user.                                                                                                                                          |
 |                 The door can stay closed while the customer is gone. |          Slider           | The user can engage or disengage a slider. This will prevent the device from using the slider to unlock the door and keep the door closed.                                                                                                                               |
 |                 The door can stay closed while the customer is gone. |        Off Switch         | When the user leaves, they can press a delayed off switch that will turn off the motor after 10 min. This means that the next time the customer comes to the door, they will either have to open it themselves or turn the motor back on.                                |
-|                                 The device does not stay on all day. |           Timer           | The device has a timer that will turn the motor off after 10 min. The sensor will stay on and turn the motor back on if it senses movement.                                                                                                                              |
+|                                 The device does not stay on all day. |           Timer           | The device has a timer that will turn the motor off after 10 min. The sensor will stay on and turn the rest of the components back on if it senses movement.                                                                                                                              |
 |                                 The device does not stay on all day. |           Clock           | The device will have a clock which can program the device to turn off during certain times of the day. This is important because it turns the whole device off which saves energy and prevents door from automatically opening when the user does not want them to open. |
 |                                 The device does not stay on all day. |       Power Button        | The device has a button which cut off all power to itself, and can also restore power to itself.                                                                                                                                                                         |
 |                                 The device does not stay on all day. |          Sensor           | The same sensor which tells the motor to open the door can also be used to turn off the device (such as if the sensor is receiving input for longer than 15 seconds).                                                                                                    |
@@ -119,6 +119,66 @@ Shown below is the table of brainstormed features correlating to their prioritiz
 
 ## Ranking/Grouping of Features
 
+After coming up with 100 feature ideas the team decided which features were the most relevant based on importance to the overall goal of our project, as well as innovation and feasibility. Some of the top ideas chosen by the team are shown below.
+
+
+| Feature | Detail |
+| :-----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sensor | The device has an additional sensor focusing on the doorway line to make sure there is nothing in the area. This is important because we do not want the door to shut on people, animals, or objects. |
+| Smaller Motor | The device only produces a max of 10lbs of force. This is important because if someone gets stuck inbetween the door they can push the door to prevent closure. |
+| Latch | The device has a latch inside that unhindges the motor to the door causing the door to open without resistance. This is important because it refers to safety if the mechanism loses power. |
+| Button/Switch | The device has a button or switch in an inconspicuous area which acts as a "child lock". The motor will not activate until the button/switch is activated again. |
+| Seperate Battery | This is very important in case everything loses power. The device has a small battery that can power the door for an amount of time until the power gets back on. |
+| Slider | The device will have a slider installed next to the door latch. This will slide before and after the door moves. This is important because some doors should stay locked/closed wile the device does not activate. |
+| Programmed Timer | The device closes the door after an amount of time from when it opened, selected by the user. |
+| Tripwire Sensors | The device is linked to sensors placed a few feet past each side of the door. When the user walks past the sensor opposite from the direction they entered, the device closes the door. |
+| Wired | The device has a power wire that runs around the door and into a power outlet. This prevents the device from needing to have batteries replaced and suplies constant power. |
+| Mechanical Arms | The motor is connected to mechanical arms that will rotate and bend to open the door. This will prevent loss of tension and can help with how much power the motor is using. |
+| Auto-Disengage Program | If the device senses someone trying to open the door and it is not in a lock setting, then the device will disengage the motor so that the motor is not fighting the user in opening the door. |
+| Motor Auto-Clutch | When the door is manually opened, the motor does not activate but also does not fully detach, allowing the door to move freely until movement stops. |
+| Auto-Disengage Program | This can happen if the door is locked, latched, or something is blocking the door. To prevent damage to the device and the obects, the device will disengage the motor after it exerts more than 10 lbs of force. |
+| Timer | The device has a timer that will turn the motor off after 10 min. The sensor will stay on and turn the rest of the components back on if it senses movement. |
+| Clock | The device will have a clock which can program the device to turn off during certain times of the day. This is important because it turns the whole device off which saves energy and prevents door from automatically opening when the user does not want them to open. |
+|Distance Sensor | The device will read at least 32 inches from the door for when the door opens forward so that it follows ADA compliance. This will also prevent the door from opening in front of users and colliding with objects that are moving toward the door. |
+| Motor Speed | The motor speed will be controlled to take at least 3 seconds to fully open, and at least 5 seconds to close the door from 90 degrees open. |
+| Resistance Testing | When the door is being manually opened, any resistance from the motor or other hardware will not exceed 5 pounds. |
+| Mounting Instructions | Instructions included with the device will inform the user to mount the user interface between 34 and 48 inches above the floor. |
+| Ergonomics | All interactable elements of the device will have special design consideration to be activatable with one hand, without tight grasping, pinching, or wrist-twisting. |
+| UI w/ Buttons | The device has a user interface which allows the user to program settings through the use of buttons. |
+| Non-destructive Mounts | The mounting process of the device components uses technology such as adhesive/suction which do not cause damage to surfaces and are easy to relocate. |
+| Limited Part Count | The device, when recieved by the consumer, has the minimum possible amount of components that must be put/together installed. |
+| Modular Design | Any components that must be put together/installed by the consumer have attachments which are simple and intuitive. |
+| No Tools Required | The design uses innovation such as snap-together technology, adhesive, suction, etc. which do not require tools to install. |
+| Replaceable Parts | Every hardware component of the device can be swapped out if necessary, and is available to purchase through our business or at public stores. |
+| Debugger | The device can be prompted to scan its software for issues and attempt to remedy them. |
+| Reset | The device has a reset feature which reverts all settings/code back to its default state. |
+| Dust-Proof | The main casing is sealed off to prevent dust from gathering on the electronics. |
+| Color-Changing LED | The device has an LED which changes color based on status. |
+| Buzzer | The device has a buzzer which uses different tones/patterns to indicate status. |
+| Text Output | The device outputs text to a screen near the doorframe based on its status. |
+| Quick Setup | The installation insructions explain how to program the device based on doorframe dimensions and desired function. |
+| Preset Modes | The device has multiple preset software modes for the user to choose between after installing the device. |
+
+
+Next the team created three groups from the chosen features which could be combined into seperate product concepts. These concepts would showcase the vision and function of the product, each with a different focus.
+
+| Group | Feature | Detail |
+| :-----------------------: | :-----------------------: |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Free Door Movement | Latch | The device has a latch inside that unhindges the motor to the door causing the door to open without resistance. |
+| - | Mechanical Arms | The motor is connected to mechanical arms that will rotate and bend to open the door. This will prevent loss of tension and can help with how much power the motor is using. |
+| - | Auto-Disengage Program | If the device senses someone trying to open the door and it is not in a lock setting, then the device will disengage the motor so that the motor is not fighting the user in opening the door. |
+| - | Motor Auto-Clutch | When the door is manually opened, the motor does not activate but also does not fully detach, allowing the door to move freely until movement stops. |
+| - | Auto-Disengage Program | This can happen if the door is locked, latched, or something is blocking the door. To prevent damage to the device and the obects, the device will disengage the motor after it exerts more than 10 lbs of force. |
+| - | Resistance Testing | When the door is being manually opened, any resistance from the motor or other hardware will not exceed 5 pounds. |
+| - | Ergonomics | All interactable elements of the device will have special design consideration to be activatable with one hand, without tight grasping, pinching, or wrist-twisting. |
+| - | Dust-Proof | The main casing is sealed off to prevent dust from gathering on the electronics. |
+| Multi-Directional Arm Function | Mechanical Arms | The motor is connected to mechanical arms that will rotate and bend to open the door. This will prevent loss of tension and can help with how much power the motor is using. |
+| - | Distance Sensor | The device will read at least 32 inches from the door for when the door opens forward so that it follows ADA compliance. This will also prevent the door from opening in front of users and colliding with objects that are moving toward the door. |
+| - | Motor Speed | The motor speed will be controlled to take at least 3 seconds to fully open, and at least 5 seconds to close the door from 90 degrees open. |
+| - | UI w/ Buttons | The device has a user interface which allows the user to program settings through the use of buttons. |
+| - | Preset Modes | The device has multiple preset software modes for the user to choose between after installing the device. |
+| Sensor Functionality | - | - |
+
 
 ## Concept Models
 
@@ -138,6 +198,7 @@ By disengaging the motor, the motor is moved below the housing where it can rota
 
 
 ### **Model 2**
+
 ![Model 2.1](image/IMG_20250926_184259818~2.jpg)
 **90 and 180 degree arm 1**
 
@@ -156,7 +217,3 @@ This shows the second 90 degrees in the opposite way. Though not all doors would
 
 ### **Model 3**
 
-
-## Step Six (video link)
-
-Embedded a YouTube video that covers the
