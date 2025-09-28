@@ -123,7 +123,7 @@ Shown below is the table of brainstormed features correlating to their prioritiz
 ## Concept Models
 
 
-# Model 1
+### **Model 1**
 
 ![Model 1.1](image/IMG_20250925_182107847_HDR~3.jpg)
 **Lever to Disengage Motor 1**
@@ -137,7 +137,7 @@ The motor stays inside the housing where it will connect to gears that will move
 By disengaging the motor, the motor is moved below the housing where it can rotate, but nothing will happen to the door. This also prevents the motor from pushing against the user if they are trying to keep the door from opening or closing. 
 
 
-# Model 2
+### **Model 2**
 ![Model 2.1](image/IMG_20250926_184259818~2.jpg)
 **90 and 180 degree arm 1**
 
@@ -154,7 +154,7 @@ This shows the first 90 degree opening. This with additional programming can mak
 This shows the second 90 degrees in the opposite way. Though not all doors would be able to use this, this provides an opportunity for more open doors and increases mobility instead of waiting for a door to open in your direction. 
 
 
-# Model 3
+### **Model 3**
 
 
 ## Step Six (video link)
