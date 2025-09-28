@@ -1,5 +1,5 @@
 ---
-title: Design Ideation
+title: Ideation and Concept Generation
 tags:
   - tag1
   - tag2
@@ -139,11 +139,14 @@ After coming up with 100 feature ideas the team decided which features were the 
 | Auto-Disengage Program | This can happen if the door is locked, latched, or something is blocking the door. To prevent damage to the device and the obects, the device will disengage the motor after it exerts more than 10 lbs of force. |
 | Timer | The device has a timer that will turn the motor off after 10 min. The sensor will stay on and turn the rest of the components back on if it senses movement. |
 | Clock | The device will have a clock which can program the device to turn off during certain times of the day. This is important because it turns the whole device off which saves energy and prevents door from automatically opening when the user does not want them to open. |
-|Distance Sensor | The device will read at least 32 inches from the door for when the door opens forward so that it follows ADA compliance. This will also prevent the door from opening in front of users and colliding with objects that are moving toward the door. |
+| Delay in Sensor | After someone leaves the sensor view, there will be a delay then it will start closing. This is important so that the door can be closed and locked depending on user preference. |
+| Distance Sensor | The device will read at least 32 inches from the door for when the door opens forward so that it follows ADA compliance. This will also prevent the door from opening in front of users and colliding with objects that are moving toward the door. |
 | Motor Speed | The motor speed will be controlled to take at least 3 seconds to fully open, and at least 5 seconds to close the door from 90 degrees open. |
 | Resistance Testing | When the door is being manually opened, any resistance from the motor or other hardware will not exceed 5 pounds. |
 | Mounting Instructions | Instructions included with the device will inform the user to mount the user interface between 34 and 48 inches above the floor. |
 | Ergonomics | All interactable elements of the device will have special design consideration to be activatable with one hand, without tight grasping, pinching, or wrist-twisting. |
+| User Setting Limits | The device will not allow the user to program the device to close the door sooner than 5 seconds after it has opened. |
+| Forward Sensor | This sensor will measure objects equal to the door length plus an additional 6-12 inches. This is important because the door should not open and hit the customer while in use. |
 | UI w/ Buttons | The device has a user interface which allows the user to program settings through the use of buttons. |
 | Non-destructive Mounts | The mounting process of the device components uses technology such as adhesive/suction which do not cause damage to surfaces and are easy to relocate. |
 | Limited Part Count | The device, when recieved by the consumer, has the minimum possible amount of components that must be put/together installed. |
@@ -177,13 +180,20 @@ Next the team created three groups from the chosen features which could be combi
 | - | Motor Speed | The motor speed will be controlled to take at least 3 seconds to fully open, and at least 5 seconds to close the door from 90 degrees open. |
 | - | UI w/ Buttons | The device has a user interface which allows the user to program settings through the use of buttons. |
 | - | Preset Modes | The device has multiple preset software modes for the user to choose between after installing the device. |
-| Sensor Functionality | - | - |
+| Sensor Functionality | Sensor | The device has an additional sensor focusing on the doorway line to make sure there is nothing in the area. This is important because we do not want the door to shut on people, animals, or objects. |
+| - | Programmed Timer | The device closes the door after an amount of time from when it opened, selected by the user. |
+| - | Tripwire Sensors | The device is linked to sensors placed a few feet past each side of the door. When the user walks past the sensor opposite from the direction they entered, the device closes the door. |
+| - |Distance Sensor | The device will read at least 32 inches from the door for when the door opens forward so that it follows ADA compliance. This will also prevent the door from opening in front of users and colliding with objects that are moving toward the door. |
+| - | Motor Speed | The motor speed will be controlled to take at least 3 seconds to fully open, and at least 5 seconds to close the door from 90 degrees open. |
+| - | User Setting Limits | The device will not allow the user to program the device to close the door sooner than 5 seconds after it has opened. |
+| - | Forward Sensor | This sensor will measure objects equal to the door length plus an additional 6-12 inches. This is important because the door should not open and hit the customer while in use. |
+| - | Delay in Sensor | After someone leaves the sensor view, there will be a delay then it will start closing. This is important so that the door can be closed and locked depending on user preference. |
 
 
 ## Concept Models
 
 
-### **Model 1**
+### **Model 1 - Free Door Movement**
 
 ![Model 1.1](image/IMG_20250925_182107847_HDR~3.jpg)
 **Lever to Disengage Motor 1**
@@ -197,7 +207,7 @@ The motor stays inside the housing where it will connect to gears that will move
 By disengaging the motor, the motor is moved below the housing where it can rotate, but nothing will happen to the door. This also prevents the motor from pushing against the user if they are trying to keep the door from opening or closing. 
 
 
-### **Model 2**
+### **Model 2 - Multi-Directional Arm Function**
 
 ![Model 2.1](image/IMG_20250926_184259818~2.jpg)
 **90 and 180 degree arm 1**
@@ -215,9 +225,25 @@ This shows the first 90 degree opening. This with additional programming can mak
 This shows the second 90 degrees in the opposite way. Though not all doors would be able to use this, this provides an opportunity for more open doors and increases mobility instead of waiting for a door to open in your direction. 
 
 
-### **Model 3**
+### **Model 3 - Sensor Functionality**
 
 ![StoryBoard](image/Storyboard-Johngrandmother.png)
 
 In this storyboard we took the example of John’s grandmother. She is 78 years old and has difficulty opening and closing doors because she uses a cane and her vision is limited. When she approaches the door, sensors mounted on the frame detect her presence from a safe distance. The motor then activates, opening the door slowly and wide enough to ensure it doesn’t hit her or any nearby objects. As she walks through, the sensors remain active, keeping the door open until she has fully cleared the doorway. Once no more motion is detected, the motor closes the door gently. 
 
+
+## Summary
+
+The team’s brainstorming process followed a free-flow individual format. We discussed how we would approach this section of the project while we were in class together. We did not meet physically or virtually during the generation of feature ideas. The reasoning for this was that we did not want there to be any bias, “hive-mind” thinking, or judgement of ideas, intentional or not. Instead, we each individually came up with solutions to each need or requirement on our own time. We believe that this led to a greater variation of ideas and more thinking outside the box. It also allowed us to come up with ideas that were interesting to consider and get inspiration from, even if they were unconventional, unrealistic, or did not fit the scope/resources of our project. Another part of the process that led to variation of ideas was the amount that were required. Coming up with 100 unique ideas was very difficult, but it further enforced outside-the-box thinking and made us get creative.
+
+
+Collecting ideas was done by first thinking of how we had seen these requirements solved by other products/competitors. Following what works in successful products ensures that ours will be successful as well. At the same time, it is easy to go for the simple solutions without realizing their flaws or comparing them to less conventional ideas that may be even better. Knowing this led us to think about how the problems had not been solved before, at least from what we had seen. We tried to come up with ideas that could work even better than the current standards, or features that would make our product stand out from the rest. This process gave us a mixed result of “tried-and-true” features and innovative ideas to choose from.
+
+
+The list of requirements was formed from both the “User Needs and Benchmarking” and “Product Requirements” assignments. More of the requirements were drawn from the user needs because we had a larger list of them at our disposal and they were less specific, allowing us to come up with more feature ideas. However, we did include several of our product requirements since we had already decided they were very important to our end-product. These selections combined gave us a list of just over twenty needs/requirements to brainstorm ideas for.
+
+
+Since the ideas were already grouped based on which user need or requirement they referred to, we saw no need to group them into smaller categories before ranking them. The ranking process was simple. We first narrowed the list down by picking ideas that seemed most crucial to the overall goal of our project as well as which ones applied most to our consumer base. After that, we ruled out any features we knew would not be feasible based on our timeline and resources. Any ideas that were very similar did not need to be included twice, so we picked which ones from each likeness were slightly more detailed or inclusive.
+
+
+The team then collected ideas based on patterns we saw which could combine into a greater feature that we wanted to showcase. Therefore, each concept model would highlight a more specific aspect of the product rather than completely different overall designs. The first concept was labeled as “free door movement”. This refers to a system of features that allows the automatic door to be manually opened by preference or in an emergency. The second concept was “multi-directional arm function”. This means that we want the door to have an optional programming feature where it can open the door in either direction based on if the user is entering or exiting the room. It also gestured at how exactly we want the door-arm to work. The last concept was “sensor functionality” This concept highlighted how the sensors would work to send signals to the motor based on its inputs. The third concept was also a better look at how the system would function as a whole. These concepts provide a look into the future of our product and better define how we as a team want to move forward with the design process.
