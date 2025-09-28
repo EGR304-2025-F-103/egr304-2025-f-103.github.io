@@ -96,7 +96,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ## Step Three
 
-![Model 1.1](docs\image\IMG_20250925_182107847_HDR~3.jpg)
+![Model 1.1](https://github.com/EGR304-2025-F-103/egr304-2025-f-103.github.io/blob/8dfd0b2b1090b51b9da8cc5c4033f767f7464a07/docs/image/IMG_20250925_182107847_HDR~3.jpg)
 **Lever to Disengage Motor 1**
 
 The motor stays inside the housing where it will connect to gears that will move the arms of the door. If there is an emergency, the motor can be disengaged. 
