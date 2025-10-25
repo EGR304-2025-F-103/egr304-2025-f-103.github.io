@@ -2,56 +2,14 @@
 title: Software Proposal
 ---
 
-## Introduction
+## Description
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+The purpose of this page is to visualize the overall software process of each subsystem and how they will interact with each other. The diagram below is an Activity Diagram using UML (Unified Modeling Language) symbolism. The black circle is the start of each subsystem's process. The elongated oval-type shapes represent actions performed by the software. The diamond shapes represent decisions made in the software based on logic. Solid lines between shapes represent the flow inside each subsystem's software. Dashed lines represent information being shared between subsystems.
 
-## Research Question
+## UML Activity Diagram
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-
-## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
+![SoftwareProposalActivityDiagram](image/Team103SoftwareProposal.drawio%20(1).png)
 
 
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
+[Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio)
 
