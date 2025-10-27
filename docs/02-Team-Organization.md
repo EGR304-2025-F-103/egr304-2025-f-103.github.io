@@ -12,7 +12,7 @@ tags:
 
 ## Product Mission Statement
 
-> The Automatic door product is a single piece of equipment which makes any swinging door easily operatable for the general population without needing to use a button, handle, or fob, improving accessibility and making entrances easier when the user's hands are full.  
+> The Private-Use Door Automation product is a single piece of equipment which makes any swinging door easily operatable for the general population without needing to use a button, handle, or fob, improving accessibility and making entrances easier when the user's hands are full.  
 
 ## Additional Team Information
 
