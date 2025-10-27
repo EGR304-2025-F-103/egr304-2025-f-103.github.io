@@ -63,3 +63,12 @@ This subsystem is the main brain of the Automatic Door Opener. The motor takes i
 Link to Draw.io is [here]().
 
 Link to subsystem website is [here]().
+
+
+## Summary
+
+Each component was chosen carefully to ensure safety as our top priority. Every system needed to connect to the motor to listen for if the motor was in motion or tell the motor that there is something in the doorway so that the motor starts to open the door. This already met product requirements to open and close the door based off of sensors instead of a key fob, knob, or button. This also lets the door stop itself from closing into the user which enhances the safety and our requirement to make this door convienient and safe for all users. 
+
+The next part of safety is two fold. The door calibrates itself at the begining of the instalation process. This calibration can happen again if the button is pressed and there is a problen during calibration. This ensures that if there is additional strain on the product or an unforseen incident, the product will stop and prevent further injuries to itself and potentially the user. 
+
+In conclusion, safety and convienience was always the number one requirement for our product. This should be used to help households and and destress inconvienient situations not cause more issues during an already stressful day. 
