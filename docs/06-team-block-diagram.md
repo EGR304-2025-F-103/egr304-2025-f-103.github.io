@@ -58,11 +58,11 @@ Link to subsystem website is [here]().
 
 * Importance:
 
-This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
+This subsystem provides precise feedback on the door’s position and rotation. The rotary encoder sends digital signals to the microcontroller, allowing it to track how far and in what direction the motor has turned. This information is crucial for ensuring the door opens and closes accurately without over-rotating or stalling. Without this feedback, the system wouldn’t know the exact position of the door, leading to inconsistent or unsafe operation.
 
-Link to Draw.io is [here]().
+Link to Draw.io is [here](https://drive.google.com/file/d/13LKkwTJjgqqxmauylCVNC0H4SzO0dGRc/view?usp=sharing).
 
-Link to subsystem website is [here]().
+Link to subsystem website is [here](https://chvisto.github.io/01-Block-Diagram/Block-Diagram/).
 
 
 ## Summary
