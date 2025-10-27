@@ -5,11 +5,25 @@ tags:
 - tag2
 ---
 
-## Team Charter
+## Description
+
+This page shows the power budget for the major components involved in the circuitry of all four subsystems. The power budget was created to theorize maximum possible current draw from each major electrical component, as well as describe how the power for each system will be supplied. This ensures that the power source/voltage regulators are capable of providing all necessary current to every system without being overloaded.
+
+## Power Budget
+
+![Team Power Budget 1](image/EGR%20304%20Team%20Power%20Budget%201.png)
+
+![Team Power Budget 2](image/EGR%20304%20Team%20Power%20Budget%202.png)
+
+![Team Power Budget 3](image/EGR%20304%20Team%20Power%20Budget%203.png)
+
+![Team Power Budget 4](image/EGR%20304%20Team%20Power%20Budget%204.png)
 
 
-> Team 103 is a team of like minded individuals driven by their curiosity to improve daily life and tools alike. Team 103 pushes the barrier of reality to make their ideas known and usable to the public. 
+## Conclusions
 
-## Product Mission Statement
+The Power Budget shows that, using the 12V wall power supply and 5V linear regulators, all of the team's components from each subsystem will be powered safely and with extra headroom for minor components.
 
-> The Automatic door product is a single piece of equipment made to make any door easily openable and closeable for the general population based on certain parameters that the consumer can choose. This door opens and closes without needing to use a button, handle, or a fob to make entrances easier to access when the user's hands are full.  
+## Resources
+
+The power budget as a PDF download is available [here](Documents/Power%20Budget%20T103%20EGR%20304%20-%20Sheet1.pdf), and a Microsoft Excel Sheet [here](Documents/Power%20Budget%20T103%20EGR%20304.xlsx).
