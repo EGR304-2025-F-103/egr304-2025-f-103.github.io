@@ -54,7 +54,7 @@ Link to subsystem website is [here]().
 
 ### Rotary Encoder
 
-![Rotary Encoder Subsystem Block Diagram](<image/Individual Motor Subsystem for Team.drawio.png>)
+![Rotary Encoder Subsystem Block Diagram](<image/Individual Rotary sensor Subsystem for team.png>)
 
 * Importance:
 
