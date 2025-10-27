@@ -119,12 +119,12 @@ Shown below is the table of brainstormed features correlating to their prioritiz
 
 ## Ranking/Grouping of Features
 
-After coming up with 100 feature ideas the team decided which features were the most relevant based on importance to the overall goal of our project, as well as innovation and feasibility. Some of the top ideas chosen by the team are shown below.
+After coming up with 100 feature ideas the team decided which features were the most relevant based on importance to the overall goal of our project, as well as innovation and feasibility. Some of the top ideas chosen by the team are shown below. We used these as a benchmark of what we would like the product to accomplush that will separate it from other similar products. 
 
 
 | Feature | Detail |
 | :-----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Sensor | The device has an additional sensor focusing on the doorway line to make sure there is nothing in the area. This is important because we do not want the door to shut on people, animals, or objects. |
+>| Sensor | The device has an additional sensor focusing on the doorway line to make sure there is nothing in the area. This is important because we do not want the door to shut on people, animals, or objects. |
 | Smaller Motor | The device only produces a max of 10lbs of force. This is important because if someone gets stuck inbetween the door they can push the door to prevent closure. |
 | Latch | The device has a latch inside that unhindges the motor to the door causing the door to open without resistance. This is important because it refers to safety if the mechanism loses power. |
 | Button/Switch | The device has a button or switch in an inconspicuous area which acts as a "child lock". The motor will not activate until the button/switch is activated again. |
@@ -132,7 +132,7 @@ After coming up with 100 feature ideas the team decided which features were the 
 | Slider | The device will have a slider installed next to the door latch. This will slide before and after the door moves. This is important because some doors should stay locked/closed wile the device does not activate. |
 | Programmed Timer | The device closes the door after an amount of time from when it opened, selected by the user. |
 | Tripwire Sensors | The device is linked to sensors placed a few feet past each side of the door. When the user walks past the sensor opposite from the direction they entered, the device closes the door. |
-| Wired | The device has a power wire that runs around the door and into a power outlet. This prevents the device from needing to have batteries replaced and suplies constant power. |
+>| Wired | The device has a power wire that runs around the door and into a power outlet. This prevents the device from needing to have batteries replaced and suplies constant power. |
 | Mechanical Arms | The motor is connected to mechanical arms that will rotate and bend to open the door. This will prevent loss of tension and can help with how much power the motor is using. |
 | Auto-Disengage Program | If the device senses someone trying to open the door and it is not in a lock setting, then the device will disengage the motor so that the motor is not fighting the user in opening the door. |
 | Motor Auto-Clutch | When the door is manually opened, the motor does not activate but also does not fully detach, allowing the door to move freely until movement stops. |
@@ -156,10 +156,10 @@ After coming up with 100 feature ideas the team decided which features were the 
 | Debugger | The device can be prompted to scan its software for issues and attempt to remedy them. |
 | Reset | The device has a reset feature which reverts all settings/code back to its default state. |
 | Dust-Proof | The main casing is sealed off to prevent dust from gathering on the electronics. |
-| Color-Changing LED | The device has an LED which changes color based on status. |
+>| Color-Changing LED | The device has an LED which changes color based on status. |
 | Buzzer | The device has a buzzer which uses different tones/patterns to indicate status. |
 | Text Output | The device outputs text to a screen near the doorframe based on its status. |
-| Quick Setup | The installation insructions explain how to program the device based on doorframe dimensions and desired function. |
+>| Quick Setup | The installation insructions explain how to program the device based on doorframe dimensions and desired function. |
 | Preset Modes | The device has multiple preset software modes for the user to choose between after installing the device. |
 
 
