@@ -11,3 +11,20 @@ The block diagram below shows how our team's individual subsystems connect to ea
 
 ![Team103 Block Diagram](image/Team103_Block_Diagram.drawio.png)
 
+This is the whole system where each subsystem is connected to another with an 8-wire ribbon cable. The motor is used as a bridge from the flex sensor and the rotary encoder during initial calibration. Every subsystem is then connected to the motor to feed and recieve information from its inputs and motion. 
+
+### Motor
+
+![Motor Block Diagram](https://isrysm52.github.io/01-Block-Diagram/Block-Diagram/)
+
+* Importance:
+
+This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
+
+
+
+
+
+
+
+
