@@ -11,7 +11,7 @@ The purpose of this page is to visualize the overall software process of each su
 ![SoftwareProposalActivityDiagram](image/Team103SoftwareProposal.drawio%20(1).png)
 
 
-<center>[Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio)<center>
+<center> [Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio) </center>
 
 
 ## Summary
