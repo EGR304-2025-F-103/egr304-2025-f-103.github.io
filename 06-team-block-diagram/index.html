@@ -550,6 +550,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Block Diagram of Subsystems">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#motor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Motor
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -678,6 +693,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Block Diagram of Subsystems">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#motor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Motor
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -709,6 +739,13 @@
 <p>The block diagram below shows how our team's individual subsystems connect to each other. Each major block represents one subsystem showing the programmed microcontroller, which pins of it are being used (and how), and what those pins are connected to. The subsystems will connect to each other via a total of four 8-wire ribbon cables. The pin-headers for these cables are shown at the bottom of each subsystem block, and they display which of their pins are connected to the subsystem. Any pins on the headers that do not have arrows will not be used in the design. The large, bold, bidirectional arrows between subsystems represent the 8-wire ribbon cables themselves, showing which subsytems are directly connected to each other. This diagram helps the team and stakeholders understand the general function of each subsystem as well as how they will be communicating to form a complete system.</p>
 <h2 id="block-diagram-of-subsystems">Block Diagram of Subsystems</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/Team103_Block_Diagram.drawio.png" data-desc-position="bottom"><img alt="Team103 Block Diagram" src="../image/Team103_Block_Diagram.drawio.png"></a></p>
+<p>This is the whole system where each subsystem is connected to another with an 8-wire ribbon cable. The motor is used as a bridge from the flex sensor and the rotary encoder during initial calibration. Every subsystem is then connected to the motor to feed and recieve information from its inputs and motion. </p>
+<h3 id="motor">Motor</h3>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://isrysm52.github.io/01-Block-Diagram/Block-Diagram/" data-desc-position="bottom"><img alt="Motor Block Diagram" src="https://isrysm52.github.io/01-Block-Diagram/Block-Diagram/"></a></p>
+<ul>
+<li>Importance:</li>
+</ul>
+<p>This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. </p>
 
 
 
