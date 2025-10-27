@@ -28,42 +28,39 @@ This subsystem is the main brain of the Automatic Door Opener. The motor takes i
 
 ### IR Sensors
 
-![IR Sensor Subsystem Block Diagram](<image/Individual Motor Subsystem for Team.drawio.png>)
+![IR Sensor Subsystem Block Diagram](image/Distance%20Sensors%20Subsystem%20Block%20Diagram.drawio.png)
+
+Link to Draw.io is [here](Documents/Distance_Sensing%20Subsystem%20Block%20Diagram.drawio).
+
+Link to subsystem website is [here](https://samerwin1.github.io/01-Block-Diagram/Block-Diagram/).
 
 * Importance:
 
-This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
+This subsystem is responsible for sensing users approaching the door as well as detecting obstacles in the path. When sensing someone approaching, the subsystem tells the motor to begin opening the door. While the door is opening or closing, the subsystem is checking to make sure nothing is in the way at several points along the path.
 
-Link to Draw.io is [here]().
-
-Link to subsystem website is [here]().
-
-
-### Flex Sensors
+### Flex Sensor
 
 ![Flex Sensor Subsystem Block Diagram](<image/laksh-blockdiagram.png>)
 
-* Importance:
-
-This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
-
 Link to Draw.io is [here]().
 
-Link to subsystem website is [https://lakshanandsugumar.github.io/lakshtest01.github.io/01-Block-Diagram/Block-Diagram/]().
+Link to subsystem website is [here](https://lakshanandsugumar.github.io/lakshtest01.github.io/01-Block-Diagram/Block-Diagram/).
 
+* Importance:
+
+This subsystem is responsible for reading data from a flex sensor and communicating with the motor subsystem to control movement based on the sensor’s readings. At several points along the path of the door, the subsystem is checking that the amount of flex from the doorframe to the door matches up with the rotational angle of the door.
 
 ### Rotary Encoder
 
 ![Rotary Encoder Subsystem Block Diagram](<image/Individual Rotary sensor Subsystem for team.png>)
 
-* Importance:
-
-This subsystem provides precise feedback on the door’s position and rotation. The rotary encoder sends digital signals to the microcontroller, allowing it to track how far and in what direction the motor has turned. This information is crucial for ensuring the door opens and closes accurately without over-rotating or stalling. Without this feedback, the system wouldn’t know the exact position of the door, leading to inconsistent or unsafe operation.
-
 Link to Draw.io is [here](https://drive.google.com/file/d/13LKkwTJjgqqxmauylCVNC0H4SzO0dGRc/view?usp=sharing).
 
 Link to subsystem website is [here](https://chvisto.github.io/01-Block-Diagram/Block-Diagram/).
 
+* Importance:
+
+This subsystem provides precise feedback on the door’s position and rotation. The rotary encoder sends digital signals to the microcontroller, allowing it to track how far and in what direction the motor has turned. This information is crucial for ensuring the door opens and closes accurately without over-rotating or stalling. Without this feedback, the system wouldn’t know the exact position of the door, leading to inconsistent or unsafe operation.
 
 ## Summary
 
@@ -71,4 +68,4 @@ Each component was chosen carefully to ensure safety as our top priority. Every 
 
 The next part of safety is two fold. The door calibrates itself at the begining of the installation process. This calibration can happen again if the button is pressed and there is a problen during calibration. This ensures that if there is additional strain on the product or an unforseen incident, the product will stop and prevent further injuries to itself and potentially the user. 
 
-In conclusion, safety and convienience was always the number one requirement for our product. This should be used to help households and and destress inconvienient situations not cause more issues during an already stressful day. 
+In conclusion, safety and convienience was always the number one requirement for our product. This should be used to help households and and destress inconvienient situations, not to cause more issues during an already stressful day. 
