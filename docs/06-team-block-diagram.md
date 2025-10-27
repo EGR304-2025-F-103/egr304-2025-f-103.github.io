@@ -26,9 +26,40 @@ Link to subsystem website is [here](https://isrysm52.github.io/01-Block-Diagram/
 This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
 
 
+### IR Sensors
+
+![IR Sensor Subsystem Block Diagram](<image/Individual Motor Subsystem for Team.drawio.png>)
+
+* Importance:
+
+This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
+
+Link to Draw.io is [here]().
+
+Link to subsystem website is [here]().
 
 
+### Flex Sensors
+
+![Flex Sensor Subsystem Block Diagram](<image/Individual Motor Subsystem for Team.drawio.png>)
+
+* Importance:
+
+This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
+
+Link to Draw.io is [here]().
+
+Link to subsystem website is [here]().
 
 
+### Rotary Encoder
 
+![Rotary Encoder Subsystem Block Diagram](<image/Individual Motor Subsystem for Team.drawio.png>)
 
+* Importance:
+
+This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement. 
+
+Link to Draw.io is [here]().
+
+Link to subsystem website is [here]().
