@@ -15,6 +15,8 @@ Fall 2025<br>
 
 </center>
 
+![QR](image/qr.jpg)
+
 ## Team Introduction
 
 The goal of "Private-Use Door Automation" is to provide ease of access to consumers through the design of a self-calibrating, automaticly opening and closing door system. While automatic doors are nothing new, the vision is to bring the idea into private homes/properties while also making the technology inexpensive and easy to integrate. More specifically our target consumers are those with disabilities and their caregivers, however we want the product to appeal to anyone desiring efficiency and automation in their home.

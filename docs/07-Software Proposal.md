@@ -8,7 +8,7 @@ The purpose of this page is to visualize the overall software process of each su
 
 ## UML Activity Diagram
 
-![QR](image/qr.jpg)
+![Software Diagram](image/Team103SoftwareProposal.drawio%20(1).png)
 
 <center> [Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio) </center>
 
