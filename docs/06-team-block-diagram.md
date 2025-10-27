@@ -41,7 +41,7 @@ Link to subsystem website is [here]().
 
 ### Flex Sensors
 
-![Flex Sensor Subsystem Block Diagram](<image/Individual Motor Subsystem for Team.drawio.png>)
+![Flex Sensor Subsystem Block Diagram](<image/laksh-blockdiagram.png>)
 
 * Importance:
 
@@ -49,7 +49,7 @@ This subsystem is the main brain of the Automatic Door Opener. The motor takes i
 
 Link to Draw.io is [here]().
 
-Link to subsystem website is [here]().
+Link to subsystem website is [https://lakshanandsugumar.github.io/lakshtest01.github.io/01-Block-Diagram/Block-Diagram/]().
 
 
 ### Rotary Encoder
