@@ -7,7 +7,7 @@ tags:
 
 ## Team Goals
 
-1. To research interest and potentialy sell the product to private and corporate car shops.
+1. To research interests and potentialy sell the product to private and corporate consumers.
 2. To increase the ability to think outside the box for a solution when finding a problem.
 3. To Learn how to communicate and manuever around multiple shedules sucessfully while working on a professional product.
 4. To print and create a working product that can be used in a real life setting.

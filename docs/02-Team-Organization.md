@@ -12,6 +12,8 @@ tags:
 
 ## Product Mission Statement
 
-> The Automatic door product is a single piece of equipment made to make any door easily openable and closeable for the general population based on certain parameters that the consumer can choose. This door opens and closes without needing to use a button, handle, or a fob to make entrances easier to access when the user's hands are full.  
+> The Automatic door product is a single piece of equipment which makes any swinging door easily operatable for the general population without needing to use a button, handle, or fob, improving accessibility and making entrances easier when the user's hands are full.  
 
+## Additional Team Information
 
+For more detailed information about general team goals, coordination, roles, and rules, view [Appendix: Team Organization](https://egr304-2025-f-103.github.io/Appendix/App-Team-Org/).
