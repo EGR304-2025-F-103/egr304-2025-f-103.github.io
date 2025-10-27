@@ -11,10 +11,10 @@ The purpose of this page is to visualize the overall software process of each su
 ![SoftwareProposalActivityDiagram](image/Team103SoftwareProposal.drawio%20(1).png)
 
 
-[Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio)
+<center>[Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio)<center>
 
 
-* Summary:
+## Summary
 
 Each software subsystem had two requirements to ensure safety to the user. The subsystems had to wait for calibration and the subsystems had to listen and respond to the motor. The calibration is lead by the rotary sensor where it sends signals to the flex sensor and IR sensors. This signal is sent every 10 degrees. After each signal, all sensors, including the encoder, record analog signal and store it as a variable. This will happen until the rotary encoder reached 90 degrees. When the door opens and closes, at each degree change the sensors will confirm that their current position is similar to the position from the calibration. 
 
