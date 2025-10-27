@@ -51,4 +51,4 @@ In order to get a better understanding of each individual subsystem, visit the l
 | Isaac Smith           | Motor                     | [Isaac.GitHub](https://isrysm52.github.io/)          |
 | Christo Jomon Joseph  | Rotory Encoder            | [Christo.Github](https://chvisto.github.io/)         |
 | Seth Alexander Merwin | Infrared Distance-Sensing | [Seth.github](https://samerwin1.github.io)           |
-| Lakshanand Sugumar    | Resistive-Flex Sensor     | [Laksh.github](https://lakshanandsugumar.github.io/) |
+| Lakshanand Sugumar    | Resistive-Flex Sensor     | [Laksh.github](https://lakshanandsugumar.github.io/lakshtest01.github.io/) |
