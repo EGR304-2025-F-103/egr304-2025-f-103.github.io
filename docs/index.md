@@ -40,6 +40,7 @@ This website exists as a documentation of the project from start to finish. By n
 * To see the team's process of generating solutions to product requirements, as well as some early concept models, visit the ["Design Ideation" page.](https://egr304-2025-f-103.github.io/05-design-ideation/)
 * To understand the hardware components of the individual subsystems and how they are connected to each other, visit the ["Team Block Diagram" page.](https://egr304-2025-f-103.github.io/06-team-block-diagram/)
 * To understand the software of each subsystem and how information is shared between them, visit the ["Software Proposal" page.](https://egr304-2025-f-103.github.io/07-Software%20Proposal/)
+* To view a breakdown of current draw from major components and how each subsystem receives power, visit the ["Team Power Budget" page.](https://egr304-2025-f-103.github.io/Team%20Power%20Budget/)
 
 
 ## Team Members Datasheet Links
