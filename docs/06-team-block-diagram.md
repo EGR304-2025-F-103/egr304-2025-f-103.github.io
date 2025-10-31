@@ -24,6 +24,15 @@ Link to subsystem website is [here](https://isrysm52.github.io/01-Block-Diagram/
 
 This subsystem is the main brain of the Automatic Door Opener. The motor takes information from the flex sensor, the rotary encoder, and the two distance sensors to determine if it should move forward or backward. It also uses the information given to stop and wait for more input if there are problems with movement.
 
+- Correlation to Requirements
+
+This subsystem uses the motor to open the door, stop the door, and is attached to the latch that will diengage the motor in case of emergencies. This is the focus on safety while the automatic door opener and closer is being used. 
+
+- Interface Connections
+
+This subsystem has the potentiometer that will give the user the abitilty to manually slow down and speed up the door. This subsystem also has lights that will be labeled in the manual for when it is activated, moving, and stopped by something in the way. 
+
+
 ### IR Sensors
 
 ![IR Sensor Subsystem Block Diagram](image/Distance%20Sensors%20Subsystem%20Block%20Diagram.drawio.png)
