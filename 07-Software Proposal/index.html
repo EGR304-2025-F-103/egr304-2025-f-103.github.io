@@ -590,6 +590,57 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#software-connections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software Connections
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Software Connections">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#motor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Motor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ir-sensor" class="md-nav__link">
+    <span class="md-ellipsis">
+      IR Sensor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#flex-sensor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Flex Sensor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rotary-encoder" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rotary Encoder
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
       Summary
@@ -727,6 +778,57 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#software-connections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software Connections
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Software Connections">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#motor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Motor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ir-sensor" class="md-nav__link">
+    <span class="md-ellipsis">
+      IR Sensor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#flex-sensor" class="md-nav__link">
+    <span class="md-ellipsis">
+      Flex Sensor
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rotary-encoder" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rotary Encoder
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
       Summary
@@ -765,6 +867,13 @@
 <h2 id="uml-activity-diagram">UML Activity Diagram</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/Team103SoftwareProposal.drawio%20%281%29.png" data-desc-position="bottom"><img alt="Software Diagram" src="../image/Team103SoftwareProposal.drawio%20%281%29.png"></a></p>
 <p></p><center> <a href="../Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio">Download .drawio file</a> </center><p></p>
+<h2 id="software-connections">Software Connections</h2>
+<h3 id="motor"><strong>Motor</strong></h3>
+<p>The motor is the brains of the door. It will take each sensor's information in 1/0 and with a combination of 1/0 will determine if it should move forwards, backwards, or stop. </p>
+<p>After the initial calibration, the motor will stay on waiting for a input from one of the IR sensors. Once it gets that input it will start moving based on which IR sensor gave it the input. Once moving, the motor will give each sensor a 1/0 that activates their loops. The motor then constantly waits to see if there is a different input given that would tell it to stop or move in the opposite direction. This constinues until the door is fully closed. </p>
+<h3 id="ir-sensor"><strong>IR Sensor</strong></h3>
+<h3 id="flex-sensor"><strong>Flex Sensor</strong></h3>
+<h3 id="rotary-encoder"><strong>Rotary Encoder</strong></h3>
 <h2 id="summary">Summary</h2>
 <p>Each software subsystem had two requirements to ensure safety to the user. The subsystems had to wait for calibration and the subsystems had to listen and respond to the motor. The calibration is lead by the rotary sensor where it sends signals to the flex sensor and IR sensors. This signal is sent every 10 degrees. After each signal, all sensors, including the encoder, record analog signal and store it as a variable. This will happen until the rotary encoder reached 90 degrees. When the door opens and closes, at each degree change the sensors will confirm that their current position is similar to the position from the calibration.</p>
 <p>Next, the sensing of object infront or behind the door. The IR sensors will read if there is a user on either side of the door. If there is, the IR sensor will send a signal to the motor. The motor then takes that signal and starts to open the door. If there is something in the way, the IR sensor will see it and send another signal to the motor. If the IR sensor does not read it, the flex sensor will read that it is flexing but that the flex is too much or too little for free motion of the door and send a signal to the door. If either parts of this happen the motor will then stop and wait for further instruction. Depending on the instruction, the door will move back to its previous position or continue to open. This works while it is trying to close as well.</p>
