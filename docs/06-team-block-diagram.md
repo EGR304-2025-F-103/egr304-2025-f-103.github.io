@@ -28,7 +28,7 @@ This subsystem is the main brain of the Automatic Door Opener. The motor takes i
 
 This subsystem uses the motor to open the door, stop the door, and is attached to the latch that will diengage the motor in case of emergencies. This is the focus on safety while the automatic door opener and closer is being used. 
 
-- Interface Connections
+- User-Interface Connections
 
 This subsystem has the potentiometer that will give the user the abitilty to manually slow down and speed up the door. This subsystem also has lights that will be labeled in the manual for when it is activated, moving, and stopped by something in the way. 
 
@@ -43,7 +43,15 @@ Link to subsystem website is [here](https://samerwin1.github.io/01-Block-Diagram
 
 - Importance:
 
-This subsystem is responsible for sensing users approaching the door as well as detecting obstacles in the path. When sensing someone approaching, the subsystem tells the motor to begin opening the door. While the door is opening or closing, the subsystem is checking to make sure nothing is in the way at several points along the path.
+This subsystem is responsible for auto-calibration of the system, sensing users approaching the door, and detecting obstacles in the path. When sensing someone approaching, the subsystem tells the motor to begin opening the door. While the door is opening or closing, the subsystem is checking to make sure nothing is in the way at several points along the path.
+
+- Correlation to Requirements
+
+This subsystem specifically contributes to **Software/Functionality**(Aspects 2.1 and 2.2), **Interactivity and User Experience**(Aspects 3.1 and 3.2), and **Safety**(Aspects 6.1 and 6.2) from the Product Requirements page.
+
+- User-Interface Connections
+
+This subsystem provides a virtual interface in the form of a non-physical switch which is automatically activated as a user approaches the door. It also has an LED which will inform the user of whether the system is in a normal operating state or there is an obstacle detected.
 
 ### Flex Sensor
 
@@ -73,7 +81,7 @@ The rotary encoder provides feedback regarding the position and movement of the 
 
 This subsystem provides support to the project's primary requirement of accurate and reliable motion control. The rotary encoder allows the motor to respond appropriately to positional feedback, preventing irregular operations. It also contributes to calibration and safety functions by confirming that the door returns to its resting position after each cycle. It would not be possible to achieve precision for smooth and dependable performance without it.
 
-- Interface Connections
+- User-Interface Connections
 
 The rotary encoder connects to the PIC18F57Q43 Curiosity Nano via two digital input channels (Channel A and Channel B). These outputs will be out of phase with each other by 90 degrees, allowing the microcontroller to detect direction and extent of rotation. This subsystem is also connected with the motor and flex sensor subsystems for the purpose of coordinated movement and the prevention of collisions. It also includes test points and labeled connectors for easy debugging and calibration during product testing.
 
