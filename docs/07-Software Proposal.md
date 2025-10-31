@@ -43,7 +43,7 @@ The flex sensor subsystem acts as the “muscle feedback” of the system. Its p
 If the Motor Subsystem enters pause mode due to this alert, the flex subsystem continues monitoring new readings. Once readings fall back within the safe range, it clears the alert and allows the motor to resume operation under MS control.
 
 ### **Rotary Encoder**
-The Rotary Encoder Subsystem software manages door position tracking and system calibration. The process begins at the initialization stage, where all encoder inputs are configured, and the system waits for the startup button to be pressed. This ensures that calibration only starts when the user or main controller signals readiness.
+The Rotary Encoder Subsystem manages door position tracking and system calibration. The process begins at the initialization stage, where all encoder inputs are configured, and the system waits for the startup button to be pressed. This ensures that calibration only starts when the user or main controller signals readiness.
 
 - Once the button is pressed, the subsystem starts the calibration process. During the calibration, the encoder defines reference points corresponding to the minimum and maximum angles of the door’s movement. These limits establish a range that will later be used to calculate and verify the door’s real time angle.
 
