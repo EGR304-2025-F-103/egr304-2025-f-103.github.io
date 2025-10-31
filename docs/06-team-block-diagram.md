@@ -8,7 +8,7 @@ The block diagram below shows how our team's individual subsystems connect to ea
 
 ## Block Diagram of Subsystems
 
-![Team103 Block Diagram](image/Team103_Block_Diagram.drawio.png)
+![Team 103 Block Diagram](image/Team103_Block_Diagram.drawio.png)
 
 This is the whole system where each subsystem is connected to another with an 8-wire ribbon cable. The motor is used as a bridge from the flex sensor and the rotary encoder during initial calibration. Every subsystem is then connected to the motor to feed and recieve information from its inputs and motion.
 
