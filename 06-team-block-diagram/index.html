@@ -860,11 +860,11 @@
 <ul>
 <li>Correlation to Requirements</li>
 </ul>
-<p>This subsystem uses the motor to open the door, stop the door, and is attached to the latch that will diengage the motor in case of emergencies. This is the focus on safety while the automatic door opener and closer is being used. </p>
+<p>This subsystem uses the motor to open the door, stop the door, and is attached to the latch that will diengage the motor in case of emergencies. This is the focus on safety while the automatic door opener and closer is being used.</p>
 <ul>
 <li>User-Interface Connections</li>
 </ul>
-<p>This subsystem has the potentiometer that will give the user the abitilty to manually slow down and speed up the door. This subsystem also has lights that will be labeled in the manual for when it is activated, moving, and stopped by something in the way. </p>
+<p>This subsystem has the potentiometer that will give the user the abitilty to manually slow down and speed up the door. This subsystem also has lights that will be labeled in the manual for when it is activated, moving, and stopped by something in the way.</p>
 <h3 id="ir-sensors">IR Sensors</h3>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/Distance_Sensing%20Subsystem%20Block%20Diagram.drawio.png" data-desc-position="bottom"><img alt="IR Sensor Subsystem Block Diagram" src="../image/Distance_Sensing%20Subsystem%20Block%20Diagram.drawio.png"></a></p>
 <p>Link to Draw.io is <a href="../Documents/Distance_Sensing%20Subsystem%20Block%20Diagram.drawio">here</a>.</p>
@@ -889,6 +889,15 @@
 <li>Importance:</li>
 </ul>
 <p>This subsystem is responsible for reading data from a flex sensor and communicating with the motor subsystem to control movement based on the sensor’s readings. At several points along the path of the door, the subsystem is checking that the amount of flex from the doorframe to the door matches up with the rotational angle of the door.</p>
+<ul>
+<li>Correlation to Requirements</li>
+</ul>
+<p>This subsystem receives real-time data from the rotary encoder to determine whether the door is rotating as expected. It then compares this information with the flex-sensor readings to decide if the door should be stopped for safety reasons or due to a power loss or mechanical detachment between the motor and the door.</p>
+<p>By continuously comparing the rotation pattern of the motor (rotary encoder) with the actual movement of the door (flex sensor), the system can detect abnormal conditions—such as an obstruction in the door’s path. In such cases, the slope or rate of change in the sensor signals will no longer match, allowing the subsystem to immediately trigger a stop signal and prevent damage or injury.</p>
+<ul>
+<li>User-Interface Connections</li>
+</ul>
+<p>The motor is controlled through this subsystem, which continuously compares the slope of the rotary encoder signal with that of the flex sensor. If the two signals no longer align—indicating a possible obstruction, detachment, or unsafe condition—the subsystem instantly issues a stop command to the motor to ensure safety and prevent mechanical failure.</p>
 <h3 id="rotary-encoder">Rotary Encoder</h3>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/Individual%20Rotary%20sensor%20Subsystem%20for%20team.png" data-desc-position="bottom"><img alt="Rotary Encoder Subsystem Block Diagram" src="../image/Individual%20Rotary%20sensor%20Subsystem%20for%20team.png"></a></p>
 <p>Link to Draw.io is <a href="https://drive.google.com/file/d/13LKkwTJjgqqxmauylCVNC0H4SzO0dGRc/view?usp=sharing">here</a>.</p>
