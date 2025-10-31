@@ -35,7 +35,7 @@ This subsystem has the potentiometer that will give the user the abitilty to man
 
 ### IR Sensors
 
-![IR Sensor Subsystem Block Diagram](image/Distance%20Sensors%20Subsystem%20Block%20Diagram.drawio.png)
+![IR Sensor Subsystem Block Diagram](image/Distance_Sensing%20Subsystem%20Block%20Diagram.drawio.png)
 
 Link to Draw.io is [here](Documents/Distance_Sensing%20Subsystem%20Block%20Diagram.drawio).
 
