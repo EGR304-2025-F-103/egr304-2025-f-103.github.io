@@ -21,9 +21,15 @@ The motor is the brains of the door. It will take each sensor's information in 1
 
 After the initial calibration, the motor will stay on waiting for a input from one of the IR sensors. Once it gets that input it will start moving based on which IR sensor gave it the input. Once moving, the motor will give each sensor a 1/0 that activates their loops. The motor then constantly waits to see if there is a different input given that would tell it to stop or move in the opposite direction. This constinues until the door is fully closed. 
 
-### **IR Sensor** 
+### **IR Distance Sensors** 
 
+The distance sensing subsystem is the equivalent of eyes for the system. It is crucial to basic functioning of the system and also the main line of defense in terms of preventative safety measures. It checks it's analog values against the analog values of the rotary encoder subsystem(RES) and sends a binary signal to the motor subsytem(MS) based on the results.
 
+* Upon initial powering of the product, the subsystem waits for a signal from the RES to begin calibration. During calibration, it receives analog values from the RES as the door opens/closes and creates an array of these values matching to the IR detectors' own analog values. The subsystem then goes into "standby mode".
+
+* In "standby mode" the subsystem is checking if the array of values has any discrepancies (there is someone approaching the sensor) and also if the calibration signal is being received. If the calibration signal is received, the subsystem clears the arrays and repeats calibration. If there are array discrepancies, the subsystem goes into "activation mode".
+
+* During "activation mode", the subsystem sends a digital activation signal telling the MS to begin opening the door. The subsystem then continues checking for array value discrepancies (something unexpected is in the path of the door). If discrepancies are found at any point, the subsystem sends a digital alert signal to the MS telling it to stop movement until the discrepancies are resolved, at which point it resumes "activation mode". If no discrepancies are found, the subsystem sends no signals externally as the door opens and closes, then returns to "standby mode".
 
 ### **Flex Sensor** 
 
