@@ -899,6 +899,30 @@
 </ul>
 <p>If the Motor Subsystem enters pause mode due to this alert, the flex subsystem continues monitoring new readings. Once readings fall back within the safe range, it clears the alert and allows the motor to resume operation under MS control.</p>
 <h3 id="rotary-encoder"><strong>Rotary Encoder</strong></h3>
+<p>The Rotary Encoder Subsystem software manages door position tracking and system calibration. The process begins at the initialization stage, where all encoder inputs are configured, and the system waits for the startup button to be pressed. This ensures that calibration only starts when the user or main controller signals readiness.</p>
+<ul>
+<li>
+<p>Once the button is pressed, the subsystem starts the calibration process. During the calibration, the encoder defines reference points corresponding to the minimum and maximum angles of the door’s movement. These limits establish a range that will later be used to calculate and verify the door’s real time angle.</p>
+</li>
+<li>
+<p>After the calibration, the subsystem continuously reads the signals from Channel A and Channel B of the rotary encoder. These two signals are 90° out of phase, which allows the software to determine both direction (opening or closing) and movement (whether the door is in motion).</p>
+</li>
+<li>
+<p>If the door is detected as moving, the subsystem increments or decrements the internal counter depending on the direction, effectively tracking the door’s current position in encoder counts. This count is then converted into an angle (θ) that represents the door’s exact position.</p>
+</li>
+<li>
+<p>The software then checks if θ is outside the established calibration limits.</p>
+<ul>
+<li>If θ &lt;= minimum angle, the door closed flag is activated.</li>
+<li>If θ &gt;= maximum angle, the door open flag is activated.</li>
+<li>If θ is within range, both flags are cleared.</li>
+</ul>
+</li>
+<li>
+<p>Once the status is determined, the subsystem sends both the door status flags and the calculated θ value to the Motor Subsystem. This allows the motor control logic to know exactly where the door is and when to stop movement for safety or accuracy.</p>
+</li>
+</ul>
+<p>Finally the process loops allowing continuous monitoring as long as the system remains active. The Continue Running decision ensures that the subsystem can safely exit or re-enter calibration as needed during testing.</p>
 <h2 id="summary">Summary</h2>
 <p>Each software subsystem had two requirements to ensure safety to the user. The subsystems had to wait for calibration and the subsystems had to listen and respond to the motor. The calibration is lead by the rotary sensor where it sends signals to the flex sensor and IR sensors. This signal is sent every 10 degrees. After each signal, all sensors, including the encoder, record analog signal and store it as a variable. This will happen until the rotary encoder reached 90 degrees. When the door opens and closes, at each degree change the sensors will confirm that their current position is similar to the position from the calibration.</p>
 <p>Next, the sensing of object infront or behind the door. The IR sensors will read if there is a user on either side of the door. If there is, the IR sensor will send a signal to the motor. The motor then takes that signal and starts to open the door. If there is something in the way, the IR sensor will see it and send another signal to the motor. If the IR sensor does not read it, the flex sensor will read that it is flexing but that the flex is too much or too little for free motion of the door and send a signal to the door. If either parts of this happen the motor will then stop and wait for further instruction. Depending on the instruction, the door will move back to its previous position or continue to open. This works while it is trying to close as well.</p>
