@@ -114,3 +114,12 @@ The new product design will be an automatic door opener and closer with the foll
 - Can we improve the speed or force of the door opener for heavier doors?
 - Can we make the Auto Door lighter weight to help with installation and shipping?
 - Do looks and color affect customer's intrest in the product?
+
+## Summary
+
+In conclusion, Safety is the most important part of the product. This means that there should always be a measure of safety and redundancy while looking at the product. The major requirements that this automatic door opener will have is: 
+
+* The product will open when detecting somone nearby
+* The product will stop if there is someone in the way of the door
+* The product will have a switch to disengage the motor in case of emergencies
+* The product will be continually powered by an outlet
