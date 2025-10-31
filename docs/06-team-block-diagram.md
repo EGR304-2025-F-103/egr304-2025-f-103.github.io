@@ -26,12 +26,11 @@ This subsystem is the main brain of the Automatic Door Opener. The motor takes i
 
 - Correlation to Requirements
 
-This subsystem uses the motor to open the door, stop the door, and is attached to the latch that will diengage the motor in case of emergencies. This is the focus on safety while the automatic door opener and closer is being used. 
+This subsystem uses the motor to open the door, stop the door, and is attached to the latch that will diengage the motor in case of emergencies. This is the focus on safety while the automatic door opener and closer is being used.
 
 - User-Interface Connections
 
-This subsystem has the potentiometer that will give the user the abitilty to manually slow down and speed up the door. This subsystem also has lights that will be labeled in the manual for when it is activated, moving, and stopped by something in the way. 
-
+This subsystem has the potentiometer that will give the user the abitilty to manually slow down and speed up the door. This subsystem also has lights that will be labeled in the manual for when it is activated, moving, and stopped by something in the way.
 
 ### IR Sensors
 
@@ -64,6 +63,16 @@ Link to subsystem website is [here](https://lakshanandsugumar.github.io/lakshtes
 - Importance:
 
 This subsystem is responsible for reading data from a flex sensor and communicating with the motor subsystem to control movement based on the sensor’s readings. At several points along the path of the door, the subsystem is checking that the amount of flex from the doorframe to the door matches up with the rotational angle of the door.
+
+- Correlation to Requirements
+
+This subsystem receives real-time data from the rotary encoder to determine whether the door is rotating as expected. It then compares this information with the flex-sensor readings to decide if the door should be stopped for safety reasons or due to a power loss or mechanical detachment between the motor and the door.
+
+By continuously comparing the rotation pattern of the motor (rotary encoder) with the actual movement of the door (flex sensor), the system can detect abnormal conditions—such as an obstruction in the door’s path. In such cases, the slope or rate of change in the sensor signals will no longer match, allowing the subsystem to immediately trigger a stop signal and prevent damage or injury.
+
+- User-Interface Connections
+
+The motor is controlled through this subsystem, which continuously compares the slope of the rotary encoder signal with that of the flex sensor. If the two signals no longer align—indicating a possible obstruction, detachment, or unsafe condition—the subsystem instantly issues a stop command to the motor to ensure safety and prevent mechanical failure.
 
 ### Rotary Encoder
 
