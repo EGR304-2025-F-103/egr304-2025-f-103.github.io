@@ -91,8 +91,9 @@ The rotary encoder provides feedback regarding the position and movement of the 
 This subsystem provides support to the project's primary requirement of accurate and reliable motion control. The rotary encoder allows the motor to respond appropriately to positional feedback, preventing irregular operations. It also contributes to calibration and safety functions by confirming that the door returns to its resting position after each cycle. It would not be possible to achieve precision for smooth and dependable performance without it.
 
 - User-Interface Connections
+This subsystem includes a setup button that allows the user to initiate calibration at startup. When pressed, the system begins aligning the rotary encoder’s position with the door’s physical limits setting the reference points for fully open and fully closed positions.
 
-The rotary encoder connects to the PIC18F57Q43 Curiosity Nano via two digital input channels (Channel A and Channel B). These outputs will be out of phase with each other by 90 degrees, allowing the microcontroller to detect direction and extent of rotation. This subsystem is also connected with the motor and flex sensor subsystems for the purpose of coordinated movement and the prevention of collisions. It also includes test points and labeled connectors for easy debugging and calibration during product testing.
+During this process, the LED indicator provides visual feedback to confirm calibration status during setup and turning solid when calibration is complete. Beyond this stage, the subsystem runs automatically in the background and requires no more user interaction.
 
 ## Summary
 
