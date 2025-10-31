@@ -43,6 +43,23 @@ The flex sensor subsystem acts as the “muscle feedback” of the system. Its p
 If the Motor Subsystem enters pause mode due to this alert, the flex subsystem continues monitoring new readings. Once readings fall back within the safe range, it clears the alert and allows the motor to resume operation under MS control.
 
 ### **Rotary Encoder**
+The Rotary Encoder Subsystem software manages door position tracking and system calibration. The process begins at the initialization stage, where all encoder inputs are configured, and the system waits for the startup button to be pressed. This ensures that calibration only starts when the user or main controller signals readiness.
+
+- Once the button is pressed, the subsystem starts the calibration process. During the calibration, the encoder defines reference points corresponding to the minimum and maximum angles of the door’s movement. These limits establish a range that will later be used to calculate and verify the door’s real time angle.
+
+- After the calibration, the subsystem continuously reads the signals from Channel A and Channel B of the rotary encoder. These two signals are 90° out of phase, which allows the software to determine both direction (opening or closing) and movement (whether the door is in motion).
+
+- If the door is detected as moving, the subsystem increments or decrements the internal counter depending on the direction, effectively tracking the door’s current position in encoder counts. This count is then converted into an angle (θ) that represents the door’s exact position.
+
+- The software then checks if θ is outside the established calibration limits.
+
+    - If θ <= minimum angle, the door closed flag is activated.
+    - If θ >= maximum angle, the door open flag is activated.
+    - If θ is within range, both flags are cleared.
+
+- Once the status is determined, the subsystem sends both the door status flags and the calculated θ value to the Motor Subsystem. This allows the motor control logic to know exactly where the door is and when to stop movement for safety or accuracy.
+
+Finally the process loops allowing continuous monitoring as long as the system remains active. The Continue Running decision ensures that the subsystem can safely exit or re-enter calibration as needed during testing.
 
 ## Summary
 
