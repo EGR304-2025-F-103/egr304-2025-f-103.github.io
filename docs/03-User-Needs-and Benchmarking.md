@@ -203,222 +203,230 @@ Here is a list of 5 products and common positive and negative views on the produ
 |                                              | The product has simplified mounting components (**Latent**).     |
 |                                              | The product requires minimal extra tools for setup (**Latent**). |
 
+## Ranked User Needs (Individual-Level Ranking)
 
-## Needs Statements: 
+The ranking below applies a 1–5 importance score to each need:
 
-This next page is a list of grouped Needs Statements. To view the initial list of 101 statements, the groups that we created and categorized the needs in, and the ranking of the groups, visit the Appendix page "Appendix: User Needs". Below is the finalized group ranking with each statement listed within the group.
+- **5 = Critical** (high frequency, explicitly emphasized, or safety-critical)
+- **4 = High Importance**
+- **3 = Moderate Importance**
+- **2 = Low Importance**
+- **1 = Very Low Importance / rare mention**
 
+### Top 15 Cross-Product Needs (Highest Ranking Across All Reviews)
+
+1. **Reliability & Consistency** – 5
+2. **Safety / Obstacle Detection** – 5
+3. **Easy Installation & Clear Instructions** – 5
+4. **Compatibility with Existing Doors / Systems** – 4
+5. **Ease of Manual Override** – 4
+6. **Quiet, Smooth Operation** – 4
+7. **Affordability / Value for Price** – 4
+8. **Long-lasting Power / Battery** – 4
+9. **Adequate Opening/Closing Speed** – 4
+10. **Remote/App Control Convenience** – 4
+11. **Durable Materials** – 4
+12. **Clear User Programming / Simple UI** – 4
+13. **Non-invasive Installation** – 3
+14. **Integration with Pet Chips / Sensors** – 3
+15. **Energy Efficiency** – 3
+
+# 1. Need Identification & Evidence from Reviews
+
+This section summarizes the insights extracted from the five benchmarked products and identifies needs as **explicit** or **latent**.
+
+## 1.1 Explicit Needs Observed Repeatedly
+
+- Easy installation and clear instructions
+- Reliability / consistency of operation
+- Obstacle detection and safety retraction
+- Manual override capability
+- Affordable pricing
+- Long-lasting power or low energy use
+- Compatibility with Wi-Fi, apps, remotes, key fobs
+- Quiet operation
+- Sufficient torque / power to overcome resistance
+- Non-invasive installation
+- ADA-compliant operation
+
+## 1.2 Latent Needs Observed Repeatedly
+
+- Durable construction and long component life
+- Intuitive interfaces and easy user programming
+- Ability to detect pets or differentiate user types
+- Clear communication of product limitations
+- Support resources that reduce troubleshooting difficulty
+- Stable connectivity and software
+- Safety around children and animals
+
+## Needs Statements:
+
+This next section is a list of grouped Needs Statements. To view the initial list of 101 statements, the groups that we created and categorized the needs in, and the ranking of the groups, visit the Appendix page "Appendix: User Needs". Below is the finalized group ranking with each statement listed within the group.
 
 **Final Grouping and Ranking**
 
-1. Safety
+Each group retains your previous organizational structure but now includes **rank scores for each need**.
+
+# 1. Safety (Highest Priority Group)
+
+- The product will start opening before customer gets too close — **4**
+- The product will close if you do not enter the door — **3**
+- The product can alarm when the door is open — **2**
+- The product can check to see if there are objects in the way of the door — **5**
+- The product can disengage so that the door can be manually opened or closed — **4**
+- The product can open for animals — **3**
+- The product can stay closed around children — **4**
+- The product can be used while there is a fire — **5**
+- The product prevents the door from closing while users are walking through it — **5**
+- The product stops operation when sensing more resistance than usual — **5**
+- The product is ADA compliant — **5**
+- The product differentiates between humans and objects — **4**
+- The product distinguishes between adults and kids — **3**
+- The product detects if any external force is applied on the door — **4**
+- The product provides controlled access for security — **4**
+- The product distinguishes between intruders and authorized persons — **3**
+- The product can provide security and peace of mind — **3**
+- The product has obstacle detection and safety features — **5**
+- The product is able to work in case of a power outage — **4**
+
+---
+
+# 2. Ease of Use
+
+- The product is easily adjusted — **4**
+- The product works with WiFi — **4**
+- The product will start opening before customer gets too close — **4**
+- The product has an easy program interface — **4**
+- The product can be connected with an app with any OS — **4**
+- The product has a UI which is easy to understand/operate — **4**
+- The product is affordable — **4**
+- The product is consistent — **5**
+- The product does not interfere with manual opening of doors — **4**
+- The product’s most basic functioning requires little to no user programming — **4**
+
+---
+
+# 3. Installation
+
+- The product works with previous installations — **4**
+- The installation includes all tools needed — **5**
+- The product stays attached to the door without lasting damage — **3**
+- The product has 90° or 180° opening capability — **3**
+- The product can be used on different door surfaces — **4**
+- Products can be installed by those with no experience — **4**
+- The product has all installation tools to install right out of the box — **5**
+- The product can be installed by inexperienced users — **4**
+- The product works in lighter-duty applications — **3**
+- The product allows easy, non-invasive installation — **4**
+
+---
+
+# 4. Instructions
+
+- The product has easy installation instructions — **5**
+- The product comes with a user manual that is clear and not overly complicated — **5**
+- The product is intuitive to use/setup with minimal need for instructions — **4**
+- The product has a digital instructions set — **3**
+- The product has simple pieces for quick installation — **3**
+- The product has all tools needed for installation — **5**
+- The product has easy-to-follow instructions while remaining helpful — **5**
+- The product has a standardized method of installation — **4**
+
+---
+
+# 5. Quality
+
+- The product will stay attached to the door over extended periods — **4**
+- The product can withstand heavy use — **4**
+- The product allows the door to be opened with minimal effort — **4**
+- The product holds the door open for a sufficient amount of time — **4**
+- The product delivers long-lasting, dependable power — **5**
+- The product can provide better cost-benefit value — **4**
+
+---
+
+# 6. Power
+
+- The product does not require a large amount of power — **4**
+- The product is easy to supply power to — **4**
+- The product's mechanical properties are energy efficient — **3**
+- The product can have low-maintenance, long battery life — **4**
+- The product delivers long-lasting, dependable power — **5**
+- The product is able to work in case of a power outage — **4**
+
+---
+
+# 7. Connectivity
+
+- The product can unlock the door — **4**
+- The product can lock the door — **4**
+- The product can use other products’ buttons and key fobs — **4**
+- The product can reliably recognize microchips — **3**
+- The product can maintain stable software and connectivity — **4**
+- The product can be controlled remotely via app — **4**
+
+---
 
-        The product will start opening before customer gets too close
+# 8. Support
 
-        The product will close if you do not enter the door
+- The product has helpful customer support resources — **3**
+- The product's software is not prone to bugs — **4**
+- The product is easy to repair/debug if necessary — **3**
+- The product clearly states its functionality to users — **3**
+- The product has failsafes to prevent damage to its components — **4**
+- The product can provide responsive after-sales support — **3**
 
-        The product can alarm when the door is open
+---
 
-        The product can check to see if there are objects in the way of the door.
+# 9. Components
 
-        The product can disengage so that the door can be manually opened or closed
+- The materials are strong — **4**
+- The materials will last over 10 years — **4**
+- The product is lightweight — **3**
+- The product is sturdy — **4**
+- The product is made of quality materials — **4**
+- The product has weather and use prevention — **4**
+- The product can provide premium material quality — **4**
+- The product can have a durable build for long-term use — **4**
+- The product can be resistant to termites — **1**
+- The product can be easy to clean — **2**
 
-        The product can open for animals
+---
 
-        The product can stay closed around children
+# 10. Visual
 
-        The product can be used while there is a fire
+- The product can be painted — **2**
+- The product doesn't have any external wiring hanging — **3**
+- The product doesn't have any point edges — **4**
+- The product is comparable to high-end products — **3**
 
-        The product prevents the door from closing while users are walking through it.
+---
 
-        The product stops operation when sensing more resistance than usual.
+# 11. Program Customization
 
-        The product is ADA compliant
+- The product has an auto close feature — **4**
+- The product will close if you do not enter the door — **3**
+- The product can unlock the door — **4**
+- The product can lock the door — **4**
 
-        The product differentiate between humans and objects.
+---
 
-        The product distinguishes between adults and kids.
+# 12. Summary of Key Insights
 
-        The product detects if any external force is applied on the door.
+## What Users Care About Most
 
-        The product provides controlled access for security.
+- **Reliability & safety** are the biggest drivers of satisfaction.
+- **Installation difficulty** is the most common complaint.
+- **Ease of programming** strongly affects user experience.
+- **Quiet, smooth movement** affects perceived quality.
 
-        The product distinguishes between intruders and authorized persons.
+## Implications for Your Automatic Door Opener
 
-        The product can provide security and peace of mind.
+To meet user expectations, prioritize:
 
-        The product has obstacle detection and safety features 
-
-        The product is able to work in case of a power outage
-
-2. Ease of Use
-
-        The product is easily adjusted
-
-        The product works with WiFi
-
-        The product will start opening before customer gets too close
-
-        The product has an easy program interface
-
-        The product can be connected with an app with any OS. 
-
-        The product has a UI which is easy to understand/operate.
-
-        The product is affordable.
-
-        The product is consistent.
-
-        The product does not interfere with manual opening of doors.
-
-        The product’s most basic functioning requires little to no user programming.
-
-3. Installation
-
-        The product works with previous installations.
-
-        The installation will have all tools needed for the product to be installed.
-
-        The product stays attached to the door without lasting damage to the door.
-
-        The product has 90 or 180 degree openability.
-
-        The product can be used on different door surfaces.
-
-        Products are installed by those with no experience.
-
-        The product has all installation tools to install right out of the box.
-
-        The product can be installed by inexperienced users.
-
-        The product works in lighter-duty applications.
-
-        The product can allow easy, non-invasive installation.
-
-4. Instructions
-
-        The product has easy installation instructions.
-
-        The product comes with a user manual that is clear and not overly complicated.
-
-        The product is intuitive to use/setup with minimal need for instructions.
-
-        The product has digital instructions set.
-
-        The product has simple pieces for quick installation.
-
-        Product has all tools needed for installation.
-
-        The product has easy to follow instructions while remaining helpful.
-
-        The product has a standardized method of installation.
-
-5. Quality
-
-        The product will stay attached to the door over extended periods of time.
-
-        The product can withstand heavy use.
-
-        The product allows the door to be opened with minimal effort.
-
-        The product holds the door open for a sufficient amount of time.
-
-        The product delivers long-lasting, dependable power.
-
-        The product can provide better cost-benefit value.
-
-6. Power
-
-        The product does not require a large amount of power.
-
-        The product is easy to supply power to.
-
-        The product's mechanical properties are energy efficient.
-
-        The product can have low-maintenance, long battery life.
-
-        The product delivers long-lasting, dependable power.
-
-        The product is able to work in case of a power outage.
-
-7. Connectivity
-
-        The product can unlock the door.
-
-        The product can lock the door.
-
-        The product can use other products’ buttons and key fobs.
-
-        The product can reliably recognize microchips.
-
-        The product can maintain stable software and connectivity.
-
-        The product can be controlled remotely via app.
-
-8. Support
-
-        The product has helpful customer support resources.
-
-        The product's software is not prone to bugs.
-
-        The product is easy to repair/debug if necessary.
-
-        The product clearly states its functionality to users.
-
-        The product has failsafes to prevent damage to its components.
-
-        The product can provide responsive after-sales support.
-
-9. Components
-
-        The materials are strong.
-
-        The materials will last over 10 years.
-
-        The product is lightweight.
-
-        The product is sturdy.
-
-        The product is made of quality materials.
-
-        The product has weather and use prevention.
-
-        The product can provide premium material quality.
-
-        The product can have a durable build for long-term use.
-
-        The product can be resistant to termites.
-
-        The product can be easy to clean.
-
-10. Visual
-
-        The product can be painted.
-
-        The product doesn't have any external wiring hanging.
-
-        The product doesn't have any point edges.
-
-        The product is comparable to "high-end" products.
-
-        Program Customization
-
-        The product has an auto close feature.
-
-        The product will close if you do not enter the door.
-
-        The product can unlock the door.
-
-        The product can lock the door.
-
-11. Program Customization
-
-        The product has an auto close feature.
-
-        The product will close if you do not enter the door.
-
-        The product can unlock the door.
-
-        The product can lock the door.
-
-
+1. Robust **safety and obstacle detection**
+2. Extremely clear and simple **installation process**
+3. **Visual-first instructions** + digital guides
+4. **Durable, long-lasting materials**
+5. **Strong connectivity** (apps, remotes, WiFi)
+6. **Reliable support and troubleshooting resources**
