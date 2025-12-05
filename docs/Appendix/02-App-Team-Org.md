@@ -1,5 +1,5 @@
 ---
-title: "Appendix: Team Organization"
+title: "Appendix - Team Organization"
 tags:
   - tag1
   - tag2
