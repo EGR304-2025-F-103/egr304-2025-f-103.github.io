@@ -1,16 +1,16 @@
 ---
-title: Software Proposal
+title: Team Software Design
 ---
 
 ## Description
 
-The purpose of this page is to visualize the overall software process of each subsystem and how they will interact with each other. The diagram below is an Activity Diagram using UML (Unified Modeling Language) symbolism. The black circle is the start of each subsystem's process. The elongated oval-type shapes represent actions performed by the software. The diamond shapes represent decisions made in the software based on logic. Solid lines between shapes represent the flow inside each subsystem's software. Dashed lines represent information being shared between subsystems.
+The purpose of this page is to visualize the overall software process of each subsystem and how they will interact with each other. The diagram below is an Activity Diagram using UML (Unified Modeling Language) symbolism. The black circle is the start of each subsystem's process. The rounded-rectangle shapes represent actions performed by the software. The diamond shapes represent decisions made in the software based on logic. Solid lines between shapes represent the flow inside each subsystem's software. Dashed lines represent information being shared between subsystems.
 
 ## UML Activity Diagram
 
-![Software Diagram](<image/Team103SoftwareProposal.drawio%20(1).png>)
+![Software Diagram](<image/Team103SoftwareDesign.drawio.png>)
 
-<center> [Download .drawio file](Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio) </center>
+<center> [Download .drawio file](Documents/System_Program.drawio) </center>
 
 ## Software Connections
 
@@ -18,7 +18,7 @@ The purpose of this page is to visualize the overall software process of each su
 
 The motor is the brains of the door. It will take each sensor's information in 1/0 and with a combination of 1/0 will determine if it should move forwards, backwards, or stop.
 
-After the initial calibration, the motor will stay on waiting for a input from one of the IR sensors. Once it gets that input it will start moving based on which IR sensor gave it the input. Once moving, the motor will give each sensor a 1/0 that activates their loops. The motor then constantly waits to see if there is a different input given that would tell it to stop or move in the opposite direction. This constinues until the door is fully closed.
+After the initial calibration, the motor will stay on waiting for a input from one of the IR sensors. Once it gets that input it will start moving based on which IR sensor gave it the input. Once moving, the motor will give each sensor a 1/0 that activates their loops. The motor then constantly waits to see if there is a different input given that would tell it to stop or move in the opposite direction. This continues until the door is fully closed.
 
 ### **IR Distance Sensors**
 
