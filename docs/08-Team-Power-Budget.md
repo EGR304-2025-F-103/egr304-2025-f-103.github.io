@@ -21,7 +21,7 @@ This page shows the power budget for the major components involved in the circui
 
 ## Individual Power Budgets
 
-Motor Subsystem power budget:
+Motor Subsystem power budget:  
 ![Motor Power Budget](Power_Budget_Motor.png)
 
 ## Conclusions
