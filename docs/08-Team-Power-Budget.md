@@ -19,10 +19,14 @@ This page shows the power budget for the major components involved in the circui
 
 ![Team Power Budget 4](image/EGR%20304%20Team%20Power%20Budget%204.png)
 
+## Individual Power Budgets
+
+Motor Subsystem power budget:
+![Motor Power Budget](Power_Budget_Motor.png)
 
 ## Conclusions
 
-The Power Budget shows that, using the 12V wall power supply and 5V linear regulators, all of the team's components from each subsystem will be powered safely and with extra headroom for minor components.
+The Power Budget shows that, using the 12V wall power supply and 5V linear regulators, all of the team's components from each subsystem will be powered safely and with extra headroom for minor components. Each subsystem is powered together by one 12V power supply that is directly in the motor subsystem. 
 
 ## Resources
 
