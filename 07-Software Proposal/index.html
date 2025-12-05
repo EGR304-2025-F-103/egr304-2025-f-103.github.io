@@ -26,7 +26,7 @@
 
     
       
-        <title>Software Proposal - Team 103 Private-Use Door Automation</title>
+        <title>Team Software Design - Team 103 Private-Use Door Automation</title>
       
     
     
@@ -125,7 +125,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Software Proposal
+              Team Software Design
             
           </span>
         </div>
@@ -309,7 +309,7 @@
   
     
   
-  Software Proposal
+  Team Software Design
 
       </a>
     </li>
@@ -575,7 +575,7 @@
           
   
   <span class="md-ellipsis">
-    Software Proposal
+    Team Software Design
   </span>
   
 
@@ -586,7 +586,7 @@
         
   
   <span class="md-ellipsis">
-    Software Proposal
+    Team Software Design
   </span>
   
 
@@ -928,17 +928,17 @@
   
 
 
-  <h1>Software Proposal</h1>
+  <h1>Team Software Design</h1>
 
 <h2 id="description">Description</h2>
-<p>The purpose of this page is to visualize the overall software process of each subsystem and how they will interact with each other. The diagram below is an Activity Diagram using UML (Unified Modeling Language) symbolism. The black circle is the start of each subsystem's process. The elongated oval-type shapes represent actions performed by the software. The diamond shapes represent decisions made in the software based on logic. Solid lines between shapes represent the flow inside each subsystem's software. Dashed lines represent information being shared between subsystems.</p>
+<p>The purpose of this page is to visualize the overall software process of each subsystem and how they will interact with each other. The diagram below is an Activity Diagram using UML (Unified Modeling Language) symbolism. The black circle is the start of each subsystem's process. The rounded-rectangle shapes represent actions performed by the software. The diamond shapes represent decisions made in the software based on logic. Solid lines between shapes represent the flow inside each subsystem's software. Dashed lines represent information being shared between subsystems.</p>
 <h2 id="uml-activity-diagram">UML Activity Diagram</h2>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/Team103SoftwareProposal.drawio%20%281%29.png" data-desc-position="bottom"><img alt="Software Diagram" src="../image/Team103SoftwareProposal.drawio%20%281%29.png"></a></p>
-<p></p><center> <a href="../Documents/Private-Use%20Door%20Automation%20Software%20Actvity%20Diagram.drawio">Download .drawio file</a> </center><p></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/Team103SoftwareDesign.drawio.png" data-desc-position="bottom"><img alt="Software Diagram" src="../image/Team103SoftwareDesign.drawio.png"></a></p>
+<p></p><center> <a href="../Documents/System_Program.drawio">Download .drawio file</a> </center><p></p>
 <h2 id="software-connections">Software Connections</h2>
 <h3 id="motor"><strong>Motor</strong></h3>
 <p>The motor is the brains of the door. It will take each sensor's information in 1/0 and with a combination of 1/0 will determine if it should move forwards, backwards, or stop.</p>
-<p>After the initial calibration, the motor will stay on waiting for a input from one of the IR sensors. Once it gets that input it will start moving based on which IR sensor gave it the input. Once moving, the motor will give each sensor a 1/0 that activates their loops. The motor then constantly waits to see if there is a different input given that would tell it to stop or move in the opposite direction. This constinues until the door is fully closed.</p>
+<p>After the initial calibration, the motor will stay on waiting for a input from one of the IR sensors. Once it gets that input it will start moving based on which IR sensor gave it the input. Once moving, the motor will give each sensor a 1/0 that activates their loops. The motor then constantly waits to see if there is a different input given that would tell it to stop or move in the opposite direction. This continues until the door is fully closed.</p>
 <h3 id="ir-distance-sensors"><strong>IR Distance Sensors</strong></h3>
 <p>The distance sensing subsystem is the equivalent of eyes for the system. It is crucial to basic functioning of the system and also the main line of defense in terms of preventative safety measures. It checks it's analog values against the analog values of the rotary encoder subsystem(RES) and sends a binary signal to the motor subsytem(MS) based on the results.</p>
 <ul>
