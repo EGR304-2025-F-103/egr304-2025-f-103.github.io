@@ -1,5 +1,5 @@
 ---
-title: Appendix - Limitations and Future
+title: "Appendix - Limitations and Future"
 ---
 
 ## Limitations
