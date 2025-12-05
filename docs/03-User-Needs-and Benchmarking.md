@@ -267,7 +267,7 @@ This next section is a list of grouped Needs Statements. To view the initial lis
 
 Each group retains your previous organizational structure but now includes **rank scores for each need**.
 
-# Safety (Highest Priority Group)
+# Safety
 
 - The product will start opening before customer gets too close — **4**
 - The product will close if you do not enter the door — **3**
