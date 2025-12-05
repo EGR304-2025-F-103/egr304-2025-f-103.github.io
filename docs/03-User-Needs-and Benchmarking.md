@@ -231,11 +231,11 @@ The ranking below applies a 1–5 importance score to each need:
 14. **Integration with Pet Chips / Sensors** – 3
 15. **Energy Efficiency** – 3
 
-# 1. Need Identification & Evidence from Reviews
+# Need Identification & Evidence from Reviews
 
 This section summarizes the insights extracted from the five benchmarked products and identifies needs as **explicit** or **latent**.
 
-## 1.1 Explicit Needs Observed Repeatedly
+## Explicit Needs Observed Repeatedly
 
 - Easy installation and clear instructions
 - Reliability / consistency of operation
@@ -249,7 +249,7 @@ This section summarizes the insights extracted from the five benchmarked product
 - Non-invasive installation
 - ADA-compliant operation
 
-## 1.2 Latent Needs Observed Repeatedly
+## Latent Needs Observed Repeatedly
 
 - Durable construction and long component life
 - Intuitive interfaces and easy user programming
@@ -267,7 +267,7 @@ This next section is a list of grouped Needs Statements. To view the initial lis
 
 Each group retains your previous organizational structure but now includes **rank scores for each need**.
 
-# 1. Safety (Highest Priority Group)
+# Safety (Highest Priority Group)
 
 - The product will start opening before customer gets too close — **4**
 - The product will close if you do not enter the door — **3**
@@ -291,7 +291,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 2. Ease of Use
+# Ease of Use
 
 - The product is easily adjusted — **4**
 - The product works with WiFi — **4**
@@ -306,7 +306,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 3. Installation
+# Installation
 
 - The product works with previous installations — **4**
 - The installation includes all tools needed — **5**
@@ -321,7 +321,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 4. Instructions
+# Instructions
 
 - The product has easy installation instructions — **5**
 - The product comes with a user manual that is clear and not overly complicated — **5**
@@ -334,7 +334,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 5. Quality
+# Quality
 
 - The product will stay attached to the door over extended periods — **4**
 - The product can withstand heavy use — **4**
@@ -345,7 +345,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 6. Power
+# Power
 
 - The product does not require a large amount of power — **4**
 - The product is easy to supply power to — **4**
@@ -356,7 +356,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 7. Connectivity
+# Connectivity
 
 - The product can unlock the door — **4**
 - The product can lock the door — **4**
@@ -367,7 +367,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 8. Support
+# Support
 
 - The product has helpful customer support resources — **3**
 - The product's software is not prone to bugs — **4**
@@ -378,7 +378,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 9. Components
+# Components
 
 - The materials are strong — **4**
 - The materials will last over 10 years — **4**
@@ -393,7 +393,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 10. Visual
+# Visual
 
 - The product can be painted — **2**
 - The product doesn't have any external wiring hanging — **3**
@@ -402,7 +402,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 11. Program Customization
+# Program Customization
 
 - The product has an auto close feature — **4**
 - The product will close if you do not enter the door — **3**
@@ -411,7 +411,7 @@ Each group retains your previous organizational structure but now includes **ran
 
 ---
 
-# 12. Summary of Key Insights
+# Summary of Key Insights
 
 ## What Users Care About Most
 
