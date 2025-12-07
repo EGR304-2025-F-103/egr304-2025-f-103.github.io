@@ -76,7 +76,7 @@ The motor is controlled through this subsystem, which continuously compares the 
 
 ### Rotary Encoder
 
-![Rotary Encoder Subsystem Block Diagram](<image/Individual Rotary sensor Subsystem for team.png>)
+![Rotary Encoder Subsystem Block Diagram](<image/rotary-encoder-block-diagram.png>)
 
 Link to Draw.io is [here](https://drive.google.com/file/d/13LKkwTJjgqqxmauylCVNC0H4SzO0dGRc/view?usp=sharing).
 
