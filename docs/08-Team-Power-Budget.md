@@ -22,7 +22,19 @@ This page shows the power budget for the major components involved in the circui
 ## Individual Power Budgets
 
 Motor Subsystem power budget:  
-![Motor Power Budget](Power_Budget_Motor.png)
+![Motor Power Budget](image/Power_Budget_Motor.png)
+
+
+Distance-Sensing Subsystem power budget:
+![Distance-Sensing Subsystem Power Budget](image/Distance_Sensing_Subsystem_PowerBudget.png)
+
+
+Flex Sensor Subsystem power budget:
+
+
+Rotary Encoder Subsystem power budget:
+
+
 
 ## Conclusions
 
