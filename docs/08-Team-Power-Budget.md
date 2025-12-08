@@ -33,6 +33,7 @@ Flex Sensor Subsystem power budget:
 
 
 Rotary Encoder Subsystem power budget:
+![Rotary Encoder Power Budget](image/Rotary-Encoder-PB.png)
 
 
 
