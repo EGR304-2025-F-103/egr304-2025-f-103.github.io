@@ -30,8 +30,9 @@ The function of the product is acheived through the combination of four embedded
 
 These four subsystems each play a vital role and communicate with each other in order to control the final product. Each subsystem was designed by an individual member of the team.
 
+<br>
 <center>
-The Subsystems Connected at the End of the Course
+**The Subsystems Connected at the End of the Course**
 
 ![Project Photo](image/EGR304ProjectPhoto.png)
 </center>

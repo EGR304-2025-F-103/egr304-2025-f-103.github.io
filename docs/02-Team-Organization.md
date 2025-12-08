@@ -16,4 +16,4 @@ tags:
 
 ## Additional Team Information
 
-For more detailed information about general team goals, coordination, roles, and rules, view [Appendix: Team Organization](https://egr304-2025-f-103.github.io/Appendix/App-Team-Org/).
+For more detailed information about general team goals, coordination, roles, and rules, view [Appendix: Team Organization](https://egr304-2025-f-103.github.io/Appendix/02-App-Team-Org/).
