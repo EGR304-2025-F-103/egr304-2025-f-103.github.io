@@ -9,13 +9,11 @@ tags:
 <font size="8">Private-Use Door Automation<br>
 <font size="5">Team 103<br>
 <font size="5">Isaac Smith, Christo Joseph, Seth Merwin, Lakshanand Sugumar<br>
-**Submission: October, 26, 2025**<br>
+**Submission: December 8, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University, **EGR 304**, Dr. Daniel M. Aukes<br>
 
 </center>
-
-![QR](image/qr.jpg)
 
 ## Team Introduction
 
@@ -32,6 +30,12 @@ The function of the product is acheived through the combination of four embedded
 
 These four subsystems each play a vital role and communicate with each other in order to control the final product. Each subsystem was designed by an individual member of the team.
 
+<center>
+The Subsystems Connected at the End of the Course
+
+![Project Photo](image/EGR304ProjectPhoto.png)
+</center>
+
 ## Overview
 
 This website exists as a documentation of the project from start to finish. By navigating through the different pages, our hope is that readers are able to fully understand how the idea came about, the purpose for the product to exist, the overall design process, and how the hardware/software of the individual subsystems come together to acheive the end-goal. Below is a short description of each page:
@@ -41,8 +45,11 @@ This website exists as a documentation of the project from start to finish. By n
 - To learn about stakeholders, specific goals, and product requirements, visit the ["Product Requirements" page.](https://egr304-2025-f-103.github.io/04-Product-Requirements/)
 - To see the team's process of generating solutions to product requirements, as well as some early concept models, visit the ["Design Ideation" page.](https://egr304-2025-f-103.github.io/05-design-ideation/)
 - To understand the hardware components of the individual subsystems and how they are connected to each other, visit the ["Team Block Diagram" page.](https://egr304-2025-f-103.github.io/06-team-block-diagram/)
-- To understand the software of each subsystem and how information is shared between them, visit the ["Software Proposal" page.](https://egr304-2025-f-103.github.io/07-Software%20Proposal/)
-- To view a breakdown of current draw from major components and how each subsystem receives power, visit the ["Team Power Budget" page.](https://egr304-2025-f-103.github.io/Team%20Power%20Budget/)
+- To understand the software of each subsystem and how information is shared between them, visit the ["Team Software Design" page.](https://egr304-2025-f-103.github.io/07-Software%20Proposal/)
+- To view a breakdown of current draw from major components and how each subsystem receives power, visit the ["Team Power Budget" page.](https://egr304-2025-f-103.github.io/08-Team-Power-Budget/)
+- To see a video of the physical system running, visit the ["Resources" page.](https://egr304-2025-f-103.github.io/09-Resources/)
+- To read a reflection of the project, visit the ["Reflection" page.](https://egr304-2025-f-103.github.io/10-Reflection/)
+- To find additional supporting information not included in the main pages, visit [the Appendix.](https://egr304-2025-f-103.github.io/Appendix/01-index/)
 
 ## Team Members Datasheet Links
 
