@@ -63,6 +63,39 @@ Finally the process loops allowing continuous monitoring as long as the system r
 
 ## Summary
 
-Each software subsystem had two requirements to ensure safety to the user. The subsystems had to wait for calibration and the subsystems had to listen and respond to the motor. The calibration is lead by the rotary sensor where it sends signals to the flex sensor and IR sensors. This signal is sent every 10 degrees. After each signal, all sensors, including the encoder, record analog signal and store it as a variable. This will happen until the rotary encoder reached 90 degrees. When the door opens and closes, at each degree change the sensors will confirm that their current position is similar to the position from the calibration.
+Each software subsystem has two main stages to ensure safety to the user. The subsystems have to undergo calibration, then during regular operation they must communicate with each other based on changes in their environment. The calibration is lead by the rotary encoder where it sends signals to the flex sensor and IR sensors. This signal is sent every 10 degrees. After each signal the sensors record analog data and store it as a variable. This happens until the rotary encoder reaches 90 degrees. When the door opens and closes, at each degree change the subsystems confirm that their current position is similar to the position from the calibration.
 
-Next, the sensing of object infront or behind the door. The IR sensors will read if there is a user on either side of the door. If there is, the IR sensor will send a signal to the motor. The motor then takes that signal and starts to open the door. If there is something in the way, the IR sensor will see it and send another signal to the motor. If the IR sensor does not read it, the flex sensor will read that it is flexing but that the flex is too much or too little for free motion of the door and send a signal to the door. If either parts of this happen the motor will then stop and wait for further instruction. Depending on the instruction, the door will move back to its previous position or continue to open. This works while it is trying to close as well.
+Next, the sensing of objects in front or behind the door. The IR sensors read if there is a user on either side of the door. If there is, the IR sensor sends a signal to the motor. The motor then takes that signal and starts to open the door. If there is something in the way, the IR sensors see it and send another signal to the motor. If the IR sensor does not see an obstacle, the flex sensor reads that it is flexing but that the flex is too much or too little for free motion of the door and sends a signal to the door. If either of these events happen the motor then stops and waits for further instruction. Depending on the instruction, the door moves back to its previous position or continues to open. This works while it is closing as well.
+
+This process allows the product to directly satisfy the following product requirements:
+- 2.1 - The product must open a door at least 90 degrees.
+- 2.2 - The sensor must spot a person at 3 feet and open within 1 second.
+- 3.1 - A first time user must be able to set it up in under 30 minutes.
+- 6.1 - The force for pushing or pulling upen interior swinging egress doors shall not exceed 5 pounds (22N).
+- 6.2 - The automatic door will not close if something is blocking the door frame.
+
+## Version 2.0
+
+If we were to create a new version of our software in the future, there are a few things that could be improved upon:
+
+### **Door Rotation Amount**
+
+Rather than have the door open 90 degrees no matter what, we could implement a feature for the door to open to a different amount based on environment/user preference. The first way to do this would be creating a user interface through which the user could specify the amount they would like the door to rotate during setup. The rotary encoder subsytem would store this value and set it as the "fully open" point for the whole system. The second option would be to add an additional line of code in the distance-sensing subsystem's calibration phase. This line would periodically check whether the distance to the wall on the opening face of the door was less than or equal to a certain value (e.g., 2 inches). If true, the subsystem would communicate this to the motor subsystem and rotary encoder subsystem. The motor would then stop and the rotary subsystem would set its current rotational value as the "fully open" point for the whole system.
+
+This feature would be useful because not every door opens to an exact right angle. It would allow users to have more customization of the product. It would also add safety to the product in case there was an object in between the door and the wall during calibration.
+
+### **Sensor Check Interval**
+
+For the current version of the software, we had the sensors store data at every 10 degrees of door rotation. This was for the sake of simplicity and to conserve processing power during the prototype version of our product. For the market product however, we would reduce this interval to as small as functionally possible in order to maximize the speed of reaction between sensing an obstacle and stopping the motor.
+
+As stated several times throughout this website, safety is our number one priority with this project and this improvement would lower the risk of someone/something being struck by the door.
+
+### **Door Close Delay**
+
+After fully opening, the software currently causes the door to begin closing immediately once nothing is seen by the distance-sensing subsystem on the closing face of the door. While this seems fine in practice, it could cause the door to begin closing too early if a second user is attempting to walk through the doorway. Although the system would then sense this person and stop the motor, the door might be partially closed at this point which would be inconvenient for the user. Additionally, users might prefer the door to stay open for a while in case they will be leaving the room soon after entering.
+
+One way to solve this would be to once again use a user interface during calibration which asks the user how long they would like the door to remain open before closing. This value would then be given to the motor subsystem which would store it and use it as a delay during normal operation. Another solution would be to have the door begin reopening if the sensor on the closing face of the door detects an obstacle while the door is closing.
+
+### **Conclusion**
+
+While the software in its current state provides the functionality we set out to create, these improvements would make the system even more ideal. The additional functionality would improve safety, customization, and convenience while likely making the product more competitive and profitable.

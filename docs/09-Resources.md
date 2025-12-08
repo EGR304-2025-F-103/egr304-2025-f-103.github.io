@@ -1,5 +1,5 @@
 ---
-title: Final State of Project
+title: Resources
 tags:
 - tag1
 - tag2
