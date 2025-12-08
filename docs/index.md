@@ -48,7 +48,7 @@ This website exists as a documentation of the project from start to finish. By n
 - To understand the hardware components of the individual subsystems and how they are connected to each other, visit the ["Team Block Diagram" page.](https://egr304-2025-f-103.github.io/06-team-block-diagram/)
 - To understand the software of each subsystem and how information is shared between them, visit the ["Team Software Design" page.](https://egr304-2025-f-103.github.io/07-Software%20Proposal/)
 - To view a breakdown of current draw from major components and how each subsystem receives power, visit the ["Team Power Budget" page.](https://egr304-2025-f-103.github.io/08-Team-Power-Budget/)
-- To see a video of the physical system running, visit the ["Final State of Project" page.](https://egr304-2025-f-103.github.io/09-Resources/)
+- To see a video of the physical system running, visit the ["Resources" page.](https://egr304-2025-f-103.github.io/09-Resources/)
 - To read a reflection of the project, visit the ["Reflection" page.](https://egr304-2025-f-103.github.io/10-Reflection/)
 - To find additional supporting information not included in the main pages, visit [the Appendix.](https://egr304-2025-f-103.github.io/Appendix/01-index/)
 
