@@ -1,8 +1,8 @@
 ---
 title: Team Power Budget
 tags:
-- tag1
-- tag2
+  - tag1
+  - tag2
 ---
 
 ## Description
@@ -24,22 +24,18 @@ This page shows the power budget for the major components involved in the circui
 Motor Subsystem power budget:  
 ![Motor Power Budget](image/Power_Budget_Motor.png)
 
-
 Distance-Sensing Subsystem power budget:
 ![Distance-Sensing Subsystem Power Budget](image/Distance_Sensing_Subsystem_PowerBudget.png)
 
-
 Flex Sensor Subsystem power budget:
-
+![Flex-Sensor Subsystem Power Budget](image/Power.png)
 
 Rotary Encoder Subsystem power budget:
 ![Rotary Encoder Power Budget](image/Rotary-Encoder-PB.png)
 
-
-
 ## Conclusions
 
-The Power Budget shows that, using the 12V wall power supply and 5V linear regulators, all of the team's components from each subsystem will be powered safely and with extra headroom for minor components. Each subsystem is powered together by one 12V power supply that is directly in the motor subsystem. 
+The Power Budget shows that, using the 12V wall power supply and 5V linear regulators, all of the team's components from each subsystem will be powered safely and with extra headroom for minor components. Each subsystem is powered together by one 12V power supply that is directly in the motor subsystem.
 
 ## Resources
 
