@@ -28,7 +28,7 @@ Distance-Sensing Subsystem power budget:
 ![Distance-Sensing Subsystem Power Budget](image/Distance_Sensing_Subsystem_PowerBudget.png)
 
 Flex Sensor Subsystem power budget:
-![Flex-Sensor Subsystem Power Budget](image/Power.png)
+![Flex-Sensor Subsystem Power Budget](image/power.png)
 
 Rotary Encoder Subsystem power budget:
 ![Rotary Encoder Power Budget](image/Rotary-Encoder-PB.png)
