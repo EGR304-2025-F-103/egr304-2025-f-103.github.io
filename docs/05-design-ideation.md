@@ -304,7 +304,7 @@ All of these behaviors can be implemented in an embedded controller that reads s
 
 #### Example storyboard (John’s grandmother)
 
-![StoryBoard](image/Storyboard-Johngrandmother.png)
+![StoryBoard](image/Improved%20Storyboard.png)
 
 In this storyboard we took the example of John’s grandmother. She is 78 years old and has difficulty opening and closing doors because she uses a cane and her vision is limited. When she approaches the door, sensors mounted on the frame detect her presence from a safe distance. The motor then activates, opening the door slowly and wide enough to ensure it doesn’t hit her or any nearby objects. As she walks through, the sensors remain active, keeping the door open until she has fully cleared the doorway. Once no more motion is detected, the motor closes the door gently.
 
